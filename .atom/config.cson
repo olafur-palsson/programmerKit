@@ -1,0 +1,18 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "purple-rain"
+    ]
+  editor:
+    fontFamily: "Olafur"
+    lineHeight: 1.7
+  "exception-reporting":
+    userId: "38aaffea-334a-41c5-9512-53189bc9c50c"
+  minimap:
+    plugins:
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  welcome:
+    showOnStartup: false

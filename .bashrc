@@ -148,6 +148,16 @@ alias addkey="sudo apt-key adv --keyserver pgp.mit.edu --recv-keys" # og svo F76
 
 alias sdkmanager="~/Downloads/android/tools/bin/sdkmanager"
 
+# Environment export
+backupAtom() {
+	apm list --installed --bare > ~/.genericFiles/atom/packages.list
+}
+
+setupAtom() {
+	apm install --packages-file packages.list
+}
+
+
 # Some python
 
 alias upgradepip3="pip3 list --outdated | cut -d ' ' -f1 | tail -n +3 | xargs pip3 install --upgrade"
