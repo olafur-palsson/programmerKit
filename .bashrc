@@ -148,8 +148,15 @@ alias addkey="sudo apt-key adv --keyserver pgp.mit.edu --recv-keys" # og svo F76
 
 alias sdkmanager="~/Downloads/android/tools/bin/sdkmanager"
 
+# Some python
+
 alias upgradepip3="pip3 list --outdated | cut -d ' ' -f1 | tail -n +3 | xargs pip3 install --upgrade"
 alias upgradepip="pip list --outdated | cut -d ' ' -f1 | tail -n +3 | xargs pip install --upgrade"
+
+
+#  Some java
+
+alias uninstalljava="sudo ~/.genericFiles/uninstallJava.sh
 
 newMavenProject() {
 	groupId="$1"
