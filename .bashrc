@@ -119,6 +119,10 @@ fi
 
 
 # CUSTOM SETTINGS
+
+
+# Folder shortcuts
+alias wwwroot='cd /var/www/html'
 alias cppfolder='cd ~/MEGA/_Skoli/c++'
 alias pythonfolder='cd ~/MEGA/_Skoli/python'
 alias uifolder='cd ~/MEGA/_Skoli/UI'
@@ -180,6 +184,8 @@ newMavenProject() {
 	cp "~/.genericFiles/pom.xml" $2
 }
 
+alias mvntest="mvn test -Dtest=*"
+
 
 # Git
 pushtomaster() {
@@ -193,4 +199,5 @@ pushtomaster() {
 	git commit -m "$1"
 	git push origin master
 }
+
 
