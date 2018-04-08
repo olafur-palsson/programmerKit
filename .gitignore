@@ -1,6 +1,7 @@
 *
+!.genericFiles/
 !.gitignore
 !.vimrc
 !.bashrc
-!.genericFiles/
+!.genericFiles/*
 

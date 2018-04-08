@@ -1,0 +1,95 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>search</groupId>
+  <artifactId>api</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <name>api</name>
+  <url>http://maven.apache.org</url>
+
+
+              <!-- Make it compile with JDK 8 -->
+
+
+  <properties>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
+
+
+              <!-- Build plugin, basic config according to maven -->
+
+
+  <build>
+    <plugins>
+
+
+              <!-- Test all classes with "Test" in the name -->
+
+
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>2.21.0</version>
+        <configuration>
+          <includes>
+            <include>Sample.java</include>
+          </includes>
+        </configuration>
+      </plugin>
+
+
+              <!-- Setup artifact output -->
+
+
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-dependency-plugin</artifactId>
+        <version>3.1.0</version>
+        <executions>
+          <execution>
+            <id>copy</id>
+            <phase>package</phase>
+            <goals>
+              <goal>copy</goal>
+            </goals>
+            <configuration>
+              <artifactItems>
+                <artifactItem>
+                  <groupId>[ groupId ]</groupId>
+                  <artifactId>[ artifactId ]</artifactId>
+                  <version>[ version ]</version>
+                  <type>[ packaging ]</type>
+                  <classifier> [classifier - optional] </classifier>
+                  <overWrite>[ true or false ]</overWrite>
+                  <outputDirectory>[ output directory ]</outputDirectory>
+                  <destFileName>[ filename ]</destFileName>
+                </artifactItem>
+              </artifactItems>
+              <!-- other configurations here -->
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+
+  <dependencies>
+
+
+              <!-- Dependencies: SCOPE                -->
+              <!-- test: available at test time       -->
+              <!-- compile: available at compile time -->
+              <!-- provided: available always         -->
+
+
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.12</version>
+      <scope>test</scope>
+    </dependency>
+
+  </dependencies>
+</project>
