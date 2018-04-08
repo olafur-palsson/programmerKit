@@ -150,11 +150,15 @@ alias sdkmanager="~/Downloads/android/tools/bin/sdkmanager"
 
 # Environment export
 backupAtom() {
-	apm list --installed --bare > ~/.genericFiles/atom/packages.list
+	touch ~/.atom/packages.list
+	apm list --installed --bare > ~/.atom/packages.list
+	echo "Done"
 }
 
 setupAtom() {
-	apm install --packages-file packages.list
+	sudo apt-get install atom
+	apm install --packages-file .atom/packages.list
+	echo "Done"
 }
 
 
@@ -166,7 +170,7 @@ alias upgradepip="pip list --outdated | cut -d ' ' -f1 | tail -n +3 | xargs pip 
 
 #  Some java
 
-alias uninstalljava="sudo ~/.genericFiles/uninstallJava.sh
+alias uninstalljava="sudo ~/.genericFiles/uninstallJava.sh"
 
 newMavenProject() {
 	groupId="$1"
@@ -176,4 +180,17 @@ newMavenProject() {
 	cp "~/.genericFiles/pom.xml" $2
 }
 
+
+# Git
+pushtomaster() {
+	if [ "$1" == "" ]
+	then
+		echo "No commit message"
+		return 1
+	fi
+
+	git add .
+	git commit -m "$1"
+	git push origin master
+}
 
