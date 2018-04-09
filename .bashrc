@@ -188,6 +188,8 @@ alias mvntest="mvn test -Dtest=*"
 
 
 # Git
+alias githardreset='git fetch --all; git reset --hard origin/master'
+
 pushtomaster() {
 	if [ "$1" == "" ]
 	then
