@@ -120,14 +120,14 @@ fi
 
 ## CUSTOM SETTINGS
 
-alias bashs="source ~/.bashrc"
+alias sobash="source ~/.bashrc"
 # Reload Bash Source
 
 ## SETUP TOOLS
 
 gen='~/.genericFiles/'
 setup=$gen'setupscripts/'
-alias setupall='cat '$setup ' | bash'
+alias setupall="cat $setup | bash"
 # Setup environment by executing all scripts in ~.genericFIles/setupScripts/
 
 alias setuptmux=$setup'tmuxsetup.sh'
@@ -185,11 +185,13 @@ alias update='sudo apt-get update; sudo apt-get upgrade -y'
 export PATH="/home/pimp-of-pimps/anaconda/bin:$PATH"
 # added by Anaconda 2.3.0 installer
 
-alias kjq="cat > ~/.clipboard; qjk | xclip -selection c"
+clipboard="~/.genericFiles/var/clipboard"
+
+alias kjq="cat > "$clipboard"; qjk | xclip -selection c"
 # Clipboard Copy
-alias qjk="cat ~/.clipboard"
+alias qjk="cat "$clipboard
 # Clipboard Paste
-alias v="head -1 ~/.clipboard"
+alias v="head -1 "$clipboard
 # Paste first line for inline command. Example $(v).
 
 #docker always sudo
@@ -275,7 +277,27 @@ pullurl() {
 	git pull origin master
 }
 
-$defaultGitBranch="master"
+defaultGitBranch="master"
+
+
+getdefaultbranch() {
+	defaultGitBranch=$(cat ./.defaultbranchname)
+}
+
+setpushdefault() {
+	echo $1 > ./.defaultbranchname
+}
+
+commit() {
+	if [ "$2" == "" ]
+	then
+		echo "No commit message"
+		return 1
+	fi
+
+	git add .
+	git commit -m "$1"
+}
 
 pushto() {
 	if [ "$1" == "" ]
@@ -284,26 +306,22 @@ pushto() {
 		return 1
 	fi
 
+	git add .
+	git commit -m "$2"
+	git checkout -b "$1"
+	git checkout "$1"
+	git push origin "$1"
+	setpushdefault $1
+}
+
+push() {
 	if [ "$2" == "" ]
 	then
 		echo "No commit message"
 		return 1
 	fi
 
-	git add .
-	git commit -m "$2"
-	git push origin "$1"
-}
-
-push() {
-	pushto $defaultBranch $1
-}
-
-pushtomaster() {
-	pushto "master" $1
-}
-
-setpushdefault() {
-	defaultBranch="$1"
+	getdefaultbranch
+	pushto $defaultGitBranch $1
 }
 
