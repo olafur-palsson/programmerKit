@@ -4,6 +4,10 @@
 
      # Reload Bash Source
 
+  help
+
+     # Get help documentation and uploads it to readme
+
 
 
 
@@ -192,7 +196,13 @@
 
  commit
 
+     # Commit with message $1
+
  pushto
 
+     # Push to brach $1 with message $2
+
  push
+
+     # Push to last pushed to branch with message as $1
 

@@ -123,6 +123,9 @@ fi
 alias sobash="source ~/.bashrc"
 # Reload Bash Source
 
+alias help="awk -f ~/.genericFiles/getdocumentation.awk ~/.bashrc > README.md; cat README.md"
+# Get help documentation and uploads it to readme
+
 ## Setup tools
 
 gen='~/.genericFiles/'
