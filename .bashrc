@@ -118,12 +118,12 @@ if ! shopt -oq posix; then
 fi
 
 
-## CUSTOM SETTINGS
+## CUSTOM SETTINGS <--- this is a trigger line for awk, don't change
 
 alias sobash="source ~/.bashrc"
 # Reload Bash Source
 
-## SETUP TOOLS
+## Setup tools
 
 gen='~/.genericFiles/'
 setup=$gen'setupscripts/'
@@ -149,7 +149,7 @@ setupAtom() {
 
 
 
-## SHORTCUTS
+## Shortcuts
 
 alias wwwroot='cd /var/www/html'
 # Go to apache server root
@@ -177,7 +177,7 @@ alias hotelsearchsrc='cd ~/projects/search/server/initial/src/main/'
 
 
 
-## TERMINAL TOOLS
+## Terminal tools
 
 alias update='sudo apt-get update; sudo apt-get upgrade -y'
 # Update and upgrade all
@@ -198,7 +198,7 @@ alias v="head -1 "$clipboard
 alias docker="sudo docker"
 
 
-## ERRORS FIXES
+## Errors fixes
 
 # apt-get update
 
@@ -207,7 +207,7 @@ alias addkey="sudo apt-key adv --keyserver pgp.mit.edu --recv-keys"
 # and then something like F76221572C52609D to solve 'NO_PUBKEY ...' Error during apt-get update
 
 
-## TMUX COMMANDS 
+## Tmux helper commands
 
 alias tmuxhelp="nvim ~/.genericFiles/tmux/tmuxa.md"
 	# Manual for Tmux
@@ -237,7 +237,7 @@ t() {
 alias tkillall="tmux ls | grep : | cut -d. -f1 | awk '{print substr($1, 0, length($1)-1)}' | xargs kill"
 # Kill all tmux sessions
 
-## SOME PYTHON TOOLS
+## Some python tools
 
 alias upgradepip3="pip3 list --outdated | cut -d ' ' -f1 | tail -n +3 | xargs pip3 install --upgrade"
 alias upgradepip2="pip list --outdated | cut -d ' ' -f1 | tail -n +3 | xargs pip install --upgrade"
@@ -248,7 +248,7 @@ upgradepip() {
 }
 
 
-## SOME JAVA TOOLS  
+## Some java tools
 
 alias uninstalljava="sudo ~/.genericFiles/uninstallJava.sh"
 # Uninstalls all of Java
@@ -266,7 +266,7 @@ alias mvntest="mvn test -Dtest=*"
 # Test all files in src/test/ with Maven
 
 
-## GIT
+## Git
 alias githardreset='git fetch --all; git reset --hard origin/master'
 # Force get the latest updates from master
 

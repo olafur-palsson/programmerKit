@@ -1,4 +1,4 @@
- #### SOME HELP DOCS
+ # Some help docs for this kit
 
   sobash
 
@@ -7,7 +7,7 @@
 
 
 
- ## SETUP TOOLS
+ ## Setup tools
 
   setupall
 
@@ -28,7 +28,7 @@
 
 
 
- ## SHORTCUTS
+ ## Shortcuts
 
   wwwroot
 
@@ -73,7 +73,7 @@
 
 
 
- ## TERMINAL TOOLS
+ ## Terminal tools
 
   update
 
@@ -100,7 +100,7 @@
 
 
 
- ## ERRORS FIXES
+ ## Errors fixes
 
      # apt-get update
 
@@ -113,7 +113,7 @@
 
 
 
- ## TMUX COMMANDS 
+ ## Tmux helper commands
 
   tmuxhelp
 
@@ -146,7 +146,7 @@
 
 
 
- ## SOME PYTHON TOOLS
+ ## Some python tools
 
   upgradepip3
 
@@ -159,7 +159,7 @@
 
 
 
- ## SOME JAVA TOOLS  
+ ## Some java tools
 
   uninstalljava
 
@@ -176,7 +176,7 @@
 
 
 
- ## GIT
+ ## Git
 
   githardreset
 

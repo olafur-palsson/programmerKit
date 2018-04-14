@@ -1,7 +1,7 @@
 BEGIN {
 	printnextline = 0
 	customsection = 0
-	print " #### SOME HELP DOCS"
+	print " # Some help docs for this kit"
 	print ""
 } {
 	if(customsection == 1) {
