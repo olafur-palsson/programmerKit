@@ -289,7 +289,7 @@ setpushdefault() {
 }
 
 commit() {
-	if [ "$2" == "" ]
+	if [ "$1" == "" ]
 	then
 		echo "No commit message"
 		return 1
@@ -306,8 +306,7 @@ pushto() {
 		return 1
 	fi
 
-	git add .
-	git commit -m "$2"
+	commit "$2"
 	git checkout -b "$1"
 	git checkout "$1"
 	git push origin "$1"
@@ -322,8 +321,7 @@ push() {
 	fi
 
 	getdefaultbranch
-	git add .
-	git commit -m "$1"
+	commit "$1"
 	git push origin "$defaultGitBranch"
 }
 
