@@ -289,7 +289,7 @@ setpushdefault() {
 }
 
 commit() {
-	if [ "$2" == "" ]
+	if [ "$1" == "" ]
 	then
 		echo "No commit message"
 		return 1
@@ -303,6 +303,12 @@ pushto() {
 	if [ "$1" == "" ]
 	then
 		echo "No branch name"
+		return 1
+	fi
+
+	if [ "$2" == "" ]
+	then
+		echo "No commit message"
 		return 1
 	fi
 
