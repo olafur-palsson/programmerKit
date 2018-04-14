@@ -315,7 +315,7 @@ pushto() {
 }
 
 push() {
-	if [ "$2" == "" ]
+	if [ "$1" == "" ]
 	then
 		echo "No commit message"
 		return 1
