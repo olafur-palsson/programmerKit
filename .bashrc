@@ -118,65 +118,141 @@ if ! shopt -oq posix; then
 fi
 
 
-# CUSTOM SETTINGS
+## CUSTOM SETTINGS
 
+alias bashs="source ~/.bashrc"
+# Reload Bash Source
 
-# Folder shortcuts
-alias wwwroot='cd /var/www/html'
-alias cppfolder='cd ~/MEGA/_Skoli/c++'
-alias pythonfolder='cd ~/MEGA/_Skoli/python'
-alias uifolder='cd ~/MEGA/_Skoli/UI'
-alias g++='g++ -std=c++17'
-alias hotelsearchjar='cd /home/pimp-of-pimps/projects/search/server/initial/build/libs/'
-alias hotelsearch='cd ~/projects/search'
-alias hotelsearchsrc='cd ~/projects/search/server/initial/src/main/'
-alias update='sudo apt-get update; sudo apt-get upgrade -y'
+## SETUP TOOLS
 
-# added by Anaconda 2.3.0 installer
-export PATH="/home/pimp-of-pimps/anaconda/bin:$PATH"
+gen='~/.genericFiles/'
+setup=$gen'setupscripts/'
+alias setupall='cat '$setup ' | bash'
+# Setup environment by executing all scripts in ~.genericFIles/setupScripts/
 
-#make a clipboard function
-alias kjq="cat > ~/.clipboard; qjk | xclip -selection c"
-alias qjk="cat ~/.clipboard"
-alias v="head -1 ~/.clipboard"
+alias setuptmux=$setup'tmuxsetup.sh'
+# Setup Tmux 
 
-#docker always sudo
-alias docker="sudo docker"
-
-# ERRORS
-
-# apt-get update
-# GPG error: https://apt.dockerproject.org/repo ubuntu-xenial InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY F76221572C52609D
-
-alias addkey="sudo apt-key adv --keyserver pgp.mit.edu --recv-keys" # og svo F76221572C52609D
-
-alias sdkmanager="~/Downloads/android/tools/bin/sdkmanager"
-
-# Environment export
 backupAtom() {
+# Backup atom package list
 	touch ~/.atom/packages.list
 	apm list --installed --bare > ~/.atom/packages.list
 	echo "Done"
 }
 
 setupAtom() {
+# Install atom package list
 	sudo apt-get install atom
 	apm install --packages-file .atom/packages.list
 	echo "Done"
 }
 
 
-# Some python
+
+## SHORTCUTS
+
+alias wwwroot='cd /var/www/html'
+# Go to apache server root
+alias sdkmanager="~/Downloads/android/tools/bin/sdkmanager"
+# Shortcut to Android SDK Manager
+alias server='ssh root@165.227.41.109'
+# DigitalOcean Personal Server
+
+
+alias cppfolder='cd ~/MEGA/_Skoli/c++'
+# Skolashortcut
+alias pythonfolder='cd ~/MEGA/_Skoli/python'
+# Skolashortcut
+alias uifolder='cd ~/MEGA/_Skoli/UI'
+# Skolashortcut
+alias g++='g++ -std=c++17'
+# Default Standard for C++ is 2017
+alias hotelsearchjar='cd /home/pimp-of-pimps/projects/search/server/initial/build/libs/'
+# Current Poject
+alias hotelsearch='cd ~/projects/search'
+# Current Poject
+alias hotelsearchsrc='cd ~/projects/search/server/initial/src/main/'
+# Current Poject
+
+
+
+
+## TERMINAL TOOLS
+
+alias update='sudo apt-get update; sudo apt-get upgrade -y'
+# Update and upgrade all
+
+export PATH="/home/pimp-of-pimps/anaconda/bin:$PATH"
+# added by Anaconda 2.3.0 installer
+
+alias kjq="cat > ~/.clipboard; qjk | xclip -selection c"
+# Clipboard Copy
+alias qjk="cat ~/.clipboard"
+# Clipboard Paste
+alias v="head -1 ~/.clipboard"
+# Paste first line for inline command. Example $(v).
+
+#docker always sudo
+alias docker="sudo docker"
+
+
+## ERRORS FIXES
+
+# apt-get update
+
+# GPG error: https://apt.dockerproject.org/repo ubuntu-xenial InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY F76221572C52609D
+alias addkey="sudo apt-key adv --keyserver pgp.mit.edu --recv-keys" 
+# and then something like F76221572C52609D to solve 'NO_PUBKEY ...' Error during apt-get update
+
+
+## TMUX COMMANDS 
+
+alias tmuxhelp="nvim ~/.genericFiles/tmux/tmuxa.md"
+	# Manual for Tmux
+alias tmuxhelpb="nvim ~/.genericFiles/tmux/tmuxb.md"
+	# Manual for Tmux, other
+alias tls="tmux ls"
+	# List al tmux sessions running
+
+tkill() { 
+# Kill session
+	name="$1"
+	tmux kill-session -t $name
+}
+
+tnew() { 
+# New session
+	name="$1"
+	tmux new -s $name
+}
+
+t() { 
+# Attach to session $1
+	name="$1"
+	tmux a -t $name
+}
+
+alias tkillall="tmux ls | grep : | cut -d. -f1 | awk '{print substr($1, 0, length($1)-1)}' | xargs kill"
+# Kill all tmux sessions
+
+## SOME PYTHON TOOLS
 
 alias upgradepip3="pip3 list --outdated | cut -d ' ' -f1 | tail -n +3 | xargs pip3 install --upgrade"
-alias upgradepip="pip list --outdated | cut -d ' ' -f1 | tail -n +3 | xargs pip install --upgrade"
+alias upgradepip2="pip list --outdated | cut -d ' ' -f1 | tail -n +3 | xargs pip install --upgrade"
+upgradepip() {
+	# Upgrade pip, use upgradepip2 or upgradepip3 to only upgrade those
+	upgradepip3
+	upgradepip2
+}
 
 
-#  Some java
+## SOME JAVA TOOLS  
 
 alias uninstalljava="sudo ~/.genericFiles/uninstallJava.sh"
+# Uninstalls all of Java
 
 newMavenProject() {
+# Make a new Maven project in current directory
 	groupId="$1"
 	artifactName="$2"
 
@@ -185,21 +261,49 @@ newMavenProject() {
 }
 
 alias mvntest="mvn test -Dtest=*"
+# Test all files in src/test/ with Maven
 
 
-# Git
+## GIT
 alias githardreset='git fetch --all; git reset --hard origin/master'
+# Force get the latest updates from master
 
-pushtomaster() {
+pullurl() {
+# Pull the url in $1
+	git init
+	git remote add origin "$1"
+	git pull origin master
+}
+
+$defaultGitBranch="master"
+
+pushto() {
 	if [ "$1" == "" ]
+	then
+		echo "No branch name"
+		return 1
+	fi
+
+	if [ "$2" == "" ]
 	then
 		echo "No commit message"
 		return 1
 	fi
 
 	git add .
-	git commit -m "$1"
-	git push origin master
+	git commit -m "$2"
+	git push origin "$1"
 }
 
+push() {
+	pushto $defaultBranch $1
+}
+
+pushtomaster() {
+	pushto "master" $1
+}
+
+setpushdefault() {
+	defaultBranch="$1"
+}
 
