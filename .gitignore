@@ -1,10 +1,10 @@
-*
+**
 
 !.genericFiles/
-!.genericFiles/*
+!.genericFiles/**
 
 !.settingsExport/
-!.settingsExport/*
+!.settingsExport/**
 
 !.atom/
 !.atom/*

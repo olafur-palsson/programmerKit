@@ -253,7 +253,7 @@ upgradepip() {
 alias uninstalljava="sudo ~/.genericFiles/uninstallJava.sh"
 # Uninstalls all of Java
 
-newMavenProject() {
+newmavenproject() {
 # Make a new Maven project in current directory
 	groupId="$1"
 	artifactName="$2"
