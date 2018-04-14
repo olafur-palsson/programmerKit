@@ -3,7 +3,8 @@ BEGIN {
 	customsection = 0
 	print " # Some help docs for this kit"
 	print ""
-	print "So basically this thing is for fast setup and a powerful terminal. Really useful for servers / when changing operating systems n shit."
+	print "#### So basically this thing is for fast setup and a powerful terminal. Really useful for servers / when changing operating systems n shit."
+	print ""
 	print "---"
 	print " # First things first"
 	print ""

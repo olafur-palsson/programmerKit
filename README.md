@@ -1,6 +1,7 @@
  # Some help docs for this kit
 
-So basically this thing is for fast setup and a powerful terminal. Really useful for servers / when changing operating systems n shit.
+#### So basically this thing is for fast setup and a powerful terminal. Really useful for servers / when changing operating systems n shit.
+
 ---
  # First things first
 
