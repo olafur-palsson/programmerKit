@@ -279,7 +279,6 @@ pullurl() {
 
 defaultGitBranch="master"
 
-
 getdefaultbranch() {
 	defaultGitBranch=$(cat ./.defaultbranchname)
 }
@@ -289,6 +288,7 @@ setpushdefault() {
 }
 
 commit() {
+# Commit with message $1
 	if [ "$1" == "" ]
 	then
 		echo "No commit message"
@@ -300,6 +300,7 @@ commit() {
 }
 
 pushto() {
+# Push to brach $1 with message $2
 	if [ "$1" == "" ]
 	then
 		echo "No branch name"
@@ -314,6 +315,7 @@ pushto() {
 }
 
 push() {
+# Push to last pushed to branch with message as $1
 	if [ "$1" == "" ]
 	then
 		echo "No commit message"
