@@ -108,9 +108,11 @@
 
  sedall
 
-     #docker always sudo
+     # Work in progress, I remember it was a good idea 
 
   docker
+
+     #docker always sudo
 
 
 
@@ -164,6 +166,8 @@
  ## Some python tools
 
   pybook
+
+  for 'jupyter notebook'
 
   upgradepip3
 
