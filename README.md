@@ -102,6 +102,12 @@
 
      # Paste first line for inline command. Example $(v).
 
+  sedpipe
+
+     # Use sed with the pipe like this 'ls * | sedpipe "s/replaceThis/withThis/"' or some other s command
+
+ sedall
+
      #docker always sudo
 
   docker
@@ -156,6 +162,8 @@
 
 
  ## Some python tools
+
+  pybook
 
   upgradepip3
 

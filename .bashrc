@@ -197,6 +197,21 @@ alias qjk="cat "$clipboard
 alias v="head -1 "$clipboard
 # Paste first line for inline command. Example $(v).
 
+alias sedpipe="xargs sed -i"$1
+# Use sed with the pipe like this 'ls * | sedpipe "s/replaceThis/withThis/"' or some other s command
+
+sedall() {
+	sedOption="$1"; shift
+	if [ "$sedOption" == "" ] 
+	then
+		echo "Sed s statement was empty, try again."
+		return 1
+	fi
+	while [ "$1" != "" ]; do
+		sed -i $sedOption $1; shift
+	done
+}
+
 #docker always sudo
 alias docker="sudo docker"
 
@@ -241,6 +256,8 @@ alias tkillall="tmux ls | grep : | cut -d. -f1 | awk '{print substr($1, 0, lengt
 # Kill all tmux sessions
 
 ## Some python tools
+
+alias pybook="jupyter notebook"
 
 alias upgradepip3="pip3 list --outdated | cut -d ' ' -f1 | tail -n +3 | xargs pip3 install --upgrade"
 alias upgradepip2="pip list --outdated | cut -d ' ' -f1 | tail -n +3 | xargs pip install --upgrade"
@@ -329,4 +346,3 @@ push() {
 	commit "$1"
 	git push origin "$defaultGitBranch"
 }
-

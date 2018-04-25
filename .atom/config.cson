@@ -10,7 +10,7 @@
     ]
   editor:
     fontFamily: "Olafur"
-    fontSize: 10
+    fontSize: 11
     lineHeight: 1.7
   "exception-reporting":
     userId: "38aaffea-334a-41c5-9512-53189bc9c50c"
