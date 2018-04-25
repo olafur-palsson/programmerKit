@@ -1,6 +1,7 @@
  # Some help docs for this kit
 
 #### So basically this thing is for fast setup and a powerful terminal. Really useful for servers / when changing operating systems n shit.
+#### If you want to add your own command and still use the help option, just put a '# something something' below your 'alias' or function declaration, examples are in .bashrc ofc.
 
 ---
  ## First things first
