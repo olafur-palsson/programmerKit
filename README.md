@@ -14,6 +14,10 @@
 
      # Get help documentation and uploads it to readme
 
+  'helpv'
+
+     # View the help docs in a vim viewer
+
 
 
 
