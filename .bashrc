@@ -126,6 +126,9 @@ alias sobash="source ~/.bashrc"
 alias help="awk -f ~/.genericFiles/getdocumentation.awk ~/.bashrc > README.md; cat README.md"
 # Get help documentation and uploads it to readme
 
+alias 'helpv'="help; view README.md"
+# View the help docs in a vim viewer
+
 ## Setup tools
 
 gen='~/.genericFiles/'
