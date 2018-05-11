@@ -1,0 +1,23 @@
+{
+   "background": {
+      "page": "background/index.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": "icons/icon48.png",
+      "default_title": "Focus"
+   },
+   "description": "Helps you focus on your work.",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkGEik5xrjJcWyulyKrTj7pSx40RWb+87HKk1xtxfMR78Mr+5W/vpGc6d+23KopumTOZ89ESXXv9aj7wjvm9jLKZG29GpNz5TbuLq17rDuWt/Grwv0cvwXDO/aL79cjmyC8uTNJITeOKmTne/s65gKgDq/XAdshRnKaFcEA+mIe784j1yt8YwvaifgaKAUOCU9k+NzrSOwQj96IWH1DMiKuxWkcNErH8VemsWnIbcjfQEHPii8qWSZUFZmGStSP9xS1cTwE1b+WYqFV4BSYwLL0RBisv0YLe07nwsnQw1tt9WYPSsgc4I4jqCgU56n2eRQNP24CH4ipX+eQwmDvcYfQIDAQAB",
+   "manifest_version": 2,
+   "name": "Focus",
+   "options_page": "main/settings.html",
+   "permissions": [ "tabs", "alarms", "storage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.4"
+}

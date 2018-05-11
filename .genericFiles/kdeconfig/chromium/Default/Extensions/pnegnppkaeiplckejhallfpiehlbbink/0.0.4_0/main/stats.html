@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Focus</title>
+
+    <link href="../vendor/pure/pure-min.css" rel="stylesheet">
+    <link href="../vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="header">
+      <div class="main-menu pure-menu pure-menu-horizontal">
+        <div class="container">
+          <a class="pure-menu-heading" href="">Focus</a>
+          <ul class="pure-menu-list">
+            <li class="pure-menu-item">
+              <a href="index.html" class="pure-menu-link"><i class="fa fa-tachometer"></i></a>
+            </li>
+            <li class="pure-menu-item pure-menu-selected">
+              <a href="stats.html" class="pure-menu-link"><i class="fa fa-area-chart"></i></a>
+            </li>
+            <li class="pure-menu-item">
+              <a href="settings.html" class="pure-menu-link"><i class="fa fa-cog"></i></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <h1 class="lead">Track Your Progress</h1>
+
+      <table class="pure-table pure-table-bordered full-width">
+        <tr>
+          <td class="th">Current Level</td>
+          <td><span id="current-level"></span></td>
+        </tr>
+        <tr>
+          <td class="th">Total Score</td>
+          <td><span id="total-score"></span></td>
+        </tr>
+        <tr>
+          <td class="th">Total Focused Sessions Completed</td>
+          <td><span id="total-sessions"></span></td>
+        </tr>
+        <tr>
+          <td class="th">Average Productivity</td>
+          <td class="stars"><span id="average-productivity"></span></td>
+        </tr>
+      </table>
+
+      <h2 class="lead">Past Focused Sessions</h2>
+
+      <table class="pure-table pure-table-striped full-width">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Time</th>
+            <th>Productivity</th>
+            <th>Score</th>
+          </tr>
+        </thead>
+        <tbody id="past-sessions-tbody">
+        </tbody>
+      </table>
+    </div>
+
+    <script type="text/javascript" src="../app.js"></script>
+    <script type="text/javascript" src="stats.js"></script>
+  </body>
+</html>

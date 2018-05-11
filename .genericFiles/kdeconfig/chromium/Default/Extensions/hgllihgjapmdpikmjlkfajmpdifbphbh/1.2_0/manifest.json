@@ -1,0 +1,24 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "mozrank-icon-19.png",
+         "38": "mozrank-icon-38.png"
+      },
+      "default_title": "Moz Rank"
+   },
+   "description": "This extension displays the Moz Rank for the current page",
+   "icons": {
+      "128": "mozrank-icon-128.png",
+      "16": "mozrank-icon-16.png",
+      "48": "mozrank-icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAscY3s9+p9/ZKTn4PU3fJB5cH1aySEiGsUlMjle7v7uBkUCmufik+YbgajS06orE3fKovlaK//kM7Wfq3RzBeTNzfH9RiOqfdWKBiO4Fzy9PMx3mIntEJylvhyG6mKdfi83aso9XrJAMlIdKUtml3ZycAWCA03g40vMnXwVoyUlLpRGUseO2lrAb5pfDuUSprmQm7m4WFrQ2GlRhRrTCpjbtsCU0DBxvsTS9ZG+PymX3i7VW4qaAnCUpgGhkHrGwX61a/2Y/HcJPEUZV5l+2j+LIHbzAroaDhcM5XOvOGdfqxjE+APmYffs3kXs9p9BEPxNVPqNZOOLe7byF5I6wowQIDAQAB",
+   "manifest_version": 2,
+   "name": "Moz Rank",
+   "permissions": [ "tabs", "https://moz.com/", "http://lsapi.seomoz.com/", "http://rank.trellian.com/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}

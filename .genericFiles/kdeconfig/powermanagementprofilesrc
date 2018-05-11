@@ -1,0 +1,7 @@
+[AC][HandleButtonEvents]
+lidAction=1
+powerButtonAction=0
+triggerLidActionWhenExternalMonitorPresent=false
+
+[migration]
+kdedShortcutMigration=true

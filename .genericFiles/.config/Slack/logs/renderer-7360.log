@@ -1,0 +1,157 @@
+[04/09/18, 21:13:50:445] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/09/18, 21:13:50:447] info: ║      Slack 3.1.1, linux 4.13.0-36-generic on x64 at 04/09/18, 21:13:50:436      ║
+[04/09/18, 21:13:50:447] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/09/18, 21:13:50:723] info: Initializing local storage instance at path: /home/pimp-of-pimps/.config/Slack/local-settings.json
+[04/09/18, 21:13:52:095] info: cld3::loadModule: loading cld3 module
+[04/09/18, 21:13:52:212] info: cld3Loader::loadModule: running environment is NODE
+[04/09/18, 21:13:52:213] info: cld3Loader::loadModule: constructed module object for runtime
+[04/09/18, 21:13:52:724] info: cld3Loader::initializeRuntime: successfully initialized module
+[04/09/18, 21:13:52:725] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[04/09/18, 21:13:52:733] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[04/09/18, 21:13:52:735] info: SSBIntegration: Main window preload script loaded 3061.813797
+[04/09/18, 21:13:59:786] info: Store: SELECT_CHANNEL C8TMARN2V
+[04/09/18, 21:13:59:790] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/09/18, 21:13:59:791] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[04/09/18, 21:13:59:813] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/09/18, 21:13:59:824] info: Store: MAIN_WINDOW_SHOWN
+[04/09/18, 21:14:00:021] info: Store: SET_FULL_SCREEN
+[04/09/18, 21:14:00:022] info: Store: SET_FULL_SCREEN
+[04/09/18, 21:14:00:022] info: Store: SET_FULL_SCREEN
+[04/09/18, 21:14:00:023] info: Store: SET_FULL_SCREEN
+[04/09/18, 21:14:00:023] info: Store: SET_FULL_SCREEN
+[04/09/18, 21:14:00:044] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T8U7NRKQU"
+}
+[04/09/18, 21:14:00:045] info: Store: SELECT_CHANNEL C9CRAPUAG
+[04/09/18, 21:14:00:045] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/09/18, 21:14:00:509] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/09/18, 21:14:00:511] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/09/18, 21:14:00:512] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/09/18, 21:14:00:513] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/09/18, 21:14:00:588] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T8U7NRKQU",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/09/18, 21:14:00:588] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9C6NUMBJ"
+}
+[04/09/18, 21:14:00:602] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/09/18, 21:14:00:605] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/09/18, 21:14:00:617] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9C6NUMBJ",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/09/18, 21:14:00:622] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T9C6NUMBJ",
+  "token": "xoxs-⋯"
+}
+[04/09/18, 21:14:00:645] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T9C6NUMBJ"
+}
+[04/09/18, 21:14:00:858] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T8U7NRKQU",
+  "token": "xoxs-⋯"
+}
+[04/09/18, 21:14:00:954] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T8U7NRKQU"
+}
+[04/09/18, 21:14:02:602] info: Raw Locale list: ["C","C.UTF-8","en_US.utf8","is_IS.utf8","POSIX",""]
+[04/09/18, 21:14:02:603] info: Filtered Locale list: ["en_US","is_IS"]
+[04/09/18, 21:14:02:603] info: Counts: {"en":["en_US"],"is":["is_IS"]}
+[04/09/18, 21:14:02:603] info: Setting en
+[04/09/18, 21:14:02:604] info: Setting is
+[04/09/18, 21:14:02:605] info: Result: {"en":"en-US","is":"is-IS"}
+[04/09/18, 21:14:02:608] info: Requesting to load is-IS, alternatives are ["is-IS","is-IS","is-IS"]
+[04/09/18, 21:14:02:610] info: Loading dictionary for language is-IS
+[04/09/18, 21:14:02:610] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/09/18, 21:14:02:614] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/09/18, 21:14:02:615] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/09/18, 21:14:03:774] info: Loading dictionary for language is-IS
+[04/09/18, 21:14:03:774] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/09/18, 21:14:03:775] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/09/18, 21:14:03:776] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/09/18, 21:14:03:897] info: Loading dictionary for language is-IS
+[04/09/18, 21:14:03:898] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/09/18, 21:14:03:901] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/09/18, 21:14:03:901] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/09/18, 21:14:04:020] info: dictionary for is-IS_is-IS is not available
+[04/09/18, 21:14:04:021] info: Actually installing spell check provider to Electron
+[04/09/18, 21:14:42:150] info: Unloading spellchecker
+[04/09/18, 21:14:42:154] info: Unloading spellchecker
+[04/09/18, 22:28:35:010] info: Store: SET_NETWORK_STATUS offline

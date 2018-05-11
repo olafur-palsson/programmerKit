@@ -132,7 +132,9 @@ alias 'helpv'="help; view README.md"
 ## Setup tools
 
 gen='~/.genericFiles/'
-setup=$gen'setupscripts/'
+setup=$gen'setupscripts/' 
+alias setupkde="cp -avr .genericFiles/.config/ ~"
+# Copies .config into homefolder, has kde settings in it
 alias setupall="cat $setup | bash"
 # Setup environment by executing all scripts in ~.genericFIles/setupScripts/
 

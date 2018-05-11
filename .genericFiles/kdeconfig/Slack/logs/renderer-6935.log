@@ -1,0 +1,231 @@
+[04/12/18, 20:58:57:710] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/12/18, 20:58:57:711] info: ║      Slack 3.1.1, linux 4.13.0-36-generic on x64 at 04/12/18, 20:58:57:706      ║
+[04/12/18, 20:58:57:712] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/12/18, 20:58:58:320] info: Initializing local storage instance at path: /home/pimp-of-pimps/.config/Slack/local-settings.json
+[04/12/18, 20:58:58:714] info: NetworkStatus: Waiting for network online…
+[04/12/18, 20:59:00:295] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/12/18, 20:59:00:702] info: Store: SET_NETWORK_STATUS online
+[04/12/18, 20:59:08:475] info: Store: SELECT_CHANNEL C8TJBPHEC
+[04/12/18, 20:59:08:486] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/12/18, 20:59:08:495] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[04/12/18, 20:59:09:225] info: Store: SELECT_CHANNEL C9CRAPUAG
+[04/12/18, 20:59:09:236] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/12/18, 20:59:09:285] info: Store: MAIN_WINDOW_SHOWN
+[04/12/18, 20:59:09:314] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/12/18, 20:59:09:325] info: Store: SET_FULL_SCREEN
+[04/12/18, 20:59:09:350] info: Store: SET_FULL_SCREEN
+[04/12/18, 20:59:09:361] info: Store: SET_FULL_SCREEN
+[04/12/18, 20:59:09:369] info: Store: SET_FULL_SCREEN
+[04/12/18, 20:59:09:375] info: Store: SET_FULL_SCREEN
+[04/12/18, 20:59:09:871] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T8U7NRKQU"
+}
+[04/12/18, 20:59:10:083] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/12/18, 20:59:10:109] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/12/18, 20:59:10:120] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/12/18, 20:59:10:245] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T8U7NRKQU",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/12/18, 20:59:10:326] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/12/18, 20:59:10:366] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9C6NUMBJ"
+}
+[04/12/18, 20:59:10:372] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/12/18, 20:59:10:376] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/12/18, 20:59:10:492] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9C6NUMBJ",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/12/18, 20:59:10:539] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T9C6NUMBJ",
+  "token": "xoxs-⋯"
+}
+[04/12/18, 20:59:10:763] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T8U7NRKQU",
+  "token": "xoxs-⋯"
+}
+[04/12/18, 20:59:10:800] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T8U7NRKQU"
+}
+[04/12/18, 20:59:11:015] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T9C6NUMBJ"
+}
+[04/12/18, 20:59:28:667] info: Store: SELECT_CHANNEL C8TJQJ1RN
+[04/12/18, 21:15:13:227] info: NetworkStatus: Waiting for network online…
+[04/12/18, 21:15:13:479] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/12/18, 21:17:12:486] info: NetworkStatus: Waiting for network online…
+[04/12/18, 21:17:12:620] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/12/18, 23:30:24:621] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    29
+  ],
+  "size": [
+    1920,
+    1051
+  ]
+}
+[04/12/18, 23:37:13:906] info: NetworkStatus: Waiting for network online…
+[04/12/18, 23:37:14:643] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/12/18, 23:41:14:238] info: NetworkStatus: Waiting for network online…
+[04/12/18, 23:41:15:006] info: Store: SET_NETWORK_STATUS offline
+[04/12/18, 23:41:15:212] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/12/18, 23:41:16:025] info: Store: SET_NETWORK_STATUS online
+[04/12/18, 23:41:16:035] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[04/13/18, 00:51:33:281] info: Store: FOREGROUND_APP
+[04/13/18, 00:51:33:360] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:51:33:375] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:51:33:405] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:51:33:409] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:51:33:412] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:51:34:326] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/13/18, 00:51:40:744] info: Store: SELECT_CHANNEL C8TMARN2V
+[04/13/18, 00:51:42:603] info: Store: SELECT_CHANNEL C8TJBPHEC
+[04/13/18, 00:52:59:314] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    29
+  ],
+  "size": [
+    1920,
+    1051
+  ]
+}
+[04/13/18, 00:53:10:934] info: Store: FOREGROUND_APP
+[04/13/18, 00:53:10:955] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:53:10:970] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:53:10:979] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:53:10:983] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:53:10:986] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:53:11:954] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/13/18, 00:54:31:661] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    29
+  ],
+  "size": [
+    1920,
+    1051
+  ]
+}
+[04/13/18, 00:54:36:996] info: Store: SET_NETWORK_STATUS offline

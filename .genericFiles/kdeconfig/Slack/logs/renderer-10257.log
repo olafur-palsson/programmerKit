@@ -1,0 +1,236 @@
+[04/10/18, 18:46:08:838] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/10/18, 18:46:08:839] info: ║      Slack 3.1.1, linux 4.13.0-36-generic on x64 at 04/10/18, 18:46:08:833      ║
+[04/10/18, 18:46:08:839] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/10/18, 18:46:09:274] info: Initializing local storage instance at path: /home/pimp-of-pimps/.config/Slack/local-settings.json
+[04/10/18, 18:46:09:645] info: NetworkStatus: Waiting for network online…
+[04/10/18, 18:46:10:932] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/10/18, 18:46:11:346] info: Store: SET_NETWORK_STATUS online
+[04/10/18, 18:46:18:444] info: Store: SELECT_CHANNEL C8TJQJ1RN
+[04/10/18, 18:46:18:452] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/10/18, 18:46:18:465] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[04/10/18, 18:46:18:556] info: Store: SELECT_CHANNEL C9CRAPUAG
+[04/10/18, 18:46:18:562] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/10/18, 18:46:19:093] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/10/18, 18:46:19:101] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/10/18, 18:46:19:110] info: Store: MAIN_WINDOW_SHOWN
+[04/10/18, 18:46:19:207] info: Store: SET_FULL_SCREEN
+[04/10/18, 18:46:19:216] info: Store: SET_FULL_SCREEN
+[04/10/18, 18:46:19:227] info: Store: SET_FULL_SCREEN
+[04/10/18, 18:46:19:231] info: Store: SET_FULL_SCREEN
+[04/10/18, 18:46:19:243] info: Store: SET_FULL_SCREEN
+[04/10/18, 18:46:19:384] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T8U7NRKQU"
+}
+[04/10/18, 18:46:19:402] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9C6NUMBJ"
+}
+[04/10/18, 18:46:19:434] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/10/18, 18:46:19:444] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/10/18, 18:46:19:607] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9C6NUMBJ",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/10/18, 18:46:19:629] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T9C6NUMBJ",
+  "token": "xoxs-⋯"
+}
+[04/10/18, 18:46:19:682] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T9C6NUMBJ"
+}
+[04/10/18, 18:46:20:184] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/10/18, 18:46:20:362] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/10/18, 18:46:20:368] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/10/18, 18:46:20:467] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T8U7NRKQU",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/10/18, 18:46:20:854] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T8U7NRKQU",
+  "token": "xoxs-⋯"
+}
+[04/10/18, 18:46:20:977] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T8U7NRKQU"
+}
+[04/10/18, 19:59:16:947] info: NetworkStatus: Waiting for network online…
+[04/10/18, 19:59:17:233] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/10/18, 20:01:14:202] info: NetworkStatus: Waiting for network online…
+[04/10/18, 20:01:14:338] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/10/18, 20:20:59:463] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    29
+  ],
+  "size": [
+    1920,
+    1051
+  ]
+}
+[04/10/18, 20:29:15:885] info: NetworkStatus: Waiting for network online…
+[04/10/18, 20:29:16:341] info: Store: SET_NETWORK_STATUS offline
+[04/10/18, 20:29:16:559] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/10/18, 20:29:17:349] info: Store: SET_NETWORK_STATUS online
+[04/10/18, 20:29:17:353] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[04/10/18, 20:39:15:043] info: NetworkStatus: Waiting for network online…
+[04/10/18, 20:39:15:619] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/10/18, 21:19:15:575] info: NetworkStatus: Waiting for network online…
+[04/10/18, 21:19:16:649] info: Store: SET_NETWORK_STATUS offline
+[04/10/18, 21:19:17:075] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/10/18, 21:19:18:339] info: Store: SET_NETWORK_STATUS online
+[04/10/18, 21:19:18:342] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[04/10/18, 21:21:16:912] info: NetworkStatus: Waiting for network online…
+[04/10/18, 21:21:17:341] info: Store: SET_NETWORK_STATUS offline
+[04/10/18, 21:21:17:479] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/10/18, 21:21:18:342] info: Store: SET_NETWORK_STATUS online
+[04/10/18, 21:21:18:346] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[04/10/18, 21:45:17:271] info: NetworkStatus: Waiting for network online…
+[04/10/18, 21:45:19:123] info: Store: SET_NETWORK_STATUS offline
+[04/10/18, 21:45:19:395] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/10/18, 21:45:20:339] info: Store: SET_NETWORK_STATUS online
+[04/10/18, 21:45:20:358] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[04/10/18, 22:03:55:622] info: Store: FOREGROUND_APP
+[04/10/18, 22:03:55:883] info: Store: SET_FULL_SCREEN
+[04/10/18, 22:03:55:886] info: Store: SET_FULL_SCREEN
+[04/10/18, 22:03:55:889] info: Store: SET_FULL_SCREEN
+[04/10/18, 22:03:55:893] info: Store: SET_FULL_SCREEN
+[04/10/18, 22:03:55:896] info: Store: SET_FULL_SCREEN
+[04/10/18, 22:03:56:826] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/10/18, 22:04:02:582] info: Store: SELECT_CHANNEL C8TMARN2V
+[04/10/18, 22:04:10:995] info: Store: SELECT_CHANNEL C8TJBPHEC
+[04/10/18, 22:04:18:299] info: Store: SELECT_CHANNEL C8TMARN2V
+[04/10/18, 22:04:22:151] info: Store: SELECT_CHANNEL C8TJBPHEC
+[04/10/18, 22:04:23:186] info: Store: SELECT_CHANNEL C8TJQJ1RN
+[04/10/18, 22:04:29:654] info: Store: SELECT_CHANNEL C8TJBPHEC
+[04/10/18, 22:05:08:538] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    29
+  ],
+  "size": [
+    1920,
+    1051
+  ]
+}
+[04/10/18, 22:05:37:534] info: NetworkStatus: Waiting for network online…
+[04/10/18, 22:05:38:339] info: Store: SET_NETWORK_STATUS offline
+[04/10/18, 22:05:40:604] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/10/18, 22:05:41:336] info: Store: SET_NETWORK_STATUS online
+[04/10/18, 22:05:41:343] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[04/10/18, 22:06:43:337] info: Store: SET_NETWORK_STATUS offline

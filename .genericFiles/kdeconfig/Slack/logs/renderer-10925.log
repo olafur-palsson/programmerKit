@@ -1,0 +1,107 @@
+[04/11/18, 22:46:35:928] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/11/18, 22:46:35:930] info: ║      Slack 3.1.1, linux 4.13.0-36-generic on x64 at 04/11/18, 22:46:35:922      ║
+[04/11/18, 22:46:35:930] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/11/18, 22:46:36:142] info: Initializing local storage instance at path: /home/pimp-of-pimps/.config/Slack/local-settings.json
+[04/11/18, 22:46:37:580] info: cld3::loadModule: loading cld3 module
+[04/11/18, 22:46:37:680] info: cld3Loader::loadModule: running environment is NODE
+[04/11/18, 22:46:37:681] info: cld3Loader::loadModule: constructed module object for runtime
+[04/11/18, 22:46:38:115] info: cld3Loader::initializeRuntime: successfully initialized module
+[04/11/18, 22:46:38:115] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[04/11/18, 22:46:38:121] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[04/11/18, 22:46:38:122] info: SSBIntegration: Main window preload script loaded 2964.500583
+[04/11/18, 22:46:50:200] info: Store: SELECT_CHANNEL C8TJBPHEC
+[04/11/18, 22:46:50:205] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/11/18, 22:46:50:220] info: Store: SELECT_CHANNEL C9CRAPUAG
+[04/11/18, 22:46:50:221] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/11/18, 22:46:50:222] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/11/18, 22:46:50:223] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T8U7NRKQU"
+}
+[04/11/18, 22:46:50:226] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/11/18, 22:46:50:288] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9C6NUMBJ"
+}
+[04/11/18, 22:46:50:291] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/11/18, 22:46:50:291] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/11/18, 22:46:50:297] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/11/18, 22:46:50:297] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/11/18, 22:46:50:299] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9C6NUMBJ",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/11/18, 22:46:50:346] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T8U7NRKQU",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/11/18, 22:46:50:773] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T8U7NRKQU"
+}
+[04/11/18, 22:46:50:918] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T9C6NUMBJ"
+}
+[04/11/18, 22:48:31:136] info: Store: OPEN_CONTEXT_MENU
+{
+  "id": 3,
+  "params": "[REDACTED]"
+}
+[04/11/18, 23:11:34:474] info: Store: SET_NETWORK_STATUS offline

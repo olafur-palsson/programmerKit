@@ -1,0 +1,221 @@
+[04/10/18, 12:37:27:974] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/10/18, 12:37:27:976] info: ║      Slack 3.1.1, linux 4.13.0-36-generic on x64 at 04/10/18, 12:37:27:957      ║
+[04/10/18, 12:37:27:977] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/10/18, 12:37:28:284] info: Initializing local storage instance at path: /home/pimp-of-pimps/.config/Slack/local-settings.json
+[04/10/18, 12:37:29:524] info: cld3::loadModule: loading cld3 module
+[04/10/18, 12:37:29:624] info: cld3Loader::loadModule: running environment is NODE
+[04/10/18, 12:37:29:624] info: cld3Loader::loadModule: constructed module object for runtime
+[04/10/18, 12:37:30:095] info: cld3Loader::initializeRuntime: successfully initialized module
+[04/10/18, 12:37:30:096] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[04/10/18, 12:37:30:102] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[04/10/18, 12:37:30:103] info: SSBIntegration: Main window preload script loaded 3038.814446
+[04/10/18, 12:37:38:103] info: Store: SELECT_CHANNEL C8TMARN2V
+[04/10/18, 12:37:38:110] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/10/18, 12:37:38:111] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[04/10/18, 12:37:38:137] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/10/18, 12:37:38:170] info: Store: MAIN_WINDOW_SHOWN
+[04/10/18, 12:37:38:336] info: Store: SET_FULL_SCREEN
+[04/10/18, 12:37:38:336] info: Store: SET_FULL_SCREEN
+[04/10/18, 12:37:38:337] info: Store: SET_FULL_SCREEN
+[04/10/18, 12:37:38:337] info: Store: SET_FULL_SCREEN
+[04/10/18, 12:37:38:337] info: Store: SET_FULL_SCREEN
+[04/10/18, 12:37:38:338] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T8U7NRKQU"
+}
+[04/10/18, 12:37:38:338] info: Store: SELECT_CHANNEL C9CRAPUAG
+[04/10/18, 12:37:38:339] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/10/18, 12:37:38:686] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/10/18, 12:37:38:689] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/10/18, 12:37:38:690] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/10/18, 12:37:38:692] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/10/18, 12:37:38:713] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9C6NUMBJ"
+}
+[04/10/18, 12:37:38:721] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T8U7NRKQU",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/10/18, 12:37:38:722] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/10/18, 12:37:38:722] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/10/18, 12:37:38:733] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9C6NUMBJ",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/10/18, 12:37:38:734] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T9C6NUMBJ",
+  "token": "xoxs-⋯"
+}
+[04/10/18, 12:37:38:752] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T9C6NUMBJ"
+}
+[04/10/18, 12:37:38:942] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T8U7NRKQU",
+  "token": "xoxs-⋯"
+}
+[04/10/18, 12:37:38:969] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T8U7NRKQU"
+}
+[04/10/18, 12:37:40:880] info: Raw Locale list: ["C","C.UTF-8","en_US.utf8","is_IS.utf8","POSIX",""]
+[04/10/18, 12:37:40:880] info: Filtered Locale list: ["en_US","is_IS"]
+[04/10/18, 12:37:40:880] info: Counts: {"en":["en_US"],"is":["is_IS"]}
+[04/10/18, 12:37:40:881] info: Setting en
+[04/10/18, 12:37:40:882] info: Setting is
+[04/10/18, 12:37:40:882] info: Result: {"en":"en-US","is":"is-IS"}
+[04/10/18, 12:37:40:885] info: Requesting to load is-IS, alternatives are ["is-IS","is-IS","is-IS"]
+[04/10/18, 12:37:40:886] info: Loading dictionary for language is-IS
+[04/10/18, 12:37:40:887] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/10/18, 12:37:40:891] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/10/18, 12:37:40:892] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/10/18, 12:37:42:070] info: Loading dictionary for language is-IS
+[04/10/18, 12:37:42:070] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/10/18, 12:37:42:072] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/10/18, 12:37:42:072] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/10/18, 12:37:42:498] info: Loading dictionary for language is-IS
+[04/10/18, 12:37:42:498] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/10/18, 12:37:42:500] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/10/18, 12:37:42:500] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/10/18, 12:37:42:721] info: dictionary for is-IS_is-IS is not available
+[04/10/18, 12:37:42:722] info: Actually installing spell check provider to Electron
+[04/10/18, 12:54:26:584] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[04/10/18, 12:54:26:585] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[04/10/18, 12:54:26:738] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T8U7NRKQU-U8TMX55PB-g824735fd9fd-512",
+  "channel": "C8TMARN2V",
+  "content": "[REDACTED]",
+  "id": "DREVsBhZKOBJzVR",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C8TMARN2V&message=1523364866.000234&team=T8U7NRKQU",
+  "msg": "1523364866.000234",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T8U7NRKQU",
+  "title": "[REDACTED]"
+}
+[04/10/18, 12:54:57:206] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[04/10/18, 12:54:57:206] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[04/10/18, 12:54:57:225] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T8U7NRKQU-U8TMX55PB-g824735fd9fd-512",
+  "channel": "C8TMARN2V",
+  "content": "[REDACTED]",
+  "id": "2RJwsVi2PgL4nV4",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C8TMARN2V&message=1523364897.000028&team=T8U7NRKQU",
+  "msg": "1523364897.000028",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T8U7NRKQU",
+  "title": "[REDACTED]"
+}
+[04/10/18, 12:56:12:252] info: Unloading spellchecker
+[04/10/18, 12:56:12:267] info: Unloading spellchecker
+[04/10/18, 13:03:00:369] info: Restoring spellchecker
+[04/10/18, 13:03:00:373] info: Requesting to load is-IS, alternatives are ["is-IS","is-IS","is-IS"]
+[04/10/18, 13:03:00:375] info: Loading dictionary for language is-IS
+[04/10/18, 13:03:00:381] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/10/18, 13:03:00:392] info: Unloading spellchecker
+[04/10/18, 13:03:00:397] info: Restoring spellchecker
+[04/10/18, 13:03:00:399] info: Requesting to load is-IS, alternatives are ["is-IS","is-IS","is-IS"]
+[04/10/18, 13:03:00:400] info: Loading dictionary for language is-IS
+[04/10/18, 13:03:00:400] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/10/18, 13:03:00:424] info: Unloading spellchecker
+[04/10/18, 13:03:00:426] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/10/18, 13:03:00:426] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/10/18, 13:03:00:427] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/10/18, 13:03:00:462] info: Can't clear out file, bailing
+[04/10/18, 13:03:00:463] info: Loading dictionary for language is-IS
+[04/10/18, 13:03:00:465] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/10/18, 13:03:01:317] info: Loading dictionary for language is-IS
+[04/10/18, 13:03:01:317] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/10/18, 13:03:01:318] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/10/18, 13:03:01:318] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/10/18, 13:03:01:410] info: Loading dictionary for language is-IS
+[04/10/18, 13:03:01:411] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/10/18, 13:03:01:412] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/10/18, 13:03:01:412] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/10/18, 13:03:01:560] info: Loading dictionary for language is-IS
+[04/10/18, 13:03:01:560] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/10/18, 13:03:01:562] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/10/18, 13:03:01:562] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/10/18, 13:03:01:711] info: dictionary for is-IS_is-IS is not available
+[04/10/18, 13:03:01:850] info: dictionary for is-IS_is-IS is not available
+[04/10/18, 13:04:16:783] info: Unloading spellchecker
+[04/10/18, 13:04:16:785] info: Unloading spellchecker
+[04/10/18, 13:04:16:936] info: Store: SET_NETWORK_STATUS offline

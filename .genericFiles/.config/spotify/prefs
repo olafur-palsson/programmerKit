@@ -1,0 +1,13 @@
+autologin.canonical_username="967eeqhy"
+autologin.blob="CgwmX7QvrpVtUJbCjD2QS4Lqf8gfXq3WOE9pWh+BfwOuBeLPB4vlAYxNrMi21I9jDE8FmMHPEtxIEV3GMexGIDI6ApmFe8L3YpzD0JmVuUnIFEMeykr5UdPDXMXPyPesU/TFW4e6+sqEk+Lgn/vkNtZweX7+lVyWw0kX7Qe1BSw="
+autologin.username="967eEqHy"
+autologin.saved_credentials="{\"967eeqhy\":[\"967eEqHy\",\"CgwmX7QvrpVtUJbCjD2QS4Lqf8gfXq3WOE9pWh+BfwOuBeLPB4vlAYxNrMi21I9jDE8FmMHPEtxIEV3GMexGIDI6ApmFe8L3YpzD0JmVuUnIFEMeykr5UdPDXMXPyPesU/TFW4e6+sqEk+Lgn/vkNtZweX7+lVyWw0kX7Qe1BSw=\"]}"
+core.csrf_tokens="*.spotify.com|701e36d78a5cd78e77f50323fbfc430d|611509054"
+core.clock_delta=0
+storage.last-location="/home/pimp-of-pimps/.cache/spotify/Storage"
+app.autostart-configured=true
+app.window.position.saved=true
+app.window.position.y=90
+app.last-launched-version="1.0.77.338.g758ebd78"
+app.autostart-mode=""
+app.window.position.x=160

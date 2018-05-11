@@ -1,0 +1,176 @@
+[$Version]
+update_info=fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar
+
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65000000000000002
+ContrastEffect=1
+Enable=
+IntensityAmount=0.10000000000000001
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025000000000000001
+ColorEffect=2
+ContrastAmount=0.10000000000000001
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=64,69,82
+BackgroundNormal=65,72,87
+DecorationFocus=82,148,226
+DecorationHover=82,148,226
+ForegroundActive=61,174,233
+ForegroundInactive=102,106,115
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=211,218,227
+ForegroundPositive=39,174,96
+ForegroundVisited=82,148,226
+
+[Colors:Complementary]
+BackgroundAlternate=59,64,69
+BackgroundNormal=49,54,59
+DecorationFocus=30,146,255
+DecorationHover=61,174,230
+ForegroundActive=246,116,0
+ForegroundInactive=175,176,179
+ForegroundLink=61,174,230
+ForegroundNegative=237,21,21
+ForegroundNeutral=201,206,59
+ForegroundNormal=239,240,241
+ForegroundPositive=17,209,22
+ForegroundVisited=61,174,230
+
+[Colors:Selection]
+BackgroundAlternate=29,153,243
+BackgroundNormal=82,148,226
+DecorationFocus=82,148,226
+DecorationHover=82,148,226
+ForegroundActive=252,252,252
+ForegroundInactive=211,218,227
+ForegroundLink=253,188,75
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=211,218,227
+ForegroundPositive=39,174,96
+ForegroundVisited=189,195,199
+
+[Colors:Tooltip]
+BackgroundAlternate=47,52,63
+BackgroundNormal=53,57,69
+DecorationFocus=82,148,226
+DecorationHover=82,148,226
+ForegroundActive=61,174,233
+ForegroundInactive=102,106,115
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=211,218,227
+ForegroundPositive=39,174,96
+ForegroundVisited=82,148,226
+
+[Colors:View]
+BackgroundAlternate=64,69,82
+BackgroundNormal=64,69,82
+DecorationFocus=82,148,226
+DecorationHover=82,148,226
+ForegroundActive=61,174,233
+ForegroundInactive=102,106,115
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=211,218,227
+ForegroundPositive=39,174,96
+ForegroundVisited=82,148,226
+
+[Colors:Window]
+BackgroundAlternate=47,52,63
+BackgroundNormal=47,52,63
+DecorationFocus=82,148,226
+DecorationHover=82,148,226
+ForegroundActive=61,174,233
+ForegroundInactive=102,106,115
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=211,218,227
+ForegroundPositive=39,174,96
+ForegroundVisited=82,148,226
+
+[DirSelect Dialog]
+DirSelectDialog Size=640,480
+History Items[$e]=file:$HOME/projects
+
+[Emoticons]
+emoticonsTheme=EmojiOne
+parseMode=2
+
+[General]
+BrowserApplication=chromium-browser.desktop
+ColorScheme=Arc Dark
+Name=Breeze
+dbfile=/home/pimp-of-pimps/.mozilla/firefox/9upojykx.default/places.sqlite
+fixed=Noto Mono,9,-1,0,50,0,0,0,0,0,Regular
+font=URW Gothic L,10,-1,0,45,0,0,0,0,0,Book
+menuFont=URW Gothic L,10,-1,0,45,0,0,0,0,0,Book
+shadeSortColumn=true
+smallestReadableFont=Noto Sans,8,-1,5,50,0,0,0,0,0,Regular
+toolBarFont=URW Gothic L,10,-1,0,45,0,0,0,0,0,Book
+widgetStyle=Breeze
+
+[Icons]
+Theme=breeze
+
+[KDE]
+ColorScheme=Breeze
+ShowDeleteCommand=false
+contrast=4
+widgetStyle=Breeze
+
+[KFileDialog Settings]
+Automatically select filename extension=false
+Breadcrumb Navigation=false
+Decoration position=0
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Preview Width=312
+Previews=true
+Show Bookmarks=false
+Show Full Path=false
+Show Preview=true
+Show Speedbar=false
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+Speedbar Width=129
+View Style=Simple
+listViewIconSize=0
+
+[KShortcutsDialog Settings]
+Dialog Size=1920,1051
+
+[PreviewSettings]
+MaximumRemoteSize=0
+
+[Shortcuts]
+FullScreen=F11
+
+[WM]
+activeBackground=47,52,63
+activeBlend=47,52,63
+activeFont=URW Gothic L,10,-1,0,45,0,0,0,0,0,Book
+activeForeground=211,218,227
+inactiveBackground=47,52,63
+inactiveBlend=47,52,63
+inactiveForeground=102,106,115

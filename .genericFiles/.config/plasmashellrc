@@ -1,0 +1,57 @@
+[KPropertiesDialog]
+Height 1080=465
+Width 1920=465
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_componentchooser.desktop,1 services_khotkeys.desktop,2 services_spotify.desktop,2 services_kcm_desktoptheme.desktop,3 services_fluxgui.desktop,1 services_powerdevilactivitiesconfig.desktop,8 services_org.kde.konsole.desktop,4 desktopsessions_3,2 services_texmaker.desktop,2 services_org.kde.plasma.lookandfeelexplorer.desktop,6 services_systemsettings.desktop,8 services_kcm_keyboard.desktop,1 services_org.kde.dolphin.desktop,2 baloosearch_/home/pimp-of-pimps/MEGA,2 services_org.kde.discover.desktop,1 baloosearch_/home/pimp-of-pimps/anaconda3/lib/tk8.6/images/logo.eps,3 services_megasync.desktop,2 services_org.kde.plasma.themeexplorer.desktop,5 services_chromium-browser.desktop
+pluginWhiteList=services,desktopsessions,PowerDevil,shell,bookmarks,baloosearch,locations
+
+[PlasmaTransientsConfig]
+PreloadWeight=26
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 2][Vertical1080]
+maxLength=603
+minLength=603
+thickness=60
+
+[PlasmaViews][Panel 31]
+alignment=1
+panelVisibility=1
+
+[PlasmaViews][Panel 31][Horizontal1920]
+maxLength=478
+minLength=62
+offset=4
+thickness=60
+
+[PlasmaViews][Panel 36]
+alignment=2
+panelVisibility=1
+
+[PlasmaViews][Panel 36][Horizontal1920]
+maxLength=336
+minLength=336
+thickness=100
+
+[PlasmaViews][Panel 36][Vertical1080]
+minLength=252
+thickness=30
+
+[PlasmaViews][Panel 47]
+panelVisibility=1
+
+[PlasmaViews][Panel 47][Horizontal1920]
+maxLength=885
+minLength=884
+offset=522
+thickness=56
+
+[ScreenConnectors]
+0=eDP-1
+2=:0.0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

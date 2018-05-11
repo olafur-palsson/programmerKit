@@ -1,0 +1,22 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "content_scripts": [ {
+      "css": [ "navigate.css" ],
+      "js": [ "jquery.js", "migemoDict.js", "migemo.js", "navigate.js" ],
+      "matches": [ "http://*/*", "https://*/*", "file://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Hit-a-Hint and migemo link search for Chrome",
+   "icons": {
+      "128": "icon128.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQChGwxxIg8wVzbMrbWHSe811v7C2fWaIhbl2PyuvBh/p3/hYhU4Ebj++piGEUnDcDSS2dzyTmJ6W+/VLHEdcZeqDhxNsB89sLTYHCEx3Bd5oCh5fjYuAPaPLV1OmW8qEV7s8vliLPGCLZ9KrTz0tsq1z+eFqKLliQnRY6p4Iq6cKQIDAQAB",
+   "manifest_version": 2,
+   "name": "Keyboard navigation for Chrome",
+   "options_page": "options.html",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.7"
+}

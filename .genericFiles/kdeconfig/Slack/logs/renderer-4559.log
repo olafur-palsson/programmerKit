@@ -1,0 +1,196 @@
+[04/10/18, 12:37:26:462] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/10/18, 12:37:26:464] info: ║      Slack 3.1.1, linux 4.13.0-36-generic on x64 at 04/10/18, 12:37:26:458      ║
+[04/10/18, 12:37:26:464] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/10/18, 12:37:26:891] info: Initializing local storage instance at path: /home/pimp-of-pimps/.config/Slack/local-settings.json
+[04/10/18, 12:37:27:257] info: NetworkStatus: Waiting for network online…
+[04/10/18, 12:37:28:487] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/10/18, 12:37:28:894] info: Store: SET_NETWORK_STATUS online
+[04/10/18, 12:37:35:931] info: Store: SELECT_CHANNEL C8TMARN2V
+[04/10/18, 12:37:35:940] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/10/18, 12:37:35:945] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[04/10/18, 12:37:36:664] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/10/18, 12:37:36:712] info: Store: MAIN_WINDOW_SHOWN
+[04/10/18, 12:37:36:769] info: Store: SET_FULL_SCREEN
+[04/10/18, 12:37:36:777] info: Store: SET_FULL_SCREEN
+[04/10/18, 12:37:36:786] info: Store: SET_FULL_SCREEN
+[04/10/18, 12:37:36:800] info: Store: SET_FULL_SCREEN
+[04/10/18, 12:37:36:803] info: Store: SET_FULL_SCREEN
+[04/10/18, 12:37:36:972] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T8U7NRKQU"
+}
+[04/10/18, 12:37:37:137] info: Store: SELECT_CHANNEL C9CRAPUAG
+[04/10/18, 12:37:37:150] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/10/18, 12:37:37:765] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/10/18, 12:37:37:875] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/10/18, 12:37:37:976] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/10/18, 12:37:37:979] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/10/18, 12:37:38:129] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9C6NUMBJ"
+}
+[04/10/18, 12:37:38:171] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T8U7NRKQU",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/10/18, 12:37:38:180] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/10/18, 12:37:38:192] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/10/18, 12:37:38:291] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9C6NUMBJ",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/10/18, 12:37:38:330] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T9C6NUMBJ",
+  "token": "xoxs-⋯"
+}
+[04/10/18, 12:37:38:483] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T9C6NUMBJ"
+}
+[04/10/18, 12:37:38:698] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T8U7NRKQU",
+  "token": "xoxs-⋯"
+}
+[04/10/18, 12:37:38:736] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T8U7NRKQU"
+}
+[04/10/18, 12:42:27:609] info: NetworkStatus: Waiting for network online…
+[04/10/18, 12:42:27:858] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/10/18, 12:50:49:544] info: NetworkStatus: Waiting for network online…
+[04/10/18, 12:50:49:860] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/10/18, 12:51:00:316] info: NetworkStatus: Waiting for network online…
+[04/10/18, 12:51:00:480] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/10/18, 12:52:50:181] info: NetworkStatus: Waiting for network online…
+[04/10/18, 12:52:50:357] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/10/18, 12:54:26:598] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T8U7NRKQU-U8TMX55PB-g824735fd9fd-512",
+  "channel": "C8TMARN2V",
+  "content": "[REDACTED]",
+  "id": "DREVsBhZKOBJzVR",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C8TMARN2V&message=1523364866.000234&team=T8U7NRKQU",
+  "msg": "1523364866.000234",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T8U7NRKQU",
+  "title": "[REDACTED]"
+}
+[04/10/18, 12:54:50:005] info: NetworkStatus: Waiting for network online…
+[04/10/18, 12:54:50:168] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/10/18, 12:54:57:219] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T8U7NRKQU-U8TMX55PB-g824735fd9fd-512",
+  "channel": "C8TMARN2V",
+  "content": "[REDACTED]",
+  "id": "2RJwsVi2PgL4nV4",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C8TMARN2V&message=1523364897.000028&team=T8U7NRKQU",
+  "msg": "1523364897.000028",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T8U7NRKQU",
+  "title": "[REDACTED]"
+}
+[04/10/18, 13:00:49:261] info: NetworkStatus: Waiting for network online…
+[04/10/18, 13:00:49:394] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/10/18, 13:02:47:660] info: NetworkStatus: Waiting for network online…
+[04/10/18, 13:02:47:790] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/10/18, 13:04:16:936] info: Store: SET_NETWORK_STATUS offline

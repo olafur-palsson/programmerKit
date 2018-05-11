@@ -1,0 +1,31 @@
+{
+   "background": {
+      "page": "background.html",
+      "persistent": false
+   },
+   "browser_action": {
+      "default_icon": "images/icon_19.png",
+      "default_title": "Material Design YouTube Dark Skin Theme : Black and Red"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "material_design_theme.min.js" ],
+      "matches": [ "*://www.youtube.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "YouTube dark skin theme : designed specially for night to avoid flash effect",
+   "icons": {
+      "19": "images/icon_19.png",
+      "48": "images/icon_48.png",
+      "96": "images/icon_96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlUeuHBM2LyFEAuI1K1bJNbt/4zXJU2RQSKx5C68H67Wezi82BnJPC904hzQSiZEjWMprGwksOm8pnHpX8ZYoMQjPDhsZOpBN2clvGkEJx5/okVynnk7qsfaW/0CSY3oWjcBQ3N+8HmaKs0ZAVjz5AX90loCcFuNygmzsbhHbo8x7cSX/1hKNQhrTUjtmsvrmAily8vEjxnSK7uUcnXup3urG6h1Mv18f6krRvpEUyL6RjpMVFmVyteAFxRkRKxiMFEIdIxw6vNUisDh0ZhsJkjzqNLI31AdW6fCVSY25zqYlW37Dtp6XFAJ3cTpSBbPzePA5Z9p+SHBYlkUtgVHTawIDAQAB",
+   "manifest_version": 2,
+   "name": "Material Design Dark Skin Theme for YouTube™",
+   "permissions": [ "storage" ],
+   "short_name": "Material Black & Red",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.5",
+   "web_accessible_resources": [ "images/*", "material_design_theme.min.css" ]
+}

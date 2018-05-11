@@ -1,0 +1,144 @@
+[04/17/18, 00:51:50:529] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/17/18, 00:51:50:530] info: ║      Slack 3.1.1, linux 4.13.0-36-generic on x64 at 04/17/18, 00:51:50:523      ║
+[04/17/18, 00:51:50:530] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/17/18, 00:51:51:147] info: Initializing local storage instance at path: /home/pimp-of-pimps/.config/Slack/local-settings.json
+[04/17/18, 00:51:51:502] info: NetworkStatus: Waiting for network online…
+[04/17/18, 00:51:52:493] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[04/17/18, 00:51:52:911] info: Store: SET_NETWORK_STATUS online
+[04/17/18, 00:51:58:246] info: Store: SELECT_CHANNEL C9CRAPUAG
+[04/17/18, 00:51:58:254] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/17/18, 00:51:58:260] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[04/17/18, 00:51:58:384] info: Store: SELECT_CHANNEL C8TMARN2V
+[04/17/18, 00:51:58:390] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/17/18, 00:51:58:829] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/17/18, 00:51:58:934] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/17/18, 00:51:58:942] info: Store: MAIN_WINDOW_SHOWN
+[04/17/18, 00:51:58:992] info: Store: SET_FULL_SCREEN
+[04/17/18, 00:51:59:001] info: Store: SET_FULL_SCREEN
+[04/17/18, 00:51:59:013] info: Store: SET_FULL_SCREEN
+[04/17/18, 00:51:59:026] info: Store: SET_FULL_SCREEN
+[04/17/18, 00:51:59:040] info: Store: SET_FULL_SCREEN
+[04/17/18, 00:51:59:165] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/17/18, 00:51:59:185] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9C6NUMBJ"
+}
+[04/17/18, 00:51:59:196] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/17/18, 00:51:59:208] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T8U7NRKQU"
+}
+[04/17/18, 00:51:59:361] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9C6NUMBJ",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/17/18, 00:51:59:369] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T9C6NUMBJ",
+  "token": "xoxs-⋯"
+}
+[04/17/18, 00:51:59:421] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T9C6NUMBJ"
+}
+[04/17/18, 00:52:00:016] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/17/18, 00:52:00:223] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/17/18, 00:52:00:231] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/17/18, 00:52:00:456] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T8U7NRKQU",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/17/18, 00:52:01:062] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T8U7NRKQU",
+  "token": "xoxs-⋯"
+}
+[04/17/18, 00:52:01:106] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T8U7NRKQU"
+}
+[04/17/18, 02:04:52:632] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    29
+  ],
+  "size": [
+    1920,
+    1051
+  ]
+}

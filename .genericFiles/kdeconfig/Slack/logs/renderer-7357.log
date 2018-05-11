@@ -1,0 +1,134 @@
+[04/09/18, 21:13:50:377] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/09/18, 21:13:50:379] info: ║      Slack 3.1.1, linux 4.13.0-36-generic on x64 at 04/09/18, 21:13:50:370      ║
+[04/09/18, 21:13:50:379] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/09/18, 21:13:50:642] info: Initializing local storage instance at path: /home/pimp-of-pimps/.config/Slack/local-settings.json
+[04/09/18, 21:13:52:095] info: cld3::loadModule: loading cld3 module
+[04/09/18, 21:13:52:222] info: cld3Loader::loadModule: running environment is NODE
+[04/09/18, 21:13:52:222] info: cld3Loader::loadModule: constructed module object for runtime
+[04/09/18, 21:13:52:777] info: cld3Loader::initializeRuntime: successfully initialized module
+[04/09/18, 21:13:52:777] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[04/09/18, 21:13:52:792] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[04/09/18, 21:13:52:793] info: SSBIntegration: Main window preload script loaded 3174.917882
+[04/09/18, 21:13:59:604] info: Store: SELECT_CHANNEL C8TMARN2V
+[04/09/18, 21:13:59:611] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/09/18, 21:13:59:614] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[04/09/18, 21:13:59:997] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/09/18, 21:14:00:001] info: Store: MAIN_WINDOW_SHOWN
+[04/09/18, 21:14:00:002] info: Store: SET_FULL_SCREEN
+[04/09/18, 21:14:00:002] info: Store: SET_FULL_SCREEN
+[04/09/18, 21:14:00:003] info: Store: SET_FULL_SCREEN
+[04/09/18, 21:14:00:003] info: Store: SET_FULL_SCREEN
+[04/09/18, 21:14:00:003] info: Store: SET_FULL_SCREEN
+[04/09/18, 21:14:00:004] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T8U7NRKQU"
+}
+[04/09/18, 21:14:00:005] info: Store: SELECT_CHANNEL C9CRAPUAG
+[04/09/18, 21:14:00:006] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/09/18, 21:14:00:008] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/09/18, 21:14:00:009] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/09/18, 21:14:00:037] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/09/18, 21:14:00:041] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/09/18, 21:14:00:043] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T8U7NRKQU",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/09/18, 21:14:00:043] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9C6NUMBJ"
+}
+[04/09/18, 21:14:00:044] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/09/18, 21:14:00:045] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/09/18, 21:14:00:053] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9C6NUMBJ",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/09/18, 21:14:00:073] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T9C6NUMBJ",
+  "token": "xoxs-⋯"
+}
+[04/09/18, 21:14:00:232] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T9C6NUMBJ"
+}
+[04/09/18, 21:14:00:516] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T8U7NRKQU",
+  "token": "xoxs-⋯"
+}
+[04/09/18, 21:14:00:619] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T8U7NRKQU"
+}
+[04/09/18, 22:28:35:007] info: Store: SET_NETWORK_STATUS offline

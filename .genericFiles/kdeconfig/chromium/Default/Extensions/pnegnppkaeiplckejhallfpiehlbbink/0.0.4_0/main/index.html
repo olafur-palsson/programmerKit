@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Focus</title>
+
+    <link href="../vendor/pure/pure-min.css" rel="stylesheet">
+    <link href="../vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="header">
+      <div class="main-menu pure-menu pure-menu-horizontal">
+        <div class="container">
+          <a class="pure-menu-heading" href="">Focus</a>
+          <ul class="pure-menu-list">
+            <li class="pure-menu-item pure-menu-selected">
+              <a href="index.html" class="pure-menu-link"><i class="fa fa-tachometer"></i></a>
+            </li>
+            <li class="pure-menu-item">
+              <a href="stats.html" class="pure-menu-link"><i class="fa fa-area-chart"></i></a>
+            </li>
+            <li class="pure-menu-item">
+              <a href="settings.html" class="pure-menu-link"><i class="fa fa-cog"></i></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <div class="content hide" id="timerContent">
+        <div class="timer" id="timer">
+          :
+        </div>
+        <button class="pure-button button-primary button-main hide" id="startFocusBtn"><i class="fa fa-dot-circle-o"></i> Start Focused Session</button>
+        <button class="pure-button button-secondary button-main hide" id="cancelFocusBtn"><i class="fa fa-times-circle"></i> Cancel Focused Session</button>
+      </div>
+
+      <div class="content hide" id="sessionContent">
+        <h1 class="lead">Great job on completing a Focused Session!</h1>
+        <table class="pure-table full-width center">
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Start Time</th>
+              <th>End Time</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><span id="session-info-start-date"></span></td>
+              <td><span id="session-info-start-time"></span></td>
+              <td><span id="session-info-end-time"></span></td>
+            </tr>
+          </tbody>
+        </table>
+
+
+        <h2 class="lead">How effective was your Focused Session?</h2>
+
+        <div class="rating center" id="rating">
+          <label for="star1"><i title="Completely Unproductive" class="fa fa-star"></i></label>
+          <input type="radio" name="rating" id="star1" value="1">
+          <label for="star2"><i title="Mostly Unproductive" class="fa fa-star"></i></label>
+          <input type="radio" name="rating" id="star2" value="2">
+          <label for="star3"><i title="Quite Unproductive" class="fa fa-star"></i></label>
+          <input type="radio" name="rating" id="star3" value="3">
+          <label for="star4"><i title="A Little Unproductive" class="fa fa-star"></i></label>
+          <input type="radio" name="rating" id="star4" value="4">
+          <label for="star5"><i title="Average" class="fa fa-star"></i></label>
+          <input type="radio" name="rating" id="star5" value="5">
+          <label for="star6"><i title="A Little Productive" class="fa fa-star"></i></label>
+          <input type="radio" name="rating" id="star6" value="6">
+          <label for="star7"><i title="Quite Productive" class="fa fa-star"></i></label>
+          <input type="radio" name="rating" id="star7" value="7" checked>
+          <label for="star8"><i title="Mostly Productive" class="fa fa-star"></i></label>
+          <input type="radio" name="rating" id="star8" value="8">
+          <label for="star9"><i title="Very Productive" class="fa fa-star"></i></label>
+          <input type="radio" name="rating" id="star9" value="9">
+          <label for="star10"><i title="Completely Productive" class="fa fa-star"></i></label>
+          <input type="radio" name="rating" id="star10" value="10">
+        </div>
+
+        <h2 class="lead">Which sites distracted you?</h2>
+
+        <table class="pure-table pure-table-striped full-width">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Site</th>
+              <th>Time Spent</th>
+              <th class="center"><input type="checkbox" id="session-info-distracting-site-toggle"></th>
+            </tr>
+          </thead>
+          <tbody id="session-info-sites-tbody">
+          </tbody>
+        </table>
+
+        <h2 class="lead">Let's see how you fare...</h2>
+
+        <table class="pure-table pure-table-bordered full-width">
+          <tr>
+            <td class="th">Completed a Focused Session</td>
+            <td>+100</td>
+          </tr>
+          <tr>
+            <td class="th"><span id="session-info-time-spent"></span> spent on Distracting Sites</td>
+            <td>&minus;<span id="session-info-time-spent-points"></span></td>
+          </tr>
+          <tr>
+            <td class="th"><span id="session-info-productivity-desc"></span></td>
+            <td><span id="session-info-productivity-points"></span></td>
+          </tr>
+        </table>
+
+        <h2 class="lead larger">Your Score</h2>
+
+        <div class="score">
+          <span id="finalScore">0</span>
+        </div>
+
+
+        <div class="center spacer">
+          <button class="pure-button button-primary button-large" id="sessionDoneBtn"><i class="fa fa-check-square-o"></i> Save and Complete</button>
+        </div>
+      </div>
+
+    </div>
+
+    <script type="text/javascript" src="../app.js"></script>
+    <script type="text/javascript" src="index.js"></script>
+  </body>
+</html>

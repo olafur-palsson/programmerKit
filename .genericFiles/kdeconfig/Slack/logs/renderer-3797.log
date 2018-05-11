@@ -1,0 +1,238 @@
+[04/09/18, 14:35:39:771] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/09/18, 14:35:39:773] info: ║      Slack 3.1.1, linux 4.13.0-36-generic on x64 at 04/09/18, 14:35:39:764      ║
+[04/09/18, 14:35:39:773] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/09/18, 14:35:40:054] info: Initializing local storage instance at path: /home/pimp-of-pimps/.config/Slack/local-settings.json
+[04/09/18, 14:35:41:296] info: cld3::loadModule: loading cld3 module
+[04/09/18, 14:35:41:399] info: cld3Loader::loadModule: running environment is NODE
+[04/09/18, 14:35:41:399] info: cld3Loader::loadModule: constructed module object for runtime
+[04/09/18, 14:35:41:883] info: cld3Loader::initializeRuntime: successfully initialized module
+[04/09/18, 14:35:41:884] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[04/09/18, 14:35:41:890] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[04/09/18, 14:35:41:892] info: SSBIntegration: Main window preload script loaded 2894.445205
+[04/09/18, 14:35:50:085] info: Store: SELECT_CHANNEL C9CRAPUAG
+[04/09/18, 14:35:50:087] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/09/18, 14:35:50:088] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[04/09/18, 14:35:50:090] info: Store: SELECT_CHANNEL C8TJBPHEC
+[04/09/18, 14:35:50:092] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/09/18, 14:35:50:092] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/09/18, 14:35:50:098] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/09/18, 14:35:50:100] info: Store: MAIN_WINDOW_SHOWN
+[04/09/18, 14:35:50:159] info: Store: SET_FULL_SCREEN
+[04/09/18, 14:35:50:159] info: Store: SET_FULL_SCREEN
+[04/09/18, 14:35:50:159] info: Store: SET_FULL_SCREEN
+[04/09/18, 14:35:50:160] info: Store: SET_FULL_SCREEN
+[04/09/18, 14:35:50:160] info: Store: SET_FULL_SCREEN
+[04/09/18, 14:35:50:161] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9C6NUMBJ"
+}
+[04/09/18, 14:35:50:163] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/09/18, 14:35:50:164] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/09/18, 14:35:50:165] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T8U7NRKQU"
+}
+[04/09/18, 14:35:50:175] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9C6NUMBJ",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/09/18, 14:35:50:176] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T9C6NUMBJ",
+  "token": "xoxs-⋯"
+}
+[04/09/18, 14:35:50:176] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T9C6NUMBJ"
+}
+[04/09/18, 14:35:50:198] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/09/18, 14:35:50:627] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/09/18, 14:35:50:628] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/09/18, 14:35:50:641] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T8U7NRKQU",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/09/18, 14:35:50:888] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T8U7NRKQU",
+  "token": "xoxs-⋯"
+}
+[04/09/18, 14:35:50:903] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T8U7NRKQU"
+}
+[04/09/18, 14:35:52:325] info: Unloading spellchecker
+[04/09/18, 14:35:52:345] info: Unloading spellchecker
+[04/09/18, 14:35:52:891] info: Couldn't detect language for text of length '3086': Not enough reliable text, ignoring sample
+[04/09/18, 14:36:21:440] info: Unloading spellchecker
+[04/09/18, 14:36:21:514] info: Unloading spellchecker
+[04/09/18, 14:36:24:329] info: Unloading spellchecker
+[04/09/18, 14:36:24:352] info: Unloading spellchecker
+[04/09/18, 14:36:27:174] info: Unloading spellchecker
+[04/09/18, 14:36:27:219] info: Unloading spellchecker
+[04/09/18, 14:36:27:928] info: Unloading spellchecker
+[04/09/18, 14:36:27:931] info: Unloading spellchecker
+[04/09/18, 14:36:29:648] info: Unloading spellchecker
+[04/09/18, 14:36:29:649] info: Unloading spellchecker
+[04/09/18, 14:49:25:237] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 14:49:31:774] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 14:59:25:165] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 14:59:31:684] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 15:05:25:095] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 15:05:54:699] error: Apr-9 15:05:54.698 T8U7NRKQU SOCKET-MANAGER: Closing socket due to unknown error
+[04/09/18, 15:06:24:728] error: Apr-9 15:06:24.728 T8U7NRKQU SOCKET-MANAGER: Closing socket due to unknown error
+[04/09/18, 15:06:54:747] error: Apr-9 15:06:54.747 T8U7NRKQU SOCKET-MANAGER: Closing socket due to unknown error
+[04/09/18, 15:07:24:771] error: Apr-9 15:07:24.770 T8U7NRKQU SOCKET-MANAGER: Closing socket due to unknown error
+[04/09/18, 15:07:54:798] error: Apr-9 15:07:54.797 T8U7NRKQU SOCKET-MANAGER: Closing socket due to unknown error
+[04/09/18, 15:08:12:484] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 15:08:24:817] error: Apr-9 15:08:24.817 T8U7NRKQU SOCKET-MANAGER: Closing socket due to unknown error
+[04/09/18, 15:08:48:576] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T8U7NRKQU"
+}
+[04/09/18, 15:08:48:580] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T8U7NRKQU"
+}
+[04/09/18, 15:08:51:669] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 15:08:58:557] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 15:09:32:512] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 15:09:33:962] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 15:09:51:167] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 15:09:53:287] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 15:10:02:047] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 15:10:03:118] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 15:10:12:394] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T9C6NUMBJ"
+}
+[04/09/18, 15:10:12:643] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9C6NUMBJ"
+}
+[04/09/18, 15:21:10:130] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 15:21:15:365] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 15:29:11:295] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 15:29:16:509] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 15:51:11:266] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 15:51:11:827] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 16:05:11:686] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 16:05:16:879] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 16:07:10:262] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 16:07:10:771] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 16:17:09:989] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 16:17:16:431] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 17:17:11:250] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 17:17:17:716] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 17:21:09:795] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 17:21:11:100] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 17:43:11:627] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 17:43:13:099] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 18:47:10:052] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 18:47:10:454] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 19:02:12:899] info: Store: SELECT_CHANNEL C8TMARN2V
+[04/09/18, 19:02:18:030] info: Raw Locale list: ["C","C.UTF-8","en_US.utf8","is_IS.utf8","POSIX",""]
+[04/09/18, 19:02:18:030] info: Filtered Locale list: ["en_US","is_IS"]
+[04/09/18, 19:02:18:030] info: Counts: {"en":["en_US"],"is":["is_IS"]}
+[04/09/18, 19:02:18:031] info: Setting en
+[04/09/18, 19:02:18:032] info: Setting is
+[04/09/18, 19:02:18:032] info: Result: {"en":"en-US","is":"is-IS"}
+[04/09/18, 19:02:18:035] info: Requesting to load is-IS, alternatives are ["is-IS","is-IS","is-IS"]
+[04/09/18, 19:02:18:037] info: Loading dictionary for language is-IS
+[04/09/18, 19:02:18:037] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/09/18, 19:02:18:040] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/09/18, 19:02:18:041] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/09/18, 19:02:19:548] info: Loading dictionary for language is-IS
+[04/09/18, 19:02:19:548] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/09/18, 19:02:19:549] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/09/18, 19:02:19:550] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/09/18, 19:02:20:510] info: Loading dictionary for language is-IS
+[04/09/18, 19:02:20:511] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/09/18, 19:02:20:524] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/09/18, 19:02:20:525] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/09/18, 19:02:20:831] info: dictionary for is-IS_is-IS is not available
+[04/09/18, 19:02:20:831] info: Actually installing spell check provider to Electron
+[04/09/18, 19:03:10:965] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 19:03:15:776] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 19:04:14:852] warn: SpellChecker::updateDetectedLanguage: cld could not detect language correctly, empty result returned
+[04/09/18, 19:04:21:380] info: Unloading spellchecker
+[04/09/18, 19:04:21:381] info: Unloading spellchecker
+[04/09/18, 19:17:11:389] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 19:17:24:482] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 19:27:09:298] info: Store: SET_NETWORK_STATUS offline
+[04/09/18, 19:27:16:124] info: Store: SET_NETWORK_STATUS online
+[04/09/18, 19:31:32:876] info: Store: SET_NETWORK_STATUS offline

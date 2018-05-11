@@ -1,0 +1,18 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 1080=1028
+State=AAAA/wAAAAD9AAAAAAAABhoAAAPBAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1562
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/Download File.pdf
+File2[$e]=$HOME/projects/search/Untitled Diagram.pdf
+File3[$e]=$HOME/projects/search/uml2.0.pdf
+File4[$e]=$HOME/Downloads/sdk/docs/SDKRef.pdf
+Name1[$e]=Download File.pdf
+Name2[$e]=Untitled Diagram.pdf
+Name3[$e]=uml2.0.pdf
+Name4[$e]=SDKRef.pdf

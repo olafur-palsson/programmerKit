@@ -1,0 +1,31 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "smart_extensions.png",
+      "default_popup": "popup.html",
+      "default_title": "__MSG_extDefTitle__"
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "*://*.youtube.com/*", "*://*.vk.com/*", "*://*.facebook.com/*", "*://*.smart-extension.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "smart_extensions.png",
+      "16": "smart_extensions.png",
+      "32": "smart_extensions.png",
+      "48": "smart_extensions.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnPsIdxgyf6mrnp8g2ToWxRSmQeVKvM+EvjCr9xpe8vFv+9bhQeXZK1wk+WYAFlxYrFdBUE4tabnWkC/OkvJKWZOzWhMOIbPBGGMnObAOCgSg11uRUlwOMZSYZjllRWC9HT6CSFMJCn3uWMbYxpQJq5Rfzo57WbLPyFviwHlMHJXfGxOKyktYVdsCb7507sdSMvs+QgjqkymxSSB8dro/L57vq9xrT+1OFtUuZgORinp/O478M7qqTfWJYIaVTkuPxRO0O3R9RlDTKdt5Mw3GVV0LmCQHU94sLmkDXUhpz0yJR+ii0J5YstYgOrpI928MLoM/tZXezfOvAz6Hni3bnQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "permissions": [ "tabs", "storage" ],
+   "short_name": "Remove Recommendations Youtube",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.5",
+   "web_accessible_resources": [ "css/smart_extensions_style.css" ]
+}

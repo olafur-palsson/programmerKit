@@ -1,0 +1,23 @@
+2018/05/02-11:45:40.201 3436 Reusing MANIFEST /home/pimp-of-pimps/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2018/05/02-11:45:40.202 3436 Recovering log #915
+2018/05/02-11:45:40.231 3436 Reusing old log /home/pimp-of-pimps/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000915.log 
+2018/05/02-12:40:48.821 6801 Level-0 table #919: started
+2018/05/02-12:40:48.857 6801 Level-0 table #919: 2183010 bytes OK
+2018/05/02-12:40:48.861 6801 Delete type=0 #915
+2018/05/02-13:30:37.636 6801 Compacting 3@0 + 1@1 files
+2018/05/02-13:30:37.689 6801 Generated table #920@0: 12 keys, 119340 bytes
+2018/05/02-13:30:37.689 6801 Compacted 3@0 + 1@1 files => 119340 bytes
+2018/05/02-13:30:37.691 6801 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/05/02-13:30:37.691 6801 Delete type=2 #919
+2018/05/02-13:30:37.692 6801 Delete type=2 #911
+2018/05/02-13:30:37.698 6801 Delete type=2 #916
+2018/05/02-13:30:37.698 6801 Delete type=2 #913
+2018/05/02-13:49:47.351 6801 Compacting 1@1 + 1@2 files
+2018/05/02-13:49:47.372 6801 Generated table #921@1: 71 keys, 589545 bytes
+2018/05/02-13:49:47.372 6801 Compacted 1@1 + 1@2 files => 589545 bytes
+2018/05/02-13:49:47.376 6801 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/05/02-13:49:47.376 6801 Delete type=2 #602
+2018/05/02-13:49:47.376 6801 Delete type=2 #920
+2018/05/02-14:57:34.122 6801 Level-0 table #923: started
+2018/05/02-14:57:34.162 6801 Level-0 table #923: 2587915 bytes OK
+2018/05/02-14:57:34.168 6801 Delete type=0 #918

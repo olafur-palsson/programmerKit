@@ -1,0 +1,13 @@
+[Layout]
+DisplayNames=
+LayoutList=us(dvp)
+LayoutLoopCount=-1
+Model=pc104
+Options=caps:swapescape
+ResetOldOptions=true
+ShowFlag=false
+ShowLabel=true
+ShowLayoutIndicator=true
+ShowSingle=true
+SwitchMode=Global
+Use=true

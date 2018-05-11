@@ -1,0 +1,1799 @@
+[04/22/18, 16:22:06:371] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/22/18, 16:22:06:373] info: ║      Slack 3.1.1, linux 4.13.0-38-generic on x64 at 04/22/18, 16:22:06:364      ║
+[04/22/18, 16:22:06:373] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/22/18, 16:22:06:617] info: Initializing local storage instance at path: /home/pimp-of-pimps/.config/Slack/local-settings.json
+[04/22/18, 16:22:08:031] info: cld3::loadModule: loading cld3 module
+[04/22/18, 16:22:08:129] info: cld3Loader::loadModule: running environment is NODE
+[04/22/18, 16:22:08:130] info: cld3Loader::loadModule: constructed module object for runtime
+[04/22/18, 16:22:08:705] info: cld3Loader::initializeRuntime: successfully initialized module
+[04/22/18, 16:22:08:706] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[04/22/18, 16:22:08:721] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[04/22/18, 16:22:08:724] info: SSBIntegration: Main window preload script loaded 3164.362963
+[04/22/18, 16:22:15:591] info: Store: SELECT_CHANNEL C8TMARN2V
+[04/22/18, 16:22:15:598] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/22/18, 16:22:15:600] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[04/22/18, 16:22:15:978] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 16:22:15:979] info: Store: MAIN_WINDOW_SHOWN
+[04/22/18, 16:22:15:981] info: Store: SET_FULL_SCREEN
+[04/22/18, 16:22:15:981] info: Store: SET_FULL_SCREEN
+[04/22/18, 16:22:15:982] info: Store: SET_FULL_SCREEN
+[04/22/18, 16:22:15:982] info: Store: SET_FULL_SCREEN
+[04/22/18, 16:22:15:983] info: Store: SET_FULL_SCREEN
+[04/22/18, 16:22:15:983] info: Store: SELECT_CHANNEL C9CRAPUAG
+[04/22/18, 16:22:15:984] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/22/18, 16:22:15:984] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 16:22:15:987] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/22/18, 16:22:16:114] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/22/18, 16:22:16:115] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 16:22:16:116] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/22/18, 16:22:16:119] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9C6NUMBJ"
+}
+[04/22/18, 16:22:16:119] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T8U7NRKQU",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/22/18, 16:22:16:120] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/22/18, 16:22:16:120] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/22/18, 16:22:16:131] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9C6NUMBJ",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/22/18, 16:22:16:138] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T9C6NUMBJ",
+  "token": "xoxs-⋯"
+}
+[04/22/18, 16:22:16:407] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T8U7NRKQU",
+  "token": "xoxs-⋯"
+}
+[04/22/18, 16:23:03:079] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T8U7NRKQU-U8U581G3V-g01dbb70d805-512",
+  "channel": "C8TMARN2V",
+  "content": "[REDACTED]",
+  "id": "NK7VhNhRAjvZBVj",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C8TMARN2V&message=1524414182.000106&team=T8U7NRKQU",
+  "msg": "1524414182.000106",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T8U7NRKQU",
+  "title": "[REDACTED]"
+}
+[04/22/18, 16:23:37:208] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T8U7NRKQU-U8U581G3V-g01dbb70d805-512",
+  "channel": "C8TMARN2V",
+  "content": "[REDACTED]",
+  "id": "QKAYhXikWM7JnXD",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C8TMARN2V&message=1524414216.000150&team=T8U7NRKQU",
+  "msg": "1524414216.000150",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T8U7NRKQU",
+  "title": "[REDACTED]"
+}
+[04/22/18, 16:29:01:354] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T8U7NRKQU-U8TMX55PB-g824735fd9fd-512",
+  "channel": "C8TMARN2V",
+  "content": "[REDACTED]",
+  "id": "EXKJS1sPMpYwZ46",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C8TMARN2V&message=1524414540.000147&team=T8U7NRKQU",
+  "msg": "1524414540.000147",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T8U7NRKQU",
+  "title": "[REDACTED]"
+}
+[04/22/18, 17:12:24:092] info: Store: SET_NETWORK_STATUS offline
+[04/22/18, 17:12:26:019] info: Store: SET_NETWORK_STATUS online
+[04/22/18, 18:56:25:099] info: Store: SET_NETWORK_STATUS offline
+[04/22/18, 18:56:26:042] info: Store: SET_NETWORK_STATUS online
+[04/22/18, 19:48:23:928] info: Store: SET_NETWORK_STATUS offline
+[04/22/18, 19:48:24:356] info: Store: SET_NETWORK_STATUS online
+[04/22/18, 20:25:29:402] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    964,
+    29
+  ],
+  "size": [
+    956,
+    1051
+  ]
+}
+[04/22/18, 20:25:40:987] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    -618,
+    1080
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/22/18, 20:25:44:398] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    -618,
+    983
+  ],
+  "size": [
+    1152,
+    961
+  ]
+}
+[04/22/18, 20:25:45:841] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    569
+  ],
+  "size": [
+    956,
+    511
+  ]
+}
+[04/22/18, 20:27:18:148] info: Store: OPEN_CONTEXT_MENU
+{
+  "id": 3,
+  "params": "[REDACTED]"
+}
+[04/22/18, 20:27:31:827] info: Store: OPEN_CONTEXT_MENU
+{
+  "id": 3,
+  "params": "[REDACTED]"
+}
+[04/22/18, 20:27:40:139] info: Store: OPEN_CONTEXT_MENU
+{
+  "id": 3,
+  "params": "[REDACTED]"
+}
+[04/22/18, 20:27:50:377] info: Store: OPEN_CONTEXT_MENU
+{
+  "id": 3,
+  "params": "[REDACTED]"
+}
+[04/22/18, 20:28:00:538] info: Store: OPEN_CONTEXT_MENU
+{
+  "id": 3,
+  "params": "[REDACTED]"
+}
+[04/22/18, 20:28:02:896] info: Store: OPEN_CONTEXT_MENU
+{
+  "id": 3,
+  "params": "[REDACTED]"
+}
+[04/22/18, 20:28:13:448] info: Store: OPEN_CONTEXT_MENU
+{
+  "id": 3,
+  "params": "[REDACTED]"
+}
+[04/22/18, 20:28:21:447] info: Store: OPEN_CONTEXT_MENU
+{
+  "id": 3,
+  "params": "[REDACTED]"
+}
+[04/22/18, 20:28:33:139] info: Store: OPEN_CONTEXT_MENU
+{
+  "id": 3,
+  "params": "[REDACTED]"
+}
+[04/22/18, 20:28:42:551] info: Store: OPEN_CONTEXT_MENU
+{
+  "id": 3,
+  "params": "[REDACTED]"
+}
+[04/22/18, 21:06:24:279] info: Store: SET_NETWORK_STATUS offline
+[04/22/18, 21:06:25:256] info: Store: SET_NETWORK_STATUS online
+[04/22/18, 21:36:24:320] info: Store: SET_NETWORK_STATUS offline
+[04/22/18, 21:36:29:491] info: Store: SET_NETWORK_STATUS online
+[04/22/18, 21:42:25:874] info: Store: SET_NETWORK_STATUS offline
+[04/22/18, 21:42:27:053] info: Store: SET_NETWORK_STATUS online
+[04/22/18, 22:06:46:185] info: Store: SET_NETWORK_STATUS offline
+[04/22/18, 22:06:46:562] info: Store: SET_NETWORK_STATUS online
+[04/22/18, 22:14:21:574] info: Store: SET_NETWORK_STATUS offline
+[04/22/18, 22:14:22:433] info: Store: SET_NETWORK_STATUS online
+[04/22/18, 22:22:16:143] info: Store: UNLOAD_WEB_CONTENTS T9C6NUMBJ
+[04/22/18, 22:46:22:659] info: Store: SET_NETWORK_STATUS offline
+[04/22/18, 22:46:24:052] info: Store: SET_NETWORK_STATUS online
+[04/22/18, 22:48:29:538] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/22/18, 22:48:49:393] info: Store: START_DOWNLOAD
+{
+  "id": "FAB8K8R37",
+  "teamId": "T8U7NRKQU",
+  "url": "[REDACTED]"
+}
+[04/22/18, 22:48:49:404] info: Store: UPDATE_DOWNLOAD
+{
+  "downloadState": "started",
+  "id": "FAB8K8R37",
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:48:50:465] info: Store: UPDATE_DOWNLOAD
+{
+  "downloadPath": "[REDACTED]",
+  "downloadState": "progressing",
+  "id": "FAB8K8R37",
+  "requestState": null,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:48:50:475] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAB8K8R37",
+  "isPaused": false,
+  "progress": 0,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:48:50:500] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAB8K8R37",
+  "isPaused": false,
+  "progress": 0,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:48:50:776] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAB8K8R37",
+  "isPaused": false,
+  "progress": 1,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:48:51:085] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAB8K8R37",
+  "isPaused": false,
+  "progress": 1,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:48:51:090] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAB8K8R37",
+  "isPaused": false,
+  "progress": 1,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:48:51:113] info: Store: UPDATE_DOWNLOAD
+{
+  "downloadState": "completed",
+  "endTime": 1524437331108,
+  "id": "FAB8K8R37",
+  "requestState": null,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:48:51:163] info: Store: DOWNLOAD_NOTIFICATION
+{
+  "avatarImage": "",
+  "body": "",
+  "channel": "",
+  "content": "[REDACTED]",
+  "id": "T8U7NRKQUFAB8K8R37",
+  "initials": "",
+  "msg": "[REDACTED]",
+  "silent": false,
+  "sound": "confirm_delivery.mp3",
+  "ssbFilename": "confirm_delivery.mp3",
+  "subtitle": "",
+  "teamId": "T8U7NRKQU",
+  "title": "Download complete",
+  "type": 1
+}
+[04/22/18, 22:53:36:561] info: Store: START_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "teamId": "T8U7NRKQU",
+  "url": "[REDACTED]"
+}
+[04/22/18, 22:53:36:564] info: Store: UPDATE_DOWNLOAD
+{
+  "downloadState": "started",
+  "id": "FAAT6K3N0",
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:37:520] info: Store: UPDATE_DOWNLOAD
+{
+  "downloadPath": "[REDACTED]",
+  "downloadState": "progressing",
+  "id": "FAAT6K3N0",
+  "requestState": null,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:37:524] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:37:533] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:38:031] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.001851773938125053,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:38:530] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.008531004542865409,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:39:032] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.016931071933645278,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:39:125] info: Store: START_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "teamId": "T8U7NRKQU",
+  "url": "[REDACTED]"
+}
+[04/22/18, 22:53:39:134] info: Store: UPDATE_DOWNLOAD
+{
+  "highlight": true,
+  "id": "FAAT6K3N0",
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:39:136] info: Store: UPDATE_DOWNLOAD
+{
+  "highlight": true,
+  "id": "FAAT6K3N0",
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:39:137] info: Store: UPDATE_DOWNLOAD
+{
+  "downloadState": "completed",
+  "endTime": 1524437619130,
+  "id": "FAAT6K3N0",
+  "requestState": null,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:39:138] info: Store: UPDATE_DOWNLOAD
+{
+  "downloadState": "completed",
+  "endTime": 1524437619132,
+  "id": "FAAT6K3N0",
+  "requestState": null,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:39:532] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.02553997888850745,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:40:034] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.033891991183573236,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:40:135] info: Store: UPDATE_DOWNLOAD
+{
+  "highlight": false,
+  "id": "FAAT6K3N0",
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:40:145] info: Store: UPDATE_DOWNLOAD
+{
+  "highlight": false,
+  "id": "FAAT6K3N0",
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:40:536] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.0425627129386057,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:41:034] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.05097162759939117,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:41:536] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.05958708446685416,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:42:037] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.06833859866061864,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:42:536] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.07710441023823193,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:43:040] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.0852128965383993,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:43:538] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.09409925827983188,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:44:042] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.10278799840450972,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:44:540] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.11149734142591329,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:45:041] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.11972311515358573,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:45:541] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.12816354515876957,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:46:043] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.1368050916967601,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:46:543] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.14519865805488394,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:47:043] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.15234231534498005,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:47:545] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.16146922751467244,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:48:045] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.1695013511211037,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:48:545] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.1776243547648714,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:49:047] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.18602616961367724,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:49:548] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.19498450707380174,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:50:047] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.2034775807795161,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:50:548] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.21228016229559185,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:51:048] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.2209040509535298,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:51:550] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.22971339012197173,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:52:050] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.23803697261915352,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:52:550] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.24630227800216864,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:53:051] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.25458362822705854,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:53:552] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.26312065722311834,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:54:051] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.27175230557229046,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:54:552] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.28044543267201255,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:55:052] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.2888537974334192,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:55:552] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.2974784192905289,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:56:054] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.3054431863330501,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:56:552] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.3122826026268351,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:57:055] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.31989066827230767,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:57:554] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.3279936800186594,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:58:054] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.3364032178987409,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:58:556] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.3447134439510109,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:59:058] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.35309619562135164,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:53:59:558] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.36160407995033506,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:00:058] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.3703060787600351,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:00:559] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.3789731895091467,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:01:060] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.3873092241722618,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:01:560] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.39612191161692134,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:02:061] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.40483125463832487,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:02:562] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.41312866192507575,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:03:061] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.4215375765858612,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:03:562] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.4301131596383681,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:04:064] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.4387820056255195,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:04:563] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.4467468093279994,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:05:066] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.45425035743154124,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:05:564] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.4623588437317086,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:06:065] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.4705437049455983,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:06:566] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.4793874067152221,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:07:067] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.48776772660830997,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:07:568] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.4961330281383634,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:08:068] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.5049952798470322,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:08:570] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.5133933309400898,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:09:070] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.5221254520157619,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:09:570] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.5306648516891437,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:10:070] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.539371934013101,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:10:570] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.5482261327508668,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:11:071] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.5564836173427168,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:11:572] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.5645643276142617,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:12:076] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.5689689971984826,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:12:571] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.5730732384220855,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:13:080] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.5766501139214323,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:13:574] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.5801263333944863,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:14:073] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.5840145374821376,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:14:574] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.5876183580510457,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:15:075] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.5915221670610687,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:15:579] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.5953686032359037,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:16:075] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.5987355760323692,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:16:578] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6022988629070666,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:17:077] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6056022551153565,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:17:577] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6090030039536666,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:18:077] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6128513342263617,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:18:578] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6161547264346517,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:19:079] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6186584916262483,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:19:582] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6208608264183588,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:20:080] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.623263153504546,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:20:582] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6253541642224149,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:21:083] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6286519596770272,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:21:583] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6316435100575924,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:22:084] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6346084453082237,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:22:585] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6380870782285513,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:23:085] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6425621410432517,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:23:586] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.646886598638085,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:24:086] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6509795485944432,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:24:586] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6552049876411337,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:25:087] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6595936123834798,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:25:587] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6637982896736241,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:26:091] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6676021025366089,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:26:590] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6715135612579904,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:27:094] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6751173818268984,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:27:590] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6790216307564246,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:28:089] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6830258758329891,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:28:590] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6866129305808368,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:29:091] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6899163227891268,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:29:591] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.693799455582507,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:30:093] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.6971845628384867,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:30:593] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7004072481479481,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:31:093] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7039553639097836,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:31:595] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7076785248638776,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:32:096] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.711416704181006,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:32:596] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7149565164622216,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:33:097] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7184994570599034,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:33:596] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7219757131929159,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:34:099] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7255988779999715,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:34:598] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7292623015515485,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:35:099] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7328320344689639,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:35:599] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7363583192254611,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:36:101] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7395617152867127,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:36:600] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7428651074950027,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:37:102] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7467047982374576,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:37:601] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7501319789059087,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:38:104] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.753989254208499,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:38:603] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7575930747774071,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:39:104] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7612091031125245,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:39:604] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7647596689815923,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:40:106] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7678535617465454,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:40:606] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7717578106760716,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:41:110] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7749768483196535,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:41:607] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7785440578099196,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:42:110] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7817782665663634,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:42:609] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7856798943088505,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:43:111] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.78915571052236,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:43:610] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7927205248953318,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:44:110] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7967848800839924,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:44:612] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.7999882761452439,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:45:112] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8035940763519157,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:45:613] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8068974685602057,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:46:115] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8104991995114743,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:46:614] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8141051096980217,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:47:115] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8171258047456634,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:47:615] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8207296253145715,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:48:118] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8245508883178435,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:48:615] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8277542843790952,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:49:117] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8310021978500571,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:49:617] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8348346421406981,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:50:120] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8384384627096062,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:50:621] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8420100225149579,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:51:119] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.845779423896816,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:51:624] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8493857740028665,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:52:121] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8529895945717746,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:52:637] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8564866735612644,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:53:125] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8597900657695543,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:53:625] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8635606891500319,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:54:125] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8670925095602756,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:54:631] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8703741257531651,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:55:127] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8736775179614551,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:55:628] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8772813385303632,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:56:128] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8806847268856914,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:56:628] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8842885474545995,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:57:131] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8878923680235076,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:57:630] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8911341715013719,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:58:133] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8943818039126514,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:58:631] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.8976137825216144,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:59:131] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9006094999174723,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:54:59:634] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9039013686787799,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:00:133] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9077156785099066,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:00:633] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9116199274394328,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:01:135] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9152443264650941,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:01:639] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.918819454506415,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:02:137] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9227203062797789,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:02:635] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9257237100469538,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:03:137] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.929127098402282,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:03:638] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.932430930530075,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:04:138] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.936034751098983,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:04:639] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9392554384407014,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:05:139] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.942458834501953,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:05:642] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9460075184931467,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:06:140] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9499117674226728,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:06:642] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9536880119968004,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:07:143] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9574507168262232,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:07:643] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9610409487704819,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:08:146] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9649584808250026,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:08:647] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9706305462774971,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:09:147] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9766359362934482,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:09:647] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9832282889063312,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:10:148] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9901378845808373,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:10:651] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 0.9979516125939814,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:10:759] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 1,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:10:761] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 1,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:10:926] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FAAT6K3N0",
+  "isPaused": false,
+  "progress": 1,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:55:10:928] info: Store: UPDATE_DOWNLOAD
+{
+  "downloadState": "completed",
+  "endTime": 1524437710927,
+  "id": "FAAT6K3N0",
+  "requestState": null,
+  "teamId": "T8U7NRKQU"
+}
+[04/22/18, 22:58:25:273] info: Store: FOREGROUND_APP
+[04/22/18, 22:58:26:324] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    764,
+    115
+  ],
+  "size": [
+    1152,
+    961
+  ]
+}
+[04/22/18, 22:59:51:091] info: Store: SET_NETWORK_STATUS offline

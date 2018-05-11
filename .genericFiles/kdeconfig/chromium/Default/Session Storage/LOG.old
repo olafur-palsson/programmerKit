@@ -1,0 +1,25 @@
+2018/05/10-13:27:39.140 3160 Reusing MANIFEST /home/pimp-of-pimps/.config/chromium/Default/Session Storage/MANIFEST-000001
+2018/05/10-13:27:39.140 3160 Recovering log #328
+2018/05/10-13:27:39.141 3160 Reusing old log /home/pimp-of-pimps/.config/chromium/Default/Session Storage/000328.log 
+2018/05/10-13:39:10.404 3640 Level-0 table #332: started
+2018/05/10-13:39:10.410 3640 Level-0 table #332: 12766 bytes OK
+2018/05/10-13:39:10.415 3640 Delete type=0 #328
+2018/05/10-13:49:12.431 3640 Level-0 table #334: started
+2018/05/10-13:49:12.434 3640 Level-0 table #334: 15587 bytes OK
+2018/05/10-13:49:12.437 3640 Delete type=0 #331
+2018/05/10-14:28:49.682 3640 Compacting 2@0 + 1@1 files
+2018/05/10-14:28:49.690 3640 Generated table #335@0: 836 keys, 26333 bytes
+2018/05/10-14:28:49.690 3640 Compacted 2@0 + 1@1 files => 26333 bytes
+2018/05/10-14:28:49.694 3640 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/05/10-14:28:49.694 3640 Delete type=2 #329
+2018/05/10-14:28:49.694 3640 Delete type=2 #332
+2018/05/10-14:28:49.694 3640 Delete type=2 #334
+2018/05/10-14:41:13.733 3640 Level-0 table #337: started
+2018/05/10-14:41:13.739 3640 Level-0 table #337: 18612 bytes OK
+2018/05/10-14:41:13.743 3640 Delete type=0 #333
+2018/05/10-15:11:10.409 3640 Compacting 1@0 + 1@1 files
+2018/05/10-15:11:10.415 3640 Generated table #338@0: 1065 keys, 38639 bytes
+2018/05/10-15:11:10.415 3640 Compacted 1@0 + 1@1 files => 38639 bytes
+2018/05/10-15:11:10.417 3640 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/05/10-15:11:10.417 3640 Delete type=2 #337
+2018/05/10-15:11:10.418 3640 Delete type=2 #335

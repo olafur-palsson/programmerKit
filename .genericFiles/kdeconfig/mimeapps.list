@@ -1,0 +1,11 @@
+[Added Associations]
+application/xml=org.kde.kate.desktop;chromium-browser.desktop;firefox.desktop;org.kde.kwrite.desktop;libreoffice-writer.desktop;okularApplication_txt.desktop;vim.desktop;nvim.desktop;atom.desktop;
+inode/directory=org.kde.dolphin.desktop;org.kde.konsole.desktop;org.kde.gwenview.desktop;
+
+[Default Applications]
+application/xml=org.kde.kate.desktop;
+inode/directory=org.kde.dolphin.desktop;
+text/html=chromium-browser.desktop
+x-scheme-handler/http=chromium-browser.desktop;
+x-scheme-handler/https=chromium-browser.desktop;
+x-scheme-handler/slack=slack_slack.desktop

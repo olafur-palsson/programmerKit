@@ -1,0 +1,9 @@
+2018/05/04-12:25:37.508 17939 Reusing MANIFEST /home/pimp-of-pimps/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2018/05/04-12:25:37.508 17939 Recovering log #922
+2018/05/04-12:25:37.517 17939 Reusing old log /home/pimp-of-pimps/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000922.log 
+2018/05/04-13:40:53.857 22561 Level-0 table #926: started
+2018/05/04-13:40:53.885 22561 Level-0 table #926: 2444234 bytes OK
+2018/05/04-13:40:53.888 22561 Delete type=0 #922
+2018/05/04-16:24:55.095 22561 Level-0 table #928: started
+2018/05/04-16:24:55.132 22561 Level-0 table #928: 2343690 bytes OK
+2018/05/04-16:24:55.137 22561 Delete type=0 #925

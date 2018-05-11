@@ -1,0 +1,261 @@
+[04/21/18, 15:27:15:730] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/21/18, 15:27:15:732] info: ║      Slack 3.1.1, linux 4.13.0-36-generic on x64 at 04/21/18, 15:27:15:711      ║
+[04/21/18, 15:27:15:732] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/21/18, 15:27:16:219] info: Initializing local storage instance at path: /home/pimp-of-pimps/.config/Slack/local-settings.json
+[04/21/18, 15:27:17:687] info: cld3::loadModule: loading cld3 module
+[04/21/18, 15:27:17:803] info: cld3Loader::loadModule: running environment is NODE
+[04/21/18, 15:27:17:803] info: cld3Loader::loadModule: constructed module object for runtime
+[04/21/18, 15:27:18:394] info: cld3Loader::initializeRuntime: successfully initialized module
+[04/21/18, 15:27:18:395] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[04/21/18, 15:27:18:403] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[04/21/18, 15:27:18:405] info: SSBIntegration: Main window preload script loaded 3758.152754
+[04/21/18, 15:27:27:315] info: Store: SELECT_CHANNEL D8TJFNSHW
+[04/21/18, 15:27:27:321] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/21/18, 15:27:27:323] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[04/21/18, 15:27:27:331] info: Store: SELECT_CHANNEL C9CRAPUAG
+[04/21/18, 15:27:27:333] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/21/18, 15:27:27:334] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/21/18, 15:27:27:335] info: Store: MAIN_WINDOW_SHOWN
+[04/21/18, 15:27:27:337] info: Store: SET_FULL_SCREEN
+[04/21/18, 15:27:27:340] info: Store: SET_FULL_SCREEN
+[04/21/18, 15:27:27:342] info: Store: SET_FULL_SCREEN
+[04/21/18, 15:27:27:344] info: Store: SET_FULL_SCREEN
+[04/21/18, 15:27:27:345] info: Store: SET_FULL_SCREEN
+[04/21/18, 15:27:27:347] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T8U7NRKQU"
+}
+[04/21/18, 15:27:27:356] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/21/18, 15:27:27:443] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9C6NUMBJ"
+}
+[04/21/18, 15:27:27:446] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T8U7NRKQU",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/21/18, 15:27:27:448] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/21/18, 15:27:27:450] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/21/18, 15:27:27:458] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/21/18, 15:27:27:524] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9C6NUMBJ",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/21/18, 15:27:27:564] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T9C6NUMBJ",
+  "token": "xoxs-⋯"
+}
+[04/21/18, 15:27:30:494] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T8U7NRKQU"
+}
+[04/21/18, 15:27:30:503] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/21/18, 15:27:31:015] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T8U7NRKQU",
+  "token": "xoxs-⋯"
+}
+[04/21/18, 15:27:31:954] info: Store: MAIN_WINDOW_FOCUSED
+[04/21/18, 15:27:32:041] info: Store: SELECT_TEAM T9C6NUMBJ
+[04/21/18, 15:27:33:638] info: Store: MAIN_WINDOW_FOCUSED
+[04/21/18, 15:27:33:650] info: Store: SELECT_TEAM T8U7NRKQU
+[04/21/18, 15:27:34:609] info: Raw Locale list: ["C","C.UTF-8","en_US.utf8","is_IS.utf8","POSIX",""]
+[04/21/18, 15:27:34:609] info: Filtered Locale list: ["en_US","is_IS"]
+[04/21/18, 15:27:34:609] info: Counts: {"en":["en_US"],"is":["is_IS"]}
+[04/21/18, 15:27:34:610] info: Setting en
+[04/21/18, 15:27:34:611] info: Setting is
+[04/21/18, 15:27:34:611] info: Result: {"en":"en-US","is":"is-IS"}
+[04/21/18, 15:27:34:614] info: Requesting to load is-IS, alternatives are ["is-IS","is-IS","is-IS"]
+[04/21/18, 15:27:34:615] info: Loading dictionary for language is-IS
+[04/21/18, 15:27:34:616] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/21/18, 15:27:34:619] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/21/18, 15:27:34:620] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/21/18, 15:27:35:132] info: Loading dictionary for language is-IS
+[04/21/18, 15:27:35:133] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/21/18, 15:27:35:134] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/21/18, 15:27:35:135] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/21/18, 15:27:35:253] info: Loading dictionary for language is-IS
+[04/21/18, 15:27:35:254] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/21/18, 15:27:35:255] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/21/18, 15:27:35:255] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/21/18, 15:27:35:375] info: dictionary for is-IS_is-IS is not available
+[04/21/18, 15:27:35:376] info: Actually installing spell check provider to Electron
+[04/21/18, 15:27:36:945] info: Store: MAIN_WINDOW_FOCUSED
+[04/21/18, 15:27:37:043] info: Store: SELECT_TEAM T9C6NUMBJ
+[04/21/18, 15:27:46:022] info: Unloading spellchecker
+[04/21/18, 15:27:46:038] info: Store: MAIN_WINDOW_FOCUSED
+[04/21/18, 15:27:46:041] info: Restoring spellchecker
+[04/21/18, 15:27:46:042] info: Requesting to load is-IS, alternatives are ["is-IS","is-IS","is-IS"]
+[04/21/18, 15:27:46:042] info: Loading dictionary for language is-IS
+[04/21/18, 15:27:46:043] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/21/18, 15:27:46:055] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/21/18, 15:27:46:056] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/21/18, 15:27:46:125] info: Store: SELECT_TEAM T8U7NRKQU
+[04/21/18, 15:27:46:132] info: Unloading spellchecker
+[04/21/18, 15:27:46:135] info: Unloading spellchecker
+[04/21/18, 15:27:47:233] info: Loading dictionary for language is-IS
+[04/21/18, 15:27:47:233] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/21/18, 15:27:47:240] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/21/18, 15:27:47:242] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/21/18, 15:27:47:484] info: Loading dictionary for language is-IS
+[04/21/18, 15:27:47:484] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic
+[04/21/18, 15:27:47:485] info: Failed to read file /home/pimp-of-pimps/.config/Slack/dictionaries/is-IS.bdic: File exists but is most likely bogus
+[04/21/18, 15:27:47:486] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/is-is-3-0.bdic
+[04/21/18, 15:27:47:994] info: dictionary for is-IS_is-IS is not available
+[04/21/18, 15:27:48:485] info: Store: SELECT_CHANNEL C8TMARN2V
+[04/21/18, 15:29:51:447] info: Store: MAIN_WINDOW_FOCUSED
+[04/21/18, 15:29:52:427] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/21/18, 15:57:02:070] info: Store: MAIN_WINDOW_FOCUSED
+[04/21/18, 15:57:03:054] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/21/18, 15:59:55:152] info: Store: SET_NETWORK_STATUS offline
+[04/21/18, 15:59:56:795] info: Store: SET_NETWORK_STATUS online
+[04/21/18, 16:00:29:110] info: Store: SET_NETWORK_STATUS offline
+[04/21/18, 16:00:58:900] error: Apr-21 16:00:58.899 T9C6NUMBJ SOCKET-MANAGER: Closing socket due to unknown error
+[04/21/18, 16:01:02:213] info: Store: SET_NETWORK_STATUS online
+[04/21/18, 16:03:32:145] info: Store: SET_NETWORK_STATUS offline
+[04/21/18, 16:03:49:768] info: Store: SET_NETWORK_STATUS online
+[04/21/18, 17:11:28:440] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T8U7NRKQU-U8U581G3V-g01dbb70d805-512",
+  "channel": "C8TMARN2V",
+  "content": "[REDACTED]",
+  "id": "APpxi9hYK98jW7n",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C8TMARN2V&message=1524330688.000015&team=T8U7NRKQU",
+  "msg": "1524330688.000015",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T8U7NRKQU",
+  "title": "[REDACTED]"
+}
+[04/21/18, 17:11:51:102] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T8U7NRKQU-U8U581G3V-g01dbb70d805-512",
+  "channel": "C8TMARN2V",
+  "content": "[REDACTED]",
+  "id": "OyKRTNir1kvVqDD",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C8TMARN2V&message=1524330710.000106&team=T8U7NRKQU",
+  "msg": "1524330710.000106",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T8U7NRKQU",
+  "title": "[REDACTED]"
+}
+[04/21/18, 17:27:01:879] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T8U7NRKQU-U8U581G3V-g01dbb70d805-512",
+  "channel": "C8TMARN2V",
+  "content": "[REDACTED]",
+  "id": "vo1ktOsA6zXMO2y",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C8TMARN2V&message=1524331621.000116&team=T8U7NRKQU",
+  "msg": "1524331621.000116",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T8U7NRKQU",
+  "title": "[REDACTED]"
+}
+[04/21/18, 17:31:37:679] info: Store: MAIN_WINDOW_FOCUSED
+[04/21/18, 17:31:38:015] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/21/18, 19:08:38:870] info: Store: SET_NETWORK_STATUS offline

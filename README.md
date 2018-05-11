@@ -23,6 +23,10 @@
 
  ## Setup tools
 
+  setupkde
+
+     # Copies .config into homefolder, has kde settings in it
+
   setupall
 
      # Setup environment by executing all scripts in ~.genericFIles/setupScripts/

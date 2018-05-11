@@ -1,0 +1,41 @@
+[04/17/18, 00:51:15:585] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/17/18, 00:51:15:586] info: ║      Slack 3.1.1, linux 4.13.0-36-generic on x64 at 04/17/18, 00:51:15:580      ║
+[04/17/18, 00:51:15:586] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/17/18, 00:51:15:937] info: Initializing local storage instance at path: /home/pimp-of-pimps/.config/Slack/local-settings.json
+[04/17/18, 00:51:16:796] info: cld3::loadModule: loading cld3 module
+[04/17/18, 00:51:16:836] info: cld3Loader::loadModule: running environment is NODE
+[04/17/18, 00:51:16:836] info: cld3Loader::loadModule: constructed module object for runtime
+[04/17/18, 00:51:17:278] info: cld3Loader::initializeRuntime: successfully initialized module
+[04/17/18, 00:51:17:279] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[04/17/18, 00:51:17:284] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[04/17/18, 00:51:17:285] info: SSBIntegration: Main window preload script loaded 2299.501248
+[04/17/18, 00:51:19:252] info: Store: SET_NETWORK_STATUS offline
+[04/17/18, 00:51:26:367] info: Store: MAIN_WINDOW_FOCUSED
+[04/17/18, 00:51:26:465] info: Store: SELECT_TEAM T8U7NRKQU
+[04/17/18, 00:51:26:471] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[04/17/18, 00:51:26:541] info: Store: MAIN_WINDOW_FOCUSED
+[04/17/18, 00:51:26:640] info: Store: SELECT_TEAM T8U7NRKQU
+[04/17/18, 00:51:26:745] info: Store: SET_NETWORK_STATUS online
+[04/17/18, 00:51:30:439] info: Store: MAIN_WINDOW_FOCUSED
+[04/17/18, 00:51:30:525] info: Store: SELECT_TEAM T8U7NRKQU
+[04/17/18, 00:51:30:583] info: Store: MAIN_WINDOW_FOCUSED
+[04/17/18, 00:51:30:678] info: Store: SELECT_TEAM T8U7NRKQU
+[04/17/18, 00:51:35:166] info: Store: MAIN_WINDOW_FOCUSED
+[04/17/18, 00:51:35:259] info: Store: SELECT_TEAM T9C6NUMBJ
+[04/17/18, 00:51:36:930] info: Store: MAIN_WINDOW_FOCUSED
+[04/17/18, 00:51:37:049] info: Store: SELECT_TEAM T8U7NRKQU
+[04/17/18, 00:51:41:823] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    29
+  ],
+  "size": [
+    1920,
+    1051
+  ]
+}

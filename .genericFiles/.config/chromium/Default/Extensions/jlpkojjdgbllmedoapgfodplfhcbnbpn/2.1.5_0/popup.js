@@ -1,0 +1,1 @@
+(function(){chrome.runtime.sendMessage({action:'trackPageview',page:location.pathname+location.hash});var a=document.querySelector('p');switch(location.hash){case'#local':a.innerText=chrome.i18n.getMessage('errorLocal');break;case'#webstore':a.innerText=chrome.i18n.getMessage('errorWebStore');}})();

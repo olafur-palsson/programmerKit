@@ -1,0 +1,32 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "icon19.png",
+         "38": "icon38.png"
+      },
+      "name": "Launch Readlang Web Reader"
+   },
+   "content_scripts": [ {
+      "js": [ "contentScript.js" ],
+      "matches": [ "http://readlang.com/*", "https://readlang.com/*", "http://test.readlang.com/*" ]
+   }, {
+      "js": [ "allPagesContentScript.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Read websites in the language you're learning, translate words you don't know, and we'll create flashcards to help you remember.",
+   "icons": {
+      "128": "icon96_128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDspxQyR6PgfQyMWpO372kfTDoNpokE9yDpMtUCzNTDox5g2z1SCiXi4uWJtQnypeoL4D+bST+5TABd93JsevdO0bIzOxOusVTLeOJugPXMLXA2RwxcUD8xjFQHnQXTimqOIYHPMuxPnr9BRmIYi0i92mPNZDNpNfTV6YOHssYdZwIDAQAB",
+   "manifest_version": 2,
+   "name": "Readlang Web Reader",
+   "permissions": [ "contextMenus", "tabs", "http://*/*", "https://*/*" ],
+   "short_name": "Readlang",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.6.2"
+}

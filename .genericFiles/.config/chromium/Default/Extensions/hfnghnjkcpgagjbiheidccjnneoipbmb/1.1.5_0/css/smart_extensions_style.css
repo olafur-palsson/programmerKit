@@ -1,0 +1,238 @@
+html[comment="false"] #watch-discussion, html[comment="false"] #watch-sidebar-discussion, html[comment="false"] #comments {
+	display: none;
+}
+
+html[mine="false"] #feed, html[mine="false"] #video-masthead {
+	display: none;
+}
+
+html[mine="false"] ytd-browse[page-subtype="home"] {
+	display: none;
+}
+
+html[playlist="false"] #player-playlist .watch-playlist, html[playlist="false"] #playlist {
+ 	display: none;
+ }
+
+html[right="false"] #page .content-alignment {
+	min-width: auto !important;
+}
+
+/*скрыть левый сайт бар и еще кучу дерьма после видео*/
+html[right="false"] #watch7-sidebar, html[right="false"] .video-ads/*, html[right="false"]  .html5-endscreen*/ {
+	display: none;	
+}
+
+html[right="false"] #masthead-positioner {
+	margin: auto;
+}
+
+/*размеры футера*/
+html[right="false"] #yt-masthead, html[right="false"] #footer {
+	max-width: 838px;
+	margin: auto;
+}
+
+html[right="false"] #watch7-content {
+	margin: auto !important;
+}
+
+/*плеер*/
+html[right="false"] #player .player-api {
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+}
+
+/*подложка под плеер*/
+html[right="false"] #placeholder-player .player-api {
+	margin: auto;
+}
+
+/*выравниваем комментарии*/
+html[right="false"] .watch-main-col {
+	float: none !important;
+}
+
+html[right="false"] #player-playlist .watch-playlist {
+	margin-left: 0;
+    width: calc((100% - 650px)/2);
+    min-width: 180px;
+    max-width: 300px;
+    left: calc(50% + 640px/2);
+}
+
+html[right="false"] #page.watch .content-alignment {
+	max-width: 100%;
+}
+
+@media screen and (max-width: 656px) {
+	html[right="false"] .player-width {
+		left: 0;
+	}
+	html[right="false"] #player-playlist .watch-playlist {
+		margin-left: auto;
+		width: 100%;
+		max-width: 424px;
+		left: 0;
+	}
+}
+
+
+@media screen and (min-height: 630px) and (min-width: 1294px) {
+	html[right="false"] #player-playlist .watch-playlist {
+		margin-left: 0;
+		right: 0;
+	    width: calc((100% - 874px)/2);
+	    min-width: 216px;
+	    max-width: 430px;
+	    left: calc(50% + 854px/2);
+	}
+
+}
+
+@media screen and (min-height: 980px) and (min-width: 1720px) {
+	html[right="false"] #yt-masthead, html[right="false"] #footer {
+		max-width: 1280px;
+	}
+	html[right="false"] .show-guide .appbar-guide-menu-layout {
+		left: calc(50% - 1280px/2 - 230px) !important;
+	}
+	html[right="false"] #player-playlist .watch-playlist {
+		margin-left: 0;
+		right: 0;
+	    width: calc((100% - 1290px)/2);
+	    min-width: 216px;
+	    max-width: 470px;
+	    left: calc(50% + 1280px/2);
+	}
+}
+
+html[right="false"] #related {
+	display: none !important;
+}
+
+
+html[right="false"] #playlist > .ytd-playlist-panel-renderer {
+	min-width:290px;
+}
+
+
+@media (min-width: 1000px) and (max-width: 1500px) {
+	html[right="false"] #playlist > .ytd-playlist-panel-renderer {
+		min-width: 240px;
+	}
+}
+
+
+@media (min-width: 1520px) {
+	html[right="false"] #playlist > .ytd-playlist-panel-renderer {
+		min-width: 356px;
+	}
+}
+
+
+html[right="false"] #playlist .ytd-watch {
+	width: auto;
+}
+
+html[right="false"] #main.ytd-watch, html[right="false"] #top.ytd-watch {
+	width: auto;
+}
+
+@media (max-width: 1000px) {
+ html[right="false"] #main.ytd-watch, html[right="false"] #top.ytd-watch {
+ 	width: 100%;
+ }
+}
+
+html[tranding="false"] .ytd-guide-section-renderer[role="option"]:nth-child(2n) {
+ 	display: none;
+}
+
+html[videowall="false"] .html5-endscreen {
+	display: none;
+}
+
+html[mine_recommen="false"] #contents:first-child div#dismissable.style-scope.ytd-shelf-renderer{
+	display: none;
+}
+
+html[vk_people_you_may_know="false"] #friends_possible_block{
+	display: none;
+}
+
+html[vk_ads="false"] .ads_ads_box{
+	display: none;
+}
+
+html[vk_ads="false"] #ads_left {
+	display: none;
+}
+
+html[vk_ads="false"] [class~="_ads"] {
+	display: none;
+}
+
+html[vk_history="false"] .stories_feed_wrap{
+	display: none;
+} 
+html[fb_people_you_may_know="false"] [data-story_category="4"]{
+	display: none;
+}
+html[fb_people_you_may_know="false"] #pagelet_ego_pane {
+	display: none;
+}
+html[fb_people_you_may_know="false"] #pagelet_pymk_timeline {
+	display: none;
+}
+
+html[fb_people_you_may_know="false"] #fbSearchResultsBox {
+	display: none;
+}
+
+
+html[vk_menu_myprofile="false"] #l_pr,
+html[vk_menu_news="false"] #l_nwsf,
+html[vk_menu_messages="false"] #l_msg,
+html[vk_menu_friends="false"] #l_fr,
+html[vk_menu_communities="false"] #l_gr,
+html[vk_menu_photos="false"] #l_ph,
+html[vk_menu_music="false"] #l_aud,
+html[vk_menu_videos="false"] #l_vid,
+html[vk_menu_games="false"] #l_ap,
+html[vk_menu_market="false"] #l_mk,
+html[vk_menu_bookmarks="false"] #l_fav,
+html[vk_menu_documents="false"] #l_doc,
+html[vk_menu_ads="false"] #l_ads {
+	display: none !important;
+}
+
+html[fb_menu_news_feed="false"] #navItem_4748854339,
+html[fb_menu_items_messenger="false"] #navItem_217974574879787,
+html[fb_menu_groups="false"] #navItem_1434659290104689,
+html[fb_menu_pages="false"] #navItem_2530096808,
+html[fb_menu_events="false"] #navItem_2344061033,
+html[fb_menu_friend_lists="false"] #navItem_1572366616371383,
+html[fb_menu_on_this_day="false"] #navItem_303257506544370,
+html[fb_menu_pages_feed="false"] #navItem_140472815972081,
+html[fb_menu_find_friends="false"] #navItem_2356318349,
+html[fb_menu_manage_apps="false"] #navItem_2345053339,
+html[fb_menu_recommendations="false"] #navItem_577076605805053,
+html[fb_menu_insights="false"] #navItem_188833664616804,
+html[fb_menu_games="false"] #navItem_140332009231,
+html[fb_menu_photos="false"] #navItem_2305272732,
+html[fb_menu_offers="false"] #navItem_526732794016279,
+html[fb_menu_live_video="false"] #navItem_1031093773624602,
+html[fb_menu_payment_history="false"] #navItem_969105076459966,
+html[fb_menu_gaming_video="false"] #navItem_285571681929755,
+html[fb_menu_buy_and_sell_groups="false"] #navItem_1433252076974635,
+html[fb_menu_discover_people="false"] #navItem_645191315628772,
+html[fb_menu_crisis_response="false"] #navItem_765518473459969,
+html[fb_menu_recent_ad_activity="false"] #navItem_280033845760645,
+html[fb_menu_saved="false"] #navItem_586254444758776,
+html[fb_menu_create_a_frame="false"] #navItem_336549256737756,
+html[fb_menu_weather="false"] #navItem_302677536798470 {
+	display: none !important;
+}

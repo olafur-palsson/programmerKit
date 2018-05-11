@@ -1,0 +1,275 @@
+[04/19/18, 15:33:48:993] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/19/18, 15:33:48:995] info: ║      Slack 3.1.1, linux 4.13.0-36-generic on x64 at 04/19/18, 15:33:48:984      ║
+[04/19/18, 15:33:48:995] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/19/18, 15:33:49:306] info: Initializing local storage instance at path: /home/pimp-of-pimps/.config/Slack/local-settings.json
+[04/19/18, 15:33:50:716] info: cld3::loadModule: loading cld3 module
+[04/19/18, 15:33:50:855] info: cld3Loader::loadModule: running environment is NODE
+[04/19/18, 15:33:50:855] info: cld3Loader::loadModule: constructed module object for runtime
+[04/19/18, 15:33:51:417] info: cld3Loader::initializeRuntime: successfully initialized module
+[04/19/18, 15:33:51:417] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[04/19/18, 15:33:51:424] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[04/19/18, 15:33:51:426] info: SSBIntegration: Main window preload script loaded 3382.577359
+[04/19/18, 15:33:59:236] info: Store: SELECT_CHANNEL C9CRAPUAG
+[04/19/18, 15:33:59:239] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/19/18, 15:33:59:240] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[04/19/18, 15:33:59:241] info: Store: SELECT_CHANNEL C8TMARN2V
+[04/19/18, 15:33:59:241] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/19/18, 15:33:59:246] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/19/18, 15:33:59:410] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/19/18, 15:33:59:411] info: Store: MAIN_WINDOW_SHOWN
+[04/19/18, 15:33:59:413] info: Store: SET_FULL_SCREEN
+[04/19/18, 15:33:59:416] info: Store: SET_FULL_SCREEN
+[04/19/18, 15:33:59:418] info: Store: SET_FULL_SCREEN
+[04/19/18, 15:33:59:420] info: Store: SET_FULL_SCREEN
+[04/19/18, 15:33:59:420] info: Store: SET_FULL_SCREEN
+[04/19/18, 15:33:59:426] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9C6NUMBJ",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/19/18, 15:34:00:299] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9C6NUMBJ"
+}
+[04/19/18, 15:34:00:300] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T9C6NUMBJ"
+}
+[04/19/18, 15:34:00:301] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T8U7NRKQU"
+}
+[04/19/18, 15:34:00:305] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T9C6NUMBJ"
+}
+[04/19/18, 15:34:00:306] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/19/18, 15:34:00:309] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T8U7NRKQU",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/19/18, 15:34:00:314] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T9C6NUMBJ",
+  "token": "xoxs-⋯"
+}
+[04/19/18, 15:34:00:341] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/19/18, 15:34:00:694] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T8U7NRKQU"
+}
+[04/19/18, 15:34:00:928] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T8U7NRKQU"
+}
+[04/19/18, 15:34:00:937] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/19/18, 15:34:01:290] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T8U7NRKQU",
+  "token": "xoxs-⋯"
+}
+[04/19/18, 16:09:10:347] info: Store: SET_FULL_SCREEN
+[04/19/18, 16:09:11:581] info: Store: SET_FULL_SCREEN
+[04/19/18, 16:09:11:873] info: Store: SET_FULL_SCREEN
+[04/19/18, 16:09:19:258] info: Store: SET_FULL_SCREEN
+[04/19/18, 16:22:31:853] info: Store: SET_NETWORK_STATUS offline
+[04/19/18, 16:22:33:606] info: Store: SET_NETWORK_STATUS online
+[04/19/18, 16:27:04:071] info: Store: SET_FULL_SCREEN
+[04/19/18, 16:27:16:914] info: Store: SET_FULL_SCREEN
+[04/19/18, 16:27:33:159] info: Store: SET_FULL_SCREEN
+[04/19/18, 16:27:34:403] info: Store: FOREGROUND_APP
+[04/19/18, 16:27:34:521] info: Store: SET_FULL_SCREEN
+[04/19/18, 16:27:39:252] info: Store: SET_FULL_SCREEN
+[04/19/18, 16:27:49:733] info: Store: SET_FULL_SCREEN
+[04/19/18, 16:28:09:489] info: Store: SELECT_CHANNEL D8TJFNSHW
+[04/19/18, 16:28:13:797] info: Store: START_DOWNLOAD
+{
+  "id": "FA9T1H7QV",
+  "teamId": "T8U7NRKQU",
+  "url": "[REDACTED]"
+}
+[04/19/18, 16:28:13:803] info: Store: UPDATE_DOWNLOAD
+{
+  "downloadState": "started",
+  "id": "FA9T1H7QV",
+  "teamId": "T8U7NRKQU"
+}
+[04/19/18, 16:28:14:337] info: Store: UPDATE_DOWNLOAD
+{
+  "downloadPath": "[REDACTED]",
+  "downloadState": "progressing",
+  "id": "FA9T1H7QV",
+  "requestState": null,
+  "teamId": "T8U7NRKQU"
+}
+[04/19/18, 16:28:14:343] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FA9T1H7QV",
+  "isPaused": false,
+  "progress": 0,
+  "teamId": "T8U7NRKQU"
+}
+[04/19/18, 16:28:14:351] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FA9T1H7QV",
+  "isPaused": false,
+  "progress": 1,
+  "teamId": "T8U7NRKQU"
+}
+[04/19/18, 16:28:14:407] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FA9T1H7QV",
+  "isPaused": false,
+  "progress": 1,
+  "teamId": "T8U7NRKQU"
+}
+[04/19/18, 16:28:14:410] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FA9T1H7QV",
+  "isPaused": false,
+  "progress": 1,
+  "teamId": "T8U7NRKQU"
+}
+[04/19/18, 16:28:14:412] info: Store: UPDATE_DOWNLOAD
+{
+  "id": "FA9T1H7QV",
+  "isPaused": false,
+  "progress": 1,
+  "teamId": "T8U7NRKQU"
+}
+[04/19/18, 16:28:14:425] info: Store: UPDATE_DOWNLOAD
+{
+  "downloadState": "completed",
+  "endTime": 1524155294423,
+  "id": "FA9T1H7QV",
+  "requestState": null,
+  "teamId": "T8U7NRKQU"
+}
+[04/19/18, 16:28:14:471] info: Store: DOWNLOAD_NOTIFICATION
+{
+  "avatarImage": "",
+  "body": "",
+  "channel": "",
+  "content": "[REDACTED]",
+  "id": "T8U7NRKQUFA9T1H7QV",
+  "initials": "",
+  "msg": "[REDACTED]",
+  "silent": false,
+  "sound": "confirm_delivery.mp3",
+  "ssbFilename": "confirm_delivery.mp3",
+  "subtitle": "",
+  "teamId": "T8U7NRKQU",
+  "title": "Download complete",
+  "type": 1
+}
+[04/19/18, 16:31:16:474] info: Store: MAIN_WINDOW_FOCUSED
+[04/19/18, 16:31:18:702] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    29
+  ],
+  "size": [
+    1920,
+    1051
+  ]
+}
+[04/19/18, 17:02:03:551] info: Store: SET_NETWORK_STATUS offline
+[04/19/18, 17:02:09:550] info: Store: SET_NETWORK_STATUS online
+[04/19/18, 18:04:05:663] info: Store: SET_NETWORK_STATUS offline
+[04/19/18, 18:04:06:552] info: Store: SET_NETWORK_STATUS online
+[04/19/18, 18:06:04:557] info: Store: SET_NETWORK_STATUS offline
+[04/19/18, 18:06:05:553] info: Store: SET_NETWORK_STATUS online
+[04/19/18, 18:32:05:552] info: Store: SET_NETWORK_STATUS offline
+[04/19/18, 18:32:06:552] info: Store: SET_NETWORK_STATUS online
+[04/19/18, 18:34:04:559] info: Store: SET_NETWORK_STATUS offline
+[04/19/18, 18:34:05:552] info: Store: SET_NETWORK_STATUS online
+[04/19/18, 19:58:06:495] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T8U7NRKQU"
+}
+[04/19/18, 19:58:07:260] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T9C6NUMBJ"
+}
+[04/19/18, 19:58:07:286] info: Window is unloading, winssb is no longer accessible
+[04/19/18, 19:58:07:725] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T8U7NRKQU"
+}
+[04/19/18, 19:58:07:797] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9C6NUMBJ"
+}

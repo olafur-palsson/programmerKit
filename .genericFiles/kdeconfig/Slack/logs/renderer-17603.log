@@ -1,0 +1,37 @@
+[04/19/18, 15:33:48:058] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/19/18, 15:33:48:060] info: ║      Slack 3.1.1, linux 4.13.0-36-generic on x64 at 04/19/18, 15:33:48:049      ║
+[04/19/18, 15:33:48:060] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/19/18, 15:33:48:433] info: Initializing local storage instance at path: /home/pimp-of-pimps/.config/Slack/local-settings.json
+[04/19/18, 15:33:50:310] info: Store: SET_NETWORK_STATUS online
+[04/19/18, 15:33:58:509] info: Store: SELECT_CHANNEL C9CRAPUAG
+[04/19/18, 15:33:58:521] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/19/18, 15:33:58:531] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[04/19/18, 15:33:58:635] info: Store: SELECT_CHANNEL C8TMARN2V
+[04/19/18, 15:33:58:640] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/19/18, 15:33:59:172] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/19/18, 15:33:59:291] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/19/18, 15:33:59:293] info: Store: MAIN_WINDOW_SHOWN
+[04/19/18, 15:33:59:341] info: Store: SET_FULL_SCREEN
+[04/19/18, 15:33:59:342] info: Store: SET_FULL_SCREEN
+[04/19/18, 15:33:59:344] info: Store: SET_FULL_SCREEN
+[04/19/18, 15:33:59:346] info: Store: SET_FULL_SCREEN
+[04/19/18, 15:33:59:349] info: Store: SET_FULL_SCREEN

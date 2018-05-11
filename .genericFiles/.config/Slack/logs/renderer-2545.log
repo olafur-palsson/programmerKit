@@ -1,0 +1,76 @@
+[04/17/18, 00:51:10:232] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/17/18, 00:51:10:234] info: ║      Slack 3.1.1, linux 4.13.0-36-generic on x64 at 04/17/18, 00:51:10:216      ║
+[04/17/18, 00:51:10:234] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/17/18, 00:51:10:662] info: Initializing local storage instance at path: /home/pimp-of-pimps/.config/Slack/local-settings.json
+[04/17/18, 00:51:12:533] info: cld3::loadModule: loading cld3 module
+[04/17/18, 00:51:12:666] info: cld3Loader::loadModule: running environment is NODE
+[04/17/18, 00:51:12:667] info: cld3Loader::loadModule: constructed module object for runtime
+[04/17/18, 00:51:13:450] info: cld3Loader::initializeRuntime: successfully initialized module
+[04/17/18, 00:51:13:450] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[04/17/18, 00:51:13:474] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[04/17/18, 00:51:13:476] info: SSBIntegration: Main window preload script loaded 4202.995138
+[04/17/18, 00:51:13:493] info: Store: SET_NETWORK_STATUS offline
+[04/17/18, 00:51:13:504] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/17/18, 00:51:13:521] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T8U7NRKQU"
+}
+[04/17/18, 00:51:13:608] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/17/18, 00:51:13:628] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T9C6NUMBJ"
+}
+[04/17/18, 00:51:13:737] info: Store: SET_NETWORK_STATUS online
+[04/17/18, 00:51:13:753] info: Store: MAIN_WINDOW_SHOWN
+[04/17/18, 00:51:13:789] info: Store: SET_FULL_SCREEN
+[04/17/18, 00:51:13:801] info: Store: SET_FULL_SCREEN
+[04/17/18, 00:51:13:802] info: Store: SET_FULL_SCREEN
+[04/17/18, 00:51:13:802] info: Store: SET_FULL_SCREEN
+[04/17/18, 00:51:13:816] info: Store: SET_FULL_SCREEN
+[04/17/18, 00:51:13:834] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T8U7NRKQU"
+}
+[04/17/18, 00:51:13:851] info: Window is unloading, winssb is no longer accessible
+[04/17/18, 00:51:13:884] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T9C6NUMBJ"
+}
+[04/17/18, 00:51:13:901] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T8U7NRKQU"
+}
+[04/17/18, 00:51:13:912] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9C6NUMBJ"
+}
+[04/17/18, 00:51:14:134] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T8U7NRKQU"
+}
+[04/17/18, 00:51:14:142] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9C6NUMBJ"
+}

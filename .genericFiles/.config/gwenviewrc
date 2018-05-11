@@ -1,0 +1,19 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename
+
+[MainWindow]
+Height 1080=480
+State=AAAA/wAAAAD9AAAAAAAAAxoAAAGdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=794
+
+[Recent Files]
+File1[$e]=$HOME/projects/tictac/tictac/src/spil/img/tekkenCover.jpg
+File2[$e]=$HOME/IntelliJ/idea-IC-173.4674.33/plugins/android/lib/layoutlib/data/res/drawable-mdpi/pointer_spot_hover.png
+File3[$e]=$HOME/anaconda3/lib/tk8.6/images/logo.eps
+Name1[$e]=tekkenCover.jpg
+Name2[$e]=pointer_spot_hover.png
+Name3[$e]=logo.eps
+
+[SideBar]
+IsVisible ViewMode=true

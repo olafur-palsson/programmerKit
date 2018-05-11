@@ -1,0 +1,2456 @@
+[04/12/18, 20:58:59:156] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/12/18, 20:58:59:158] info: ║      Slack 3.1.1, linux 4.13.0-36-generic on x64 at 04/12/18, 20:58:59:142      ║
+[04/12/18, 20:58:59:158] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/12/18, 20:58:59:444] info: Initializing local storage instance at path: /home/pimp-of-pimps/.config/Slack/local-settings.json
+[04/12/18, 20:59:00:950] info: cld3::loadModule: loading cld3 module
+[04/12/18, 20:59:01:061] info: cld3Loader::loadModule: running environment is NODE
+[04/12/18, 20:59:01:062] info: cld3Loader::loadModule: constructed module object for runtime
+[04/12/18, 20:59:01:616] info: cld3Loader::initializeRuntime: successfully initialized module
+[04/12/18, 20:59:01:617] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[04/12/18, 20:59:01:626] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[04/12/18, 20:59:01:628] info: SSBIntegration: Main window preload script loaded 3401.114276
+[04/12/18, 20:59:10:203] info: Store: SELECT_CHANNEL C8TJBPHEC
+[04/12/18, 20:59:10:206] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/12/18, 20:59:10:207] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[04/12/18, 20:59:10:215] info: Store: SELECT_CHANNEL C9CRAPUAG
+[04/12/18, 20:59:10:220] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/12/18, 20:59:10:243] info: Store: MAIN_WINDOW_SHOWN
+[04/12/18, 20:59:10:245] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/12/18, 20:59:10:246] info: Store: SET_FULL_SCREEN
+[04/12/18, 20:59:10:247] info: Store: SET_FULL_SCREEN
+[04/12/18, 20:59:10:247] info: Store: SET_FULL_SCREEN
+[04/12/18, 20:59:10:248] info: Store: SET_FULL_SCREEN
+[04/12/18, 20:59:10:249] info: Store: SET_FULL_SCREEN
+[04/12/18, 20:59:10:756] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T8U7NRKQU"
+}
+[04/12/18, 20:59:10:757] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/12/18, 20:59:10:758] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/12/18, 20:59:10:759] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T8U7NRKQU"
+}
+[04/12/18, 20:59:10:780] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T8U7NRKQU",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/12/18, 20:59:10:793] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/12/18, 20:59:10:793] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T9C6NUMBJ"
+}
+[04/12/18, 20:59:10:794] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/12/18, 20:59:10:794] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[04/12/18, 20:59:10:811] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T9C6NUMBJ",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/12/18, 20:59:10:812] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T9C6NUMBJ",
+  "token": "xoxs-⋯"
+}
+[04/12/18, 20:59:10:972] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T8U7NRKQU",
+  "token": "xoxs-⋯"
+}
+[04/12/18, 20:59:10:992] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T8U7NRKQU"
+}
+[04/12/18, 20:59:11:123] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T9C6NUMBJ"
+}
+[04/12/18, 20:59:12:532] info: Raw Locale list: ["C","C.UTF-8","en_US.utf8","is_IS.utf8","POSIX",""]
+[04/12/18, 20:59:12:532] info: Filtered Locale list: ["en_US","is_IS"]
+[04/12/18, 20:59:12:532] info: Counts: {"en":["en_US"],"is":["is_IS"]}
+[04/12/18, 20:59:12:533] info: Setting en
+[04/12/18, 20:59:12:534] info: Setting is
+[04/12/18, 20:59:12:535] info: Result: {"en":"en-US","is":"is-IS"}
+[04/12/18, 20:59:12:538] info: Requesting to load en-US, alternatives are ["en-US","en-US","en-US"]
+[04/12/18, 20:59:12:540] info: Loading dictionary for language en-US
+[04/12/18, 20:59:12:543] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/en-US.bdic
+[04/12/18, 20:59:12:550] info: Setting current spellchecker to en-US, requested language was en-US
+[04/12/18, 20:59:12:550] info: Creating node-spellchecker instance
+[04/12/18, 20:59:12:552] info: Actually installing spell check provider to Electron
+[04/12/18, 20:59:28:746] info: Store: SELECT_CHANNEL C8TJQJ1RN
+[04/12/18, 20:59:31:141] info: Couldn't detect language for text of length '557': Not enough reliable text, ignoring sample
+[04/12/18, 20:59:43:415] info: Unloading spellchecker
+[04/12/18, 20:59:43:418] info: Unloading spellchecker
+[04/12/18, 20:59:57:272] info: Restoring spellchecker
+[04/12/18, 20:59:57:272] info: Loading dictionary for language en-US
+[04/12/18, 20:59:57:273] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/en-US.bdic
+[04/12/18, 20:59:57:329] info: Setting current spellchecker to en-US, requested language was en-US
+[04/12/18, 20:59:57:329] info: Creating node-spellchecker instance
+[04/12/18, 21:00:20:021] info: Attempting detection, string length: 20
+[04/12/18, 21:00:20:033] info: Attempting detection, string length: 20
+[04/12/18, 21:00:20:221] info: Attempting detection, string length: 21
+[04/12/18, 21:00:20:221] info: Attempting detection, string length: 21
+[04/12/18, 21:00:20:305] info: Attempting detection, string length: 22
+[04/12/18, 21:00:20:306] info: Attempting detection, string length: 22
+[04/12/18, 21:00:20:520] info: Attempting detection, string length: 23
+[04/12/18, 21:00:20:520] info: Attempting detection, string length: 23
+[04/12/18, 21:00:21:866] info: Attempting detection, string length: 29
+[04/12/18, 21:00:21:867] info: Attempting detection, string length: 29
+[04/12/18, 21:00:21:867] info: Attempting detection, string length: 29
+[04/12/18, 21:00:21:868] info: Attempting detection, string length: 29
+[04/12/18, 21:00:22:356] info: Attempting detection, string length: 30
+[04/12/18, 21:00:22:356] info: Attempting detection, string length: 30
+[04/12/18, 21:00:22:357] info: Attempting detection, string length: 30
+[04/12/18, 21:00:22:357] info: Attempting detection, string length: 30
+[04/12/18, 21:00:23:438] info: Attempting detection, string length: 36
+[04/12/18, 21:00:23:439] info: Attempting detection, string length: 36
+[04/12/18, 21:00:23:440] info: Attempting detection, string length: 36
+[04/12/18, 21:00:23:440] info: Attempting detection, string length: 36
+[04/12/18, 21:00:23:441] info: Attempting detection, string length: 36
+[04/12/18, 21:00:23:441] info: Attempting detection, string length: 36
+[04/12/18, 21:00:23:569] info: Attempting detection, string length: 37
+[04/12/18, 21:00:23:570] info: Attempting detection, string length: 37
+[04/12/18, 21:00:23:570] info: Attempting detection, string length: 37
+[04/12/18, 21:00:23:571] info: Attempting detection, string length: 37
+[04/12/18, 21:00:23:571] info: Attempting detection, string length: 37
+[04/12/18, 21:00:23:571] info: Attempting detection, string length: 37
+[04/12/18, 21:00:24:003] info: Attempting detection, string length: 41
+[04/12/18, 21:00:24:004] info: Attempting detection, string length: 41
+[04/12/18, 21:00:24:004] info: Attempting detection, string length: 41
+[04/12/18, 21:00:24:005] info: Attempting detection, string length: 41
+[04/12/18, 21:00:24:006] info: Attempting detection, string length: 41
+[04/12/18, 21:00:24:006] info: Attempting detection, string length: 41
+[04/12/18, 21:00:24:007] info: Attempting detection, string length: 41
+[04/12/18, 21:00:24:007] info: Attempting detection, string length: 41
+[04/12/18, 21:00:24:185] info: Attempting detection, string length: 42
+[04/12/18, 21:00:24:186] info: Attempting detection, string length: 42
+[04/12/18, 21:00:24:187] info: Attempting detection, string length: 42
+[04/12/18, 21:00:24:187] info: Attempting detection, string length: 42
+[04/12/18, 21:00:24:188] info: Attempting detection, string length: 42
+[04/12/18, 21:00:24:188] info: Attempting detection, string length: 42
+[04/12/18, 21:00:24:188] info: Attempting detection, string length: 42
+[04/12/18, 21:00:24:189] info: Attempting detection, string length: 42
+[04/12/18, 21:00:32:384] info: Attempting detection, string length: 46
+[04/12/18, 21:00:32:388] info: Attempting detection, string length: 46
+[04/12/18, 21:00:32:711] info: Attempting detection, string length: 46
+[04/12/18, 21:00:32:714] info: Attempting detection, string length: 46
+[04/12/18, 21:00:34:298] info: Attempting detection, string length: 46
+[04/12/18, 21:00:34:302] info: Attempting detection, string length: 46
+[04/12/18, 21:00:34:519] info: Attempting detection, string length: 46
+[04/12/18, 21:00:34:522] info: Attempting detection, string length: 46
+[04/12/18, 21:00:36:593] info: Attempting detection, string length: 46
+[04/12/18, 21:00:36:593] info: Attempting detection, string length: 46
+[04/12/18, 21:00:37:317] info: Auto-detected language as en
+[04/12/18, 21:00:37:318] info: New Language is en-US
+[04/12/18, 21:00:37:321] info: Auto-detected language as en
+[04/12/18, 21:00:37:322] info: New Language is en-US
+[04/12/18, 21:01:19:818] info: Unloading spellchecker
+[04/12/18, 21:01:19:857] info: Unloading spellchecker
+[04/12/18, 21:07:06:216] info: Restoring spellchecker
+[04/12/18, 21:07:06:217] info: Loading dictionary for language en-US
+[04/12/18, 21:07:06:217] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/en-US.bdic
+[04/12/18, 21:07:06:253] info: Setting current spellchecker to en-US, requested language was en-US
+[04/12/18, 21:07:06:253] info: Creating node-spellchecker instance
+[04/12/18, 21:07:07:702] info: Unloading spellchecker
+[04/12/18, 21:07:07:706] info: Unloading spellchecker
+[04/12/18, 23:30:22:893] info: Restoring spellchecker
+[04/12/18, 23:30:22:996] info: Loading dictionary for language en-US
+[04/12/18, 23:30:23:013] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/en-US.bdic
+[04/12/18, 23:30:23:691] info: Unloading spellchecker
+[04/12/18, 23:30:23:705] info: Setting current spellchecker to en-US, requested language was en-US
+[04/12/18, 23:30:23:705] info: Creating node-spellchecker instance
+[04/12/18, 23:30:24:603] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    29
+  ],
+  "size": [
+    1920,
+    1051
+  ]
+}
+[04/12/18, 23:41:15:005] info: Store: SET_NETWORK_STATUS offline
+[04/12/18, 23:41:16:025] info: Store: SET_NETWORK_STATUS online
+[04/13/18, 00:51:33:281] info: Store: FOREGROUND_APP
+[04/13/18, 00:51:33:753] info: Restoring spellchecker
+[04/13/18, 00:51:33:753] info: Loading dictionary for language en-US
+[04/13/18, 00:51:33:753] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/en-US.bdic
+[04/13/18, 00:51:33:830] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:51:33:831] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:51:33:832] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:51:33:833] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:51:33:834] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:51:33:839] info: Setting current spellchecker to en-US, requested language was en-US
+[04/13/18, 00:51:34:325] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/13/18, 00:51:34:348] info: Unloading spellchecker
+[04/13/18, 00:51:34:387] info: Restoring spellchecker
+[04/13/18, 00:51:34:387] info: Loading dictionary for language en-US
+[04/13/18, 00:51:34:389] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/en-US.bdic
+[04/13/18, 00:51:34:545] info: Setting current spellchecker to en-US, requested language was en-US
+[04/13/18, 00:51:34:545] info: Creating node-spellchecker instance
+[04/13/18, 00:51:40:877] info: Store: SELECT_CHANNEL C8TMARN2V
+[04/13/18, 00:51:43:235] info: Store: SELECT_CHANNEL C8TJBPHEC
+[04/13/18, 00:51:44:992] info: Loading dictionary for language en-US
+[04/13/18, 00:51:44:992] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/en-US.bdic
+[04/13/18, 00:51:44:993] info: Loading dictionary for language en-US
+[04/13/18, 00:51:44:994] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/en-US.bdic
+[04/13/18, 00:51:44:995] info: Setting current spellchecker to en-US, requested language was en-US
+[04/13/18, 00:51:44:996] info: Setting current spellchecker to en-US, requested language was en-US
+[04/13/18, 00:51:45:154] info: Attempting detection, string length: 46
+[04/13/18, 00:51:45:157] info: Attempting detection, string length: 46
+[04/13/18, 00:51:45:472] info: Attempting detection, string length: 46
+[04/13/18, 00:51:45:474] info: Attempting detection, string length: 46
+[04/13/18, 00:51:46:290] info: Attempting detection, string length: 46
+[04/13/18, 00:51:46:292] info: Attempting detection, string length: 46
+[04/13/18, 00:51:47:102] info: Attempting detection, string length: 46
+[04/13/18, 00:51:47:104] info: Attempting detection, string length: 46
+[04/13/18, 00:51:47:205] info: Attempting detection, string length: 46
+[04/13/18, 00:51:47:209] info: Attempting detection, string length: 46
+[04/13/18, 00:51:47:409] info: Attempting detection, string length: 46
+[04/13/18, 00:51:47:411] info: Attempting detection, string length: 46
+[04/13/18, 00:51:47:991] info: Attempting detection, string length: 46
+[04/13/18, 00:51:47:994] info: Attempting detection, string length: 46
+[04/13/18, 00:51:47:995] info: Attempting detection, string length: 46
+[04/13/18, 00:51:47:995] info: Attempting detection, string length: 46
+[04/13/18, 00:51:48:353] info: Attempting detection, string length: 46
+[04/13/18, 00:51:48:357] info: Attempting detection, string length: 46
+[04/13/18, 00:51:48:358] info: Attempting detection, string length: 46
+[04/13/18, 00:51:48:358] info: Attempting detection, string length: 46
+[04/13/18, 00:51:48:428] info: Attempting detection, string length: 46
+[04/13/18, 00:51:48:431] info: Attempting detection, string length: 46
+[04/13/18, 00:51:48:431] info: Attempting detection, string length: 46
+[04/13/18, 00:51:48:431] info: Attempting detection, string length: 46
+[04/13/18, 00:51:48:605] info: Attempting detection, string length: 46
+[04/13/18, 00:51:48:607] info: Attempting detection, string length: 46
+[04/13/18, 00:51:48:607] info: Attempting detection, string length: 46
+[04/13/18, 00:51:48:608] info: Attempting detection, string length: 46
+[04/13/18, 00:51:49:036] info: Attempting detection, string length: 46
+[04/13/18, 00:51:49:041] info: Attempting detection, string length: 46
+[04/13/18, 00:51:49:041] info: Attempting detection, string length: 46
+[04/13/18, 00:51:49:041] info: Attempting detection, string length: 46
+[04/13/18, 00:51:49:296] info: Attempting detection, string length: 46
+[04/13/18, 00:51:49:299] info: Attempting detection, string length: 46
+[04/13/18, 00:51:49:299] info: Attempting detection, string length: 46
+[04/13/18, 00:51:49:299] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:061] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:064] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:064] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:064] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:183] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:185] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:186] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:186] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:186] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:186] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:637] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:639] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:639] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:639] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:639] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:640] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:956] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:959] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:959] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:959] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:959] info: Attempting detection, string length: 46
+[04/13/18, 00:51:51:959] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:194] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:199] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:200] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:200] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:201] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:201] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:526] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:529] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:529] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:529] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:529] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:529] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:530] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:530] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:781] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:783] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:783] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:783] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:783] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:784] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:784] info: Attempting detection, string length: 46
+[04/13/18, 00:51:52:784] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:402] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:405] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:405] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:406] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:406] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:406] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:406] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:406] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:407] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:407] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:515] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:518] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:518] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:519] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:519] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:519] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:519] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:519] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:519] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:520] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:685] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:687] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:687] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:687] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:688] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:688] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:688] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:688] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:688] info: Attempting detection, string length: 46
+[04/13/18, 00:51:53:688] info: Attempting detection, string length: 46
+[04/13/18, 00:51:54:078] info: Attempting detection, string length: 46
+[04/13/18, 00:51:54:080] info: Attempting detection, string length: 46
+[04/13/18, 00:51:54:080] info: Attempting detection, string length: 46
+[04/13/18, 00:51:54:081] info: Attempting detection, string length: 46
+[04/13/18, 00:51:54:081] info: Attempting detection, string length: 46
+[04/13/18, 00:51:54:081] info: Attempting detection, string length: 46
+[04/13/18, 00:51:54:081] info: Attempting detection, string length: 46
+[04/13/18, 00:51:54:081] info: Attempting detection, string length: 46
+[04/13/18, 00:51:54:082] info: Attempting detection, string length: 46
+[04/13/18, 00:51:54:082] info: Attempting detection, string length: 46
+[04/13/18, 00:51:55:158] info: Attempting detection, string length: 46
+[04/13/18, 00:51:55:160] info: Attempting detection, string length: 46
+[04/13/18, 00:51:55:160] info: Attempting detection, string length: 46
+[04/13/18, 00:51:55:160] info: Attempting detection, string length: 46
+[04/13/18, 00:51:55:161] info: Attempting detection, string length: 46
+[04/13/18, 00:51:55:161] info: Attempting detection, string length: 46
+[04/13/18, 00:51:55:161] info: Attempting detection, string length: 46
+[04/13/18, 00:51:55:161] info: Attempting detection, string length: 46
+[04/13/18, 00:51:55:161] info: Attempting detection, string length: 46
+[04/13/18, 00:51:55:161] info: Attempting detection, string length: 46
+[04/13/18, 00:51:55:162] info: Attempting detection, string length: 46
+[04/13/18, 00:51:55:162] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:077] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:081] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:082] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:082] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:083] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:083] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:083] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:084] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:084] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:085] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:085] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:086] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:669] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:673] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:673] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:674] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:674] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:674] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:674] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:674] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:675] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:675] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:675] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:675] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:675] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:675] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:848] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:851] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:851] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:851] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:851] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:851] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:852] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:852] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:852] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:852] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:852] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:852] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:852] info: Attempting detection, string length: 46
+[04/13/18, 00:51:56:853] info: Attempting detection, string length: 46
+[04/13/18, 00:51:57:266] info: Attempting detection, string length: 46
+[04/13/18, 00:51:57:269] info: Attempting detection, string length: 46
+[04/13/18, 00:51:57:269] info: Attempting detection, string length: 46
+[04/13/18, 00:51:57:270] info: Attempting detection, string length: 46
+[04/13/18, 00:51:57:270] info: Attempting detection, string length: 46
+[04/13/18, 00:51:57:270] info: Attempting detection, string length: 46
+[04/13/18, 00:51:57:271] info: Attempting detection, string length: 46
+[04/13/18, 00:51:57:271] info: Attempting detection, string length: 46
+[04/13/18, 00:51:57:271] info: Attempting detection, string length: 46
+[04/13/18, 00:51:57:272] info: Attempting detection, string length: 46
+[04/13/18, 00:51:57:272] info: Attempting detection, string length: 46
+[04/13/18, 00:51:57:272] info: Attempting detection, string length: 46
+[04/13/18, 00:51:57:272] info: Attempting detection, string length: 46
+[04/13/18, 00:51:57:272] info: Attempting detection, string length: 46
+[04/13/18, 00:51:57:273] info: Attempting detection, string length: 46
+[04/13/18, 00:51:57:273] info: Attempting detection, string length: 46
+[04/13/18, 00:52:00:382] info: Attempting detection, string length: 46
+[04/13/18, 00:52:00:384] info: Attempting detection, string length: 46
+[04/13/18, 00:52:00:385] info: Attempting detection, string length: 46
+[04/13/18, 00:52:00:385] info: Attempting detection, string length: 46
+[04/13/18, 00:52:00:385] info: Attempting detection, string length: 46
+[04/13/18, 00:52:00:385] info: Attempting detection, string length: 46
+[04/13/18, 00:52:00:386] info: Attempting detection, string length: 46
+[04/13/18, 00:52:00:386] info: Attempting detection, string length: 46
+[04/13/18, 00:52:00:386] info: Attempting detection, string length: 46
+[04/13/18, 00:52:00:386] info: Attempting detection, string length: 46
+[04/13/18, 00:52:00:387] info: Attempting detection, string length: 46
+[04/13/18, 00:52:00:387] info: Attempting detection, string length: 46
+[04/13/18, 00:52:00:387] info: Attempting detection, string length: 46
+[04/13/18, 00:52:00:387] info: Attempting detection, string length: 46
+[04/13/18, 00:52:00:387] info: Attempting detection, string length: 46
+[04/13/18, 00:52:00:388] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:445] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:447] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:448] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:448] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:448] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:448] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:448] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:449] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:449] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:449] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:449] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:449] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:450] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:450] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:450] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:450] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:450] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:450] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:620] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:624] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:624] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:624] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:624] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:625] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:625] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:625] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:625] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:625] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:625] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:626] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:627] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:627] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:627] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:627] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:628] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:628] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:699] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:701] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:701] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:701] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:702] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:702] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:702] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:702] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:702] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:703] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:703] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:703] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:703] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:703] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:703] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:704] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:704] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:704] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:989] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:992] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:992] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:992] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:992] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:993] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:993] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:993] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:993] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:993] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:994] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:994] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:994] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:994] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:994] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:995] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:995] info: Attempting detection, string length: 46
+[04/13/18, 00:52:02:995] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:264] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:267] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:267] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:267] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:268] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:268] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:268] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:268] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:268] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:269] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:269] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:269] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:269] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:269] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:270] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:270] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:270] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:270] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:270] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:271] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:439] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:442] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:442] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:443] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:443] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:443] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:443] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:444] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:444] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:444] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:444] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:444] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:444] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:445] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:445] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:445] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:445] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:445] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:445] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:446] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:832] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:835] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:836] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:836] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:836] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:837] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:837] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:837] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:837] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:837] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:838] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:838] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:838] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:838] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:838] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:838] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:838] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:839] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:839] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:839] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:839] info: Attempting detection, string length: 46
+[04/13/18, 00:52:04:839] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:800] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:804] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:804] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:804] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:804] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:805] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:805] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:805] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:805] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:805] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:806] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:806] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:806] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:806] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:806] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:807] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:807] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:807] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:807] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:808] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:808] info: Attempting detection, string length: 46
+[04/13/18, 00:52:06:808] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:190] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:192] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:193] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:193] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:193] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:193] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:193] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:193] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:194] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:194] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:194] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:194] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:194] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:194] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:195] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:195] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:195] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:195] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:195] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:196] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:196] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:196] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:196] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:196] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:385] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:388] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:389] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:389] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:389] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:389] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:389] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:389] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:390] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:390] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:390] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:390] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:390] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:390] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:390] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:391] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:391] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:391] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:391] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:391] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:391] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:392] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:392] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:392] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:799] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:802] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:802] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:803] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:803] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:803] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:803] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:803] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:803] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:803] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:804] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:804] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:804] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:804] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:804] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:804] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:804] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:805] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:805] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:805] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:806] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:806] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:806] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:806] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:806] info: Attempting detection, string length: 46
+[04/13/18, 00:52:07:807] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:076] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:079] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:079] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:079] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:079] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:079] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:079] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:080] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:080] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:080] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:080] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:080] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:080] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:080] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:081] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:081] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:081] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:081] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:081] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:081] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:081] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:082] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:082] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:082] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:082] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:082] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:912] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:914] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:914] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:914] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:915] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:915] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:915] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:915] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:916] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:916] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:916] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:916] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:916] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:917] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:917] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:917] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:917] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:917] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:918] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:918] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:918] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:918] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:919] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:919] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:919] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:919] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:919] info: Attempting detection, string length: 46
+[04/13/18, 00:52:08:919] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:630] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:634] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:634] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:634] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:635] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:635] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:635] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:635] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:635] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:635] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:636] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:636] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:636] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:636] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:636] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:637] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:637] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:637] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:637] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:637] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:637] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:638] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:638] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:638] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:638] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:638] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:638] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:639] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:902] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:904] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:905] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:905] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:905] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:905] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:905] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:906] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:906] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:906] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:906] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:906] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:906] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:907] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:907] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:907] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:907] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:907] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:907] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:907] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:908] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:908] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:908] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:908] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:908] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:908] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:909] info: Attempting detection, string length: 46
+[04/13/18, 00:52:11:909] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:463] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:466] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:466] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:467] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:467] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:467] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:469] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:469] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:469] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:470] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:470] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:470] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:470] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:471] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:471] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:471] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:471] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:472] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:472] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:472] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:473] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:473] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:473] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:473] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:473] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:473] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:474] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:474] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:646] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:648] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:649] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:649] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:649] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:649] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:649] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:650] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:650] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:650] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:650] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:650] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:650] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:651] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:651] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:651] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:651] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:651] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:651] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:652] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:652] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:652] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:652] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:652] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:652] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:652] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:822] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:824] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:824] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:824] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:824] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:824] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:825] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:825] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:825] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:825] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:825] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:825] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:825] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:826] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:826] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:826] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:826] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:826] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:826] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:826] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:826] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:827] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:827] info: Attempting detection, string length: 46
+[04/13/18, 00:52:13:827] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:141] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:143] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:144] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:144] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:144] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:144] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:144] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:144] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:145] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:145] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:145] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:145] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:145] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:146] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:146] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:146] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:146] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:146] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:146] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:146] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:147] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:147] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:968] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:970] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:971] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:971] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:971] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:971] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:971] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:972] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:972] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:972] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:972] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:972] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:973] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:973] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:973] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:973] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:974] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:974] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:974] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:974] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:974] info: Attempting detection, string length: 46
+[04/13/18, 00:52:15:974] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:301] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:304] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:305] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:305] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:305] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:305] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:305] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:305] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:306] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:306] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:306] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:306] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:306] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:306] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:306] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:307] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:307] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:307] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:307] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:307] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:307] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:307] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:308] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:308] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:582] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:586] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:586] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:586] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:586] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:586] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:586] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:587] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:587] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:587] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:587] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:587] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:587] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:587] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:588] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:588] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:588] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:588] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:588] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:588] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:588] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:591] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:591] info: Attempting detection, string length: 46
+[04/13/18, 00:52:16:591] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:049] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:052] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:052] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:052] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:053] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:053] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:053] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:053] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:053] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:053] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:053] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:054] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:054] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:054] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:054] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:054] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:054] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:055] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:055] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:055] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:055] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:055] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:055] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:055] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:542] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:545] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:546] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:546] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:547] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:547] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:547] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:548] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:548] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:548] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:549] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:549] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:549] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:549] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:549] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:549] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:549] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:550] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:550] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:550] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:550] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:550] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:550] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:551] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:551] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:551] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:817] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:819] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:819] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:820] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:820] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:820] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:820] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:820] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:820] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:820] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:821] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:821] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:821] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:821] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:821] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:821] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:821] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:822] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:822] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:822] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:822] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:822] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:822] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:823] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:823] info: Attempting detection, string length: 46
+[04/13/18, 00:52:17:823] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:673] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:675] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:675] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:675] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:675] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:676] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:676] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:676] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:676] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:676] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:676] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:676] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:677] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:677] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:677] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:677] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:677] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:677] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:677] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:678] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:678] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:678] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:678] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:678] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:678] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:678] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:679] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:679] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:877] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:879] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:879] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:879] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:879] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:879] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:880] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:880] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:880] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:880] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:880] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:880] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:880] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:880] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:881] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:881] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:881] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:881] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:881] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:881] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:881] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:882] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:882] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:882] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:882] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:882] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:882] info: Attempting detection, string length: 46
+[04/13/18, 00:52:18:882] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:046] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:047] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:048] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:048] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:048] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:048] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:048] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:048] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:048] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:049] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:049] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:049] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:049] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:049] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:049] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:049] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:050] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:050] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:050] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:050] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:050] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:050] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:050] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:050] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:051] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:051] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:051] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:051] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:051] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:051] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:252] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:256] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:256] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:256] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:257] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:257] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:257] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:257] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:258] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:258] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:258] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:258] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:259] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:259] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:259] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:259] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:260] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:260] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:260] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:260] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:261] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:261] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:261] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:261] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:261] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:261] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:262] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:262] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:262] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:262] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:750] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:752] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:752] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:752] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:752] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:753] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:753] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:753] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:753] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:753] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:753] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:753] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:754] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:754] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:754] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:754] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:754] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:754] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:754] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:754] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:755] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:755] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:755] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:755] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:755] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:755] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:755] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:756] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:756] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:756] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:756] info: Attempting detection, string length: 46
+[04/13/18, 00:52:19:756] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:129] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:131] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:131] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:131] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:132] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:132] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:132] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:132] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:132] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:132] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:133] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:133] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:133] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:133] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:133] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:133] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:134] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:134] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:134] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:134] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:134] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:134] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:134] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:135] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:135] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:135] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:135] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:135] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:135] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:135] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:135] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:136] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:717] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:718] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:719] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:719] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:719] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:719] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:719] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:719] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:719] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:720] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:720] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:720] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:720] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:720] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:720] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:720] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:721] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:721] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:721] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:721] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:721] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:721] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:721] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:722] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:722] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:722] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:722] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:722] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:722] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:722] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:722] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:723] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:723] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:723] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:898] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:900] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:900] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:901] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:901] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:901] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:901] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:901] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:901] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:902] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:902] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:902] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:902] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:902] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:903] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:903] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:903] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:903] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:903] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:903] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:904] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:904] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:904] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:904] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:904] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:904] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:905] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:905] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:905] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:905] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:905] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:905] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:905] info: Attempting detection, string length: 46
+[04/13/18, 00:52:20:905] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:096] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:099] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:100] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:100] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:100] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:100] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:101] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:101] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:101] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:102] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:102] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:102] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:102] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:102] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:103] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:103] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:103] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:103] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:104] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:104] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:104] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:104] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:104] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:105] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:105] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:105] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:105] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:105] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:105] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:105] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:106] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:106] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:106] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:106] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:478] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:481] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:481] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:481] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:481] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:481] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:482] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:482] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:482] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:482] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:482] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:482] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:483] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:483] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:483] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:483] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:483] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:483] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:483] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:484] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:484] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:484] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:484] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:484] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:484] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:484] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:485] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:485] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:485] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:485] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:485] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:485] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:485] info: Attempting detection, string length: 46
+[04/13/18, 00:52:21:486] info: Attempting detection, string length: 46
+[04/13/18, 00:52:23:940] info: Unloading spellchecker
+[04/13/18, 00:52:23:956] info: Unloading spellchecker
+[04/13/18, 00:52:57:451] info: Restoring spellchecker
+[04/13/18, 00:52:57:452] info: Loading dictionary for language en-US
+[04/13/18, 00:52:57:453] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/en-US.bdic
+[04/13/18, 00:52:57:481] info: Setting current spellchecker to en-US, requested language was en-US
+[04/13/18, 00:52:57:481] info: Creating node-spellchecker instance
+[04/13/18, 00:52:58:317] info: Unloading spellchecker
+[04/13/18, 00:52:59:314] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    29
+  ],
+  "size": [
+    1920,
+    1051
+  ]
+}
+[04/13/18, 00:53:10:932] info: Store: FOREGROUND_APP
+[04/13/18, 00:53:11:022] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:53:11:059] info: Restoring spellchecker
+[04/13/18, 00:53:11:061] info: Loading dictionary for language en-US
+[04/13/18, 00:53:11:066] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/en-US.bdic
+[04/13/18, 00:53:11:085] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:53:11:086] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:53:11:086] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:53:11:087] info: Store: SET_FULL_SCREEN
+[04/13/18, 00:53:11:128] info: Setting current spellchecker to en-US, requested language was en-US
+[04/13/18, 00:53:11:128] info: Creating node-spellchecker instance
+[04/13/18, 00:53:11:954] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": true,
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[04/13/18, 00:53:11:982] info: Unloading spellchecker
+[04/13/18, 00:53:11:986] info: Restoring spellchecker
+[04/13/18, 00:53:11:987] info: Loading dictionary for language en-US
+[04/13/18, 00:53:11:987] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/en-US.bdic
+[04/13/18, 00:53:12:023] info: Setting current spellchecker to en-US, requested language was en-US
+[04/13/18, 00:53:12:024] info: Creating node-spellchecker instance
+[04/13/18, 00:53:13:554] info: Attempting detection, string length: 46
+[04/13/18, 00:53:13:556] info: Attempting detection, string length: 46
+[04/13/18, 00:53:13:990] info: Attempting detection, string length: 46
+[04/13/18, 00:53:13:994] info: Attempting detection, string length: 46
+[04/13/18, 00:53:14:273] info: Attempting detection, string length: 46
+[04/13/18, 00:53:14:275] info: Attempting detection, string length: 46
+[04/13/18, 00:53:15:556] info: Attempting detection, string length: 46
+[04/13/18, 00:53:15:559] info: Attempting detection, string length: 46
+[04/13/18, 00:53:15:720] info: Attempting detection, string length: 46
+[04/13/18, 00:53:15:723] info: Attempting detection, string length: 46
+[04/13/18, 00:53:16:330] info: Attempting detection, string length: 46
+[04/13/18, 00:53:16:333] info: Attempting detection, string length: 46
+[04/13/18, 00:53:16:468] info: Attempting detection, string length: 46
+[04/13/18, 00:53:16:470] info: Attempting detection, string length: 46
+[04/13/18, 00:53:17:169] info: Attempting detection, string length: 46
+[04/13/18, 00:53:17:172] info: Attempting detection, string length: 46
+[04/13/18, 00:53:17:316] info: Attempting detection, string length: 46
+[04/13/18, 00:53:17:318] info: Attempting detection, string length: 46
+[04/13/18, 00:53:17:318] info: Attempting detection, string length: 46
+[04/13/18, 00:53:17:318] info: Attempting detection, string length: 46
+[04/13/18, 00:53:17:522] info: Attempting detection, string length: 46
+[04/13/18, 00:53:17:526] info: Attempting detection, string length: 46
+[04/13/18, 00:53:17:526] info: Attempting detection, string length: 46
+[04/13/18, 00:53:17:526] info: Attempting detection, string length: 46
+[04/13/18, 00:53:17:904] info: Attempting detection, string length: 46
+[04/13/18, 00:53:17:907] info: Attempting detection, string length: 46
+[04/13/18, 00:53:17:907] info: Attempting detection, string length: 46
+[04/13/18, 00:53:17:907] info: Attempting detection, string length: 46
+[04/13/18, 00:53:17:907] info: Attempting detection, string length: 46
+[04/13/18, 00:53:17:908] info: Attempting detection, string length: 46
+[04/13/18, 00:53:18:629] info: Attempting detection, string length: 46
+[04/13/18, 00:53:18:631] info: Attempting detection, string length: 46
+[04/13/18, 00:53:18:632] info: Attempting detection, string length: 46
+[04/13/18, 00:53:18:632] info: Attempting detection, string length: 46
+[04/13/18, 00:53:18:812] info: Attempting detection, string length: 46
+[04/13/18, 00:53:18:814] info: Attempting detection, string length: 46
+[04/13/18, 00:53:19:294] info: Attempting detection, string length: 46
+[04/13/18, 00:53:19:296] info: Attempting detection, string length: 46
+[04/13/18, 00:53:20:465] info: Attempting detection, string length: 46
+[04/13/18, 00:53:20:467] info: Attempting detection, string length: 46
+[04/13/18, 00:53:20:706] info: Attempting detection, string length: 46
+[04/13/18, 00:53:20:708] info: Attempting detection, string length: 46
+[04/13/18, 00:53:20:708] info: Attempting detection, string length: 46
+[04/13/18, 00:53:20:708] info: Attempting detection, string length: 46
+[04/13/18, 00:53:20:893] info: Attempting detection, string length: 46
+[04/13/18, 00:53:20:897] info: Attempting detection, string length: 46
+[04/13/18, 00:53:20:897] info: Attempting detection, string length: 46
+[04/13/18, 00:53:20:898] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:258] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:260] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:260] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:261] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:393] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:397] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:397] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:397] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:549] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:551] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:551] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:551] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:680] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:682] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:682] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:682] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:682] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:683] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:873] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:875] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:875] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:875] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:875] info: Attempting detection, string length: 46
+[04/13/18, 00:53:21:875] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:162] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:164] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:164] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:164] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:164] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:165] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:165] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:165] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:329] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:332] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:332] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:332] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:332] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:332] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:332] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:333] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:889] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:891] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:891] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:892] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:892] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:892] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:892] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:892] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:893] info: Attempting detection, string length: 46
+[04/13/18, 00:53:22:893] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:065] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:068] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:068] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:068] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:068] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:068] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:068] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:069] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:069] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:069] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:818] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:819] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:820] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:820] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:820] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:820] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:820] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:821] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:821] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:821] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:821] info: Attempting detection, string length: 46
+[04/13/18, 00:53:23:821] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:009] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:013] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:013] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:013] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:013] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:013] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:014] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:014] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:014] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:014] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:014] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:014] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:403] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:406] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:406] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:406] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:406] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:406] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:406] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:407] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:407] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:407] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:407] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:408] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:408] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:408] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:557] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:561] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:561] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:561] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:562] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:562] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:562] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:562] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:564] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:565] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:565] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:565] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:565] info: Attempting detection, string length: 46
+[04/13/18, 00:53:24:566] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:039] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:042] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:042] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:042] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:042] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:043] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:043] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:043] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:043] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:043] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:043] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:043] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:044] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:044] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:174] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:177] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:177] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:177] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:177] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:178] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:178] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:178] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:178] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:178] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:179] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:179] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:179] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:179] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:357] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:360] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:361] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:362] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:362] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:362] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:362] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:363] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:363] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:363] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:364] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:366] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:366] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:366] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:568] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:571] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:572] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:572] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:572] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:572] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:573] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:573] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:573] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:573] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:574] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:575] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:575] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:575] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:710] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:714] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:714] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:714] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:714] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:714] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:715] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:715] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:715] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:715] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:715] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:715] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:715] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:715] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:866] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:869] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:870] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:870] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:870] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:870] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:870] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:870] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:870] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:871] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:871] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:871] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:871] info: Attempting detection, string length: 46
+[04/13/18, 00:53:25:871] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:153] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:155] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:155] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:155] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:155] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:155] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:155] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:156] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:156] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:156] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:156] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:156] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:156] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:157] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:683] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:686] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:686] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:686] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:686] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:686] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:687] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:687] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:687] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:687] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:687] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:687] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:688] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:688] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:688] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:688] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:886] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:890] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:890] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:890] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:890] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:891] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:891] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:891] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:891] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:891] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:892] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:892] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:892] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:892] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:892] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:893] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:993] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:995] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:995] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:995] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:995] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:996] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:996] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:996] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:998] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:999] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:999] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:999] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:999] info: Attempting detection, string length: 46
+[04/13/18, 00:53:26:999] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:000] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:000] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:329] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:333] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:333] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:333] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:334] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:334] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:334] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:334] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:334] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:334] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:334] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:335] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:335] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:335] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:335] info: Attempting detection, string length: 46
+[04/13/18, 00:53:27:335] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:287] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:291] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:291] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:291] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:291] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:292] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:292] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:292] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:292] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:292] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:293] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:293] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:293] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:293] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:293] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:293] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:294] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:294] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:385] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:388] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:388] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:389] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:389] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:389] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:389] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:389] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:389] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:389] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:390] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:390] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:390] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:390] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:390] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:390] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:390] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:391] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:721] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:726] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:726] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:726] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:727] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:727] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:727] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:727] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:727] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:727] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:727] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:727] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:728] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:728] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:728] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:728] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:728] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:728] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:874] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:875] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:875] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:876] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:876] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:877] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:877] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:877] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:877] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:877] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:877] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:877] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:878] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:878] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:878] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:878] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:878] info: Attempting detection, string length: 46
+[04/13/18, 00:53:28:878] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:502] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:505] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:506] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:506] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:506] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:506] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:507] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:507] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:508] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:508] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:508] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:509] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:509] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:509] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:509] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:510] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:510] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:510] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:635] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:637] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:637] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:637] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:637] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:637] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:638] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:638] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:638] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:638] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:638] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:638] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:639] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:639] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:639] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:639] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:639] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:639] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:640] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:640] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:983] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:986] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:986] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:986] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:986] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:987] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:987] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:987] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:987] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:987] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:987] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:988] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:988] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:988] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:988] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:988] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:990] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:991] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:991] info: Attempting detection, string length: 46
+[04/13/18, 00:53:51:991] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:111] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:113] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:114] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:114] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:114] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:114] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:114] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:114] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:115] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:115] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:115] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:115] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:115] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:115] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:115] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:116] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:116] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:116] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:116] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:117] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:409] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:412] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:413] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:413] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:413] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:413] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:413] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:413] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:414] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:414] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:414] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:415] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:415] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:415] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:415] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:415] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:415] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:415] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:416] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:416] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:854] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:860] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:860] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:860] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:861] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:861] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:861] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:861] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:861] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:861] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:862] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:862] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:862] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:862] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:862] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:862] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:862] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:863] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:863] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:863] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:863] info: Attempting detection, string length: 46
+[04/13/18, 00:53:52:864] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:017] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:020] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:020] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:020] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:020] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:020] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:020] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:021] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:021] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:021] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:021] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:021] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:021] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:021] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:022] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:022] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:022] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:022] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:023] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:023] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:023] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:023] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:141] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:144] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:144] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:145] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:145] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:145] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:146] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:146] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:147] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:147] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:147] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:148] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:148] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:148] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:149] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:150] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:150] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:150] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:150] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:150] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:150] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:151] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:524] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:528] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:528] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:528] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:529] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:529] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:529] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:529] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:529] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:529] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:529] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:530] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:530] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:530] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:530] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:530] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:530] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:530] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:531] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:531] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:531] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:531] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:916] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:921] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:921] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:921] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:921] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:921] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:921] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:922] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:922] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:922] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:922] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:922] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:923] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:923] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:923] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:923] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:924] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:924] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:924] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:924] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:924] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:924] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:925] info: Attempting detection, string length: 46
+[04/13/18, 00:53:53:925] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:285] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:287] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:288] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:288] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:288] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:288] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:288] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:288] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:288] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:289] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:289] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:289] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:289] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:289] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:289] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:290] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:290] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:290] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:290] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:290] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:291] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:291] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:291] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:291] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:800] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:803] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:803] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:803] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:803] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:803] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:804] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:804] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:804] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:804] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:804] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:804] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:804] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:805] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:805] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:805] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:805] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:805] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:805] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:805] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:805] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:806] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:806] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:806] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:967] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:970] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:970] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:970] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:970] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:970] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:971] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:971] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:972] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:972] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:972] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:972] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:972] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:972] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:972] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:973] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:973] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:973] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:973] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:973] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:973] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:973] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:974] info: Attempting detection, string length: 46
+[04/13/18, 00:53:54:974] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:392] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:395] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:395] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:395] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:395] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:395] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:395] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:396] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:396] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:396] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:396] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:396] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:396] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:396] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:397] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:397] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:397] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:397] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:397] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:397] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:397] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:398] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:398] info: Attempting detection, string length: 46
+[04/13/18, 00:53:55:398] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:298] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:302] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:302] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:303] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:303] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:303] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:303] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:303] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:303] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:304] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:304] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:304] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:304] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:304] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:305] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:305] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:305] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:305] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:306] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:306] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:306] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:306] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:306] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:306] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:306] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:307] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:479] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:482] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:482] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:482] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:482] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:483] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:483] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:483] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:483] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:483] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:483] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:483] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:484] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:486] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:487] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:487] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:487] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:487] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:487] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:487] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:488] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:488] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:488] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:488] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:488] info: Attempting detection, string length: 46
+[04/13/18, 00:53:56:489] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:366] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:368] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:368] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:368] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:368] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:368] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:369] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:369] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:369] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:369] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:369] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:369] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:369] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:369] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:370] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:370] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:370] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:370] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:370] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:370] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:371] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:371] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:371] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:371] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:371] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:371] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:372] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:372] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:602] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:605] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:606] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:606] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:606] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:606] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:606] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:607] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:607] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:607] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:607] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:608] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:608] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:608] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:608] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:608] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:609] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:609] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:609] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:609] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:609] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:609] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:609] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:609] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:610] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:610] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:610] info: Attempting detection, string length: 46
+[04/13/18, 00:53:58:610] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:031] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:034] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:035] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:035] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:036] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:036] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:036] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:036] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:037] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:037] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:037] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:037] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:037] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:037] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:037] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:038] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:038] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:038] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:038] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:038] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:038] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:038] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:039] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:039] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:039] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:040] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:040] info: Attempting detection, string length: 46
+[04/13/18, 00:53:59:040] info: Attempting detection, string length: 46
+[04/13/18, 00:54:03:735] info: Unloading spellchecker
+[04/13/18, 00:54:03:746] info: Unloading spellchecker
+[04/13/18, 00:54:05:026] info: Restoring spellchecker
+[04/13/18, 00:54:05:027] info: Loading dictionary for language en-US
+[04/13/18, 00:54:05:027] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/en-US.bdic
+[04/13/18, 00:54:05:073] info: Setting current spellchecker to en-US, requested language was en-US
+[04/13/18, 00:54:05:073] info: Creating node-spellchecker instance
+[04/13/18, 00:54:12:806] info: Attempting detection, string length: 46
+[04/13/18, 00:54:12:810] info: Attempting detection, string length: 46
+[04/13/18, 00:54:13:137] info: Attempting detection, string length: 46
+[04/13/18, 00:54:13:139] info: Attempting detection, string length: 46
+[04/13/18, 00:54:13:631] info: Attempting detection, string length: 46
+[04/13/18, 00:54:13:634] info: Attempting detection, string length: 46
+[04/13/18, 00:54:13:634] info: Attempting detection, string length: 46
+[04/13/18, 00:54:13:634] info: Attempting detection, string length: 46
+[04/13/18, 00:54:13:774] info: Attempting detection, string length: 46
+[04/13/18, 00:54:13:778] info: Attempting detection, string length: 46
+[04/13/18, 00:54:13:778] info: Attempting detection, string length: 46
+[04/13/18, 00:54:13:778] info: Attempting detection, string length: 46
+[04/13/18, 00:54:13:967] info: Attempting detection, string length: 46
+[04/13/18, 00:54:13:970] info: Attempting detection, string length: 46
+[04/13/18, 00:54:13:970] info: Attempting detection, string length: 46
+[04/13/18, 00:54:13:970] info: Attempting detection, string length: 46
+[04/13/18, 00:54:14:172] info: Attempting detection, string length: 46
+[04/13/18, 00:54:14:174] info: Attempting detection, string length: 46
+[04/13/18, 00:54:14:174] info: Attempting detection, string length: 46
+[04/13/18, 00:54:14:175] info: Attempting detection, string length: 46
+[04/13/18, 00:54:14:175] info: Attempting detection, string length: 46
+[04/13/18, 00:54:14:175] info: Attempting detection, string length: 46
+[04/13/18, 00:54:14:464] info: Attempting detection, string length: 46
+[04/13/18, 00:54:14:467] info: Attempting detection, string length: 46
+[04/13/18, 00:54:14:468] info: Attempting detection, string length: 46
+[04/13/18, 00:54:14:468] info: Attempting detection, string length: 46
+[04/13/18, 00:54:14:468] info: Attempting detection, string length: 46
+[04/13/18, 00:54:14:468] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:208] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:211] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:211] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:211] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:211] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:211] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:211] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:212] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:673] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:676] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:676] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:676] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:676] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:676] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:676] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:676] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:809] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:811] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:811] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:811] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:811] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:812] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:812] info: Attempting detection, string length: 46
+[04/13/18, 00:54:15:812] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:041] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:043] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:043] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:043] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:044] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:044] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:044] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:044] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:462] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:465] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:465] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:465] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:465] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:465] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:465] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:466] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:656] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:660] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:661] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:661] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:661] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:661] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:661] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:661] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:738] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:743] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:743] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:743] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:743] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:744] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:744] info: Attempting detection, string length: 46
+[04/13/18, 00:54:16:744] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:111] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:116] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:116] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:117] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:117] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:117] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:117] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:117] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:273] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:276] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:276] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:277] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:277] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:277] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:277] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:277] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:444] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:446] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:447] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:447] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:447] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:447] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:447] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:447] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:614] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:618] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:618] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:618] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:619] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:619] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:777] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:780] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:781] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:781] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:940] info: Attempting detection, string length: 46
+[04/13/18, 00:54:18:944] info: Attempting detection, string length: 46
+[04/13/18, 00:54:20:636] info: Attempting detection, string length: 46
+[04/13/18, 00:54:20:638] info: Attempting detection, string length: 46
+[04/13/18, 00:54:20:832] info: Attempting detection, string length: 46
+[04/13/18, 00:54:20:834] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:138] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:141] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:142] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:142] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:242] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:245] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:245] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:246] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:512] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:515] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:515] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:516] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:936] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:938] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:938] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:938] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:938] info: Attempting detection, string length: 46
+[04/13/18, 00:54:21:938] info: Attempting detection, string length: 46
+[04/13/18, 00:54:22:141] info: Attempting detection, string length: 46
+[04/13/18, 00:54:22:143] info: Attempting detection, string length: 46
+[04/13/18, 00:54:22:144] info: Attempting detection, string length: 46
+[04/13/18, 00:54:22:144] info: Attempting detection, string length: 46
+[04/13/18, 00:54:22:144] info: Attempting detection, string length: 46
+[04/13/18, 00:54:22:144] info: Attempting detection, string length: 46
+[04/13/18, 00:54:23:690] info: Attempting detection, string length: 46
+[04/13/18, 00:54:23:692] info: Attempting detection, string length: 46
+[04/13/18, 00:54:23:692] info: Attempting detection, string length: 46
+[04/13/18, 00:54:23:692] info: Attempting detection, string length: 46
+[04/13/18, 00:54:23:692] info: Attempting detection, string length: 46
+[04/13/18, 00:54:23:693] info: Attempting detection, string length: 46
+[04/13/18, 00:54:23:861] info: Attempting detection, string length: 46
+[04/13/18, 00:54:23:863] info: Attempting detection, string length: 46
+[04/13/18, 00:54:23:864] info: Attempting detection, string length: 46
+[04/13/18, 00:54:23:864] info: Attempting detection, string length: 46
+[04/13/18, 00:54:24:032] info: Attempting detection, string length: 46
+[04/13/18, 00:54:24:034] info: Attempting detection, string length: 46
+[04/13/18, 00:54:25:715] info: Unloading spellchecker
+[04/13/18, 00:54:25:741] info: Unloading spellchecker
+[04/13/18, 00:54:30:125] info: Restoring spellchecker
+[04/13/18, 00:54:30:126] info: Loading dictionary for language en-US
+[04/13/18, 00:54:30:126] info: Returning local copy: /home/pimp-of-pimps/.config/Slack/dictionaries/en-US.bdic
+[04/13/18, 00:54:30:153] info: Setting current spellchecker to en-US, requested language was en-US
+[04/13/18, 00:54:30:154] info: Creating node-spellchecker instance
+[04/13/18, 00:54:30:691] info: Unloading spellchecker
+[04/13/18, 00:54:31:661] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    29
+  ],
+  "size": [
+    1920,
+    1051
+  ]
+}
+[04/13/18, 00:54:36:994] info: Store: SET_NETWORK_STATUS offline

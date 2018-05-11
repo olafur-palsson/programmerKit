@@ -1,0 +1,45 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/projects/blabla/,$HOME/projects/hhh/,$HOME/projects/pythonhop/,$HOME/projects/mvntest/,$HOME/MEGA/_Skoli/python/v7/,$HOME/Downloads/android/,$HOME/Downloads/,$HOME/IntelliJ/
+Height 1080=560
+Width 1920=1280
+
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/,file:$HOME/IntelliJ/,file:$HOME/Downloads/android/,file:$HOME/MEGA/_Skoli/python/v7/,file:$HOME/projects/mvntest/,file:$HOME/projects/pythonhop/,file:$HOME/projects/hhh/,file:$HOME/Downloads/,file:$HOME/projects/blabla/
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+splitterSizes=426,213
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/GotoBLAS2-1.13.tar.gz
+File10[$e]=$HOME/Downloads/Mylla2018lausn.zip
+File2[$e]=$HOME/Downloads/dagskra.zip
+File3[$e]=$HOME/Downloads/menudrasl (1).zip
+File4[$e]=$HOME/Downloads/lokaverkefni.zip
+File5[$e]=$HOME/Downloads/tictactoe.zip
+File6[$e]=$HOME/Downloads/Win10_1709_EnglishInternational_x64.iso
+File7[$e]=$HOME/tictac.zip
+File8[$e]=$HOME/debugged.zip
+File9[$e]=$HOME/Downloads/vika_08 (1).zip
+Name1[$e]=GotoBLAS2-1.13.tar.gz
+Name10[$e]=Mylla2018lausn.zip
+Name2[$e]=dagskra.zip
+Name3[$e]=menudrasl (1).zip
+Name4[$e]=lokaverkefni.zip
+Name5[$e]=tictactoe.zip
+Name6[$e]=Win10_1709_EnglishInternational_x64.iso
+Name7[$e]=tictac.zip
+Name8[$e]=debugged.zip
+Name9[$e]=vika_08 (1).zip
+
+[Viewer]
+Height 1080=601
+State=AAAA/wAAAAD9AAAAAAAAAu8AAAIVAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=751
