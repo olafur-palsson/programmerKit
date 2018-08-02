@@ -1,19 +1,12 @@
 "*":
   core:
-    disabledPackages: [
-      "language-javascript"
-    ]
-    telemetryConsent: "limited"
+    telemetryConsent: "no"
     themes: [
       "one-dark-ui"
-      "monokai"
+      "purple-rain"
     ]
-  editor:
-    fontFamily: "Olafur"
-    fontSize: 11
-    lineHeight: 1.7
   "exception-reporting":
-    userId: "38aaffea-334a-41c5-9512-53189bc9c50c"
+    userId: "9b7681e5-ae75-4e99-9380-7ea58069153e"
   minimap:
     plugins:
       pigments: true

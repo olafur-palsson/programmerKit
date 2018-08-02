@@ -118,7 +118,17 @@ if ! shopt -oq posix; then
 fi
 
 
+# Support Section
+
+# Set Android Home
+export ANDROID_HOME="/usr/lib/android-sdk"
+
 ## CUSTOM SETTINGS <--- this is a trigger line for awk, don't change
+
+
+
+shopt -s dotglob
+# Moves hidden files and folders too
 
 alias sobash="source ~/.bashrc"
 # Reload Bash Source
@@ -334,8 +344,6 @@ pushto() {
 	fi
 
 	commit "$2"
-	git checkout -b "$1"
-	git checkout "$1"
 	git push origin "$1"
 	setpushdefault $1
 }

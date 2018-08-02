@@ -25,8 +25,10 @@ Plugin 'vim-python/python-syntax'
 " Syntax Support 
 Plugin 'octol/vim-cpp-enhanced-highlight' 
 Plugin 'pangloss/vim-javascript' 
-Plugin 'vim-scripts/cSyntaxAfter'
+"Plugin 'vim-scripts/cSyntaxAfter'
+Plugin 'xolox/vim-misc'
 Plugin 'oepn/vim-easytags'
+Plugin 'mattn/emmet-vim'
 
 " Fuzzy search 
 Plugin 'kien/ctrlp.vim'
@@ -37,14 +39,17 @@ Plugin 'scrooloose/syntastic'
 " Airline 
 Plugin 'bling/vim-airline'
 
-" Motion with FuzzyFinder 
-Plugin 'easymotion/vim-easymotion'
-
 " Autocomplete 
 Plugin 'dansomething/vim-eclim'
 
 " To make Custom UI 
 Plugin 'shougo/unite.vim'
+
+" Auto-complete
+Plugin 'Valloric/YouCompleteMe'
+
+" Added braces support
+Plugin 'tpope/vim-surround'
 
 " All of your Plugins must be added before the following line 
 " 
