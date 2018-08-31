@@ -35,6 +35,11 @@
 
      # Setup Tmux 
 
+
+
+
+ ## Larvena
+
  backupAtom
 
      # Backup atom package list
@@ -47,6 +52,10 @@
 
 
  ## Shortcuts
+
+  laverna
+
+     # Laverna shortcut
 
   wwwroot
 
@@ -114,6 +123,10 @@
   sedpipe
 
      # Use sed with the pipe like this 'ls * | sedpipe "s/replaceThis/withThis/"' or some other s command
+
+  tt
+
+     # View what is due in the next 7 days on taskwarrior
 
  sedall
 

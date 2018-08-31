@@ -151,6 +151,9 @@ alias setupall="cat $setup | bash"
 alias setuptmux=$setup'tmuxsetup.sh'
 # Setup Tmux 
 
+## Larvena
+
+
 backupAtom() {
 # Backup atom package list
 	touch ~/.atom/packages.list
@@ -168,7 +171,8 @@ setupAtom() {
 
 
 ## Shortcuts
-
+alias laverna="/usr/share/laverna-0.7.51-linux-x64/laverna"
+# Laverna shortcut
 alias wwwroot='cd /var/www/html'
 # Go to apache server root
 alias sdkmanager="~/Downloads/android/tools/bin/sdkmanager"
@@ -214,6 +218,9 @@ alias v="head -1 "$clipboard
 
 alias sedpipe="xargs sed -i"$1
 # Use sed with the pipe like this 'ls * | sedpipe "s/replaceThis/withThis/"' or some other s command
+
+alias tt="task due.after:now-7days list"
+# View what is due in the next 7 days on taskwarrior
 
 sedall() {
 # Work in progress, I remember it was a good idea 
