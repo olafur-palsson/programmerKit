@@ -221,6 +221,7 @@ alias sedpipe="xargs sed -i"$1
 
 alias tt="task due.after:now-7days list"
 # View what is due in the next 7 days on taskwarrior
+alias ttn="task due.after:now-7days list | head -4; echo ' '"
 
 sedall() {
 # Work in progress, I remember it was a good idea 

@@ -5,6 +5,8 @@
       "one-dark-ui"
       "purple-rain"
     ]
+  editor:
+    fontSize: 13
   "exception-reporting":
     userId: "9b7681e5-ae75-4e99-9380-7ea58069153e"
   minimap:
