@@ -7,8 +7,10 @@
 !.settingsExport/**
 
 !.atom/
-!.atom/*
+!.atom/**
 
+!.tmux/
+!.tmux/**
 
 
 !.gitignore

@@ -1,0 +1,14 @@
+pane	0	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	Neural Network C++	0	:Make c++ tools	0	:-	0	:/home/bitchhunter3000/.genericFiles/c++tools	1	bash	:
+pane	Neural Network C++	0	:Make c++ tools	0	:-	1	:/home/bitchhunter3000/.genericFiles/c++tools	0	bash	:
+pane	Neural Network C++	2	:c++ dev	1	:*	0	:/home/bitchhunter3000/projects/neuralnetwork	1	bash	:
+pane	Neural Network C++	2	:c++ dev	1	:*	1	:/home/bitchhunter3000/projects/neuralnetwork	0	bash	:
+pane	Neural Network C++	2	:c++ dev	1	:*	2	:/home/bitchhunter3000/projects/neuralnetwork	0	nvim	:nvim Receptor.cpp
+pane	normal	0	:Tmux help	0	:-	0	:/home/bitchhunter3000	1	nvim	:nvim /home/bitchhunter3000/.genericFiles/tmux/tmuxa.md
+pane	normal	1	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+window	0	0	1	:*	b4dd,237x70,0,0,0
+window	Neural Network C++	0	0	:-	64f9,237x70,0,0{118x70,0,0,1,118x70,119,0,8}
+window	Neural Network C++	2	1	:*	6c3d,237x70,0,0{81x70,0,0[81x52,0,0,3,81x17,0,53,4],155x70,82,0,5}
+window	normal	0	0	:-	b4e3,237x70,0,0,6
+window	normal	1	1	:*	b4e4,237x70,0,0,7
+state	Neural Network C++	normal

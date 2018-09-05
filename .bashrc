@@ -142,11 +142,23 @@ alias 'helpv'="help; view README.md"
 ## Setup tools
 
 gen='~/.genericFiles/'
-setup=$gen'setupscripts/' 
+setup="$gen""setupscripts/" 
 alias setupkde="cp -avr .genericFiles/.config/ ~"
 # Copies .config into homefolder, has kde settings in it
-alias setupall="cat $setup | bash"
-# Setup environment by executing all scripts in ~.genericFIles/setupScripts/
+
+alias setupall="run-parts -v --test $setup"
+
+setupAll() {
+# Execute all scripts that are in the setupscripts folder
+
+	cd ~/.genericFiles/setupscripts/
+	for file in *.sh; do
+		bash "$file" || break
+	done
+	cd -
+	echo "Done"
+}
+
 
 alias setuptmux=$setup'tmuxsetup.sh'
 # Setup Tmux 
@@ -179,24 +191,8 @@ alias sdkmanager="~/Downloads/android/tools/bin/sdkmanager"
 # Shortcut to Android SDK Manager
 alias server='ssh root@165.227.41.109'
 # DigitalOcean Personal Server
-
-
-alias cppfolder='cd ~/MEGA/_Skoli/c++'
-# Skolashortcut
-alias pythonfolder='cd ~/MEGA/_Skoli/python'
-# Skolashortcut
-alias uifolder='cd ~/MEGA/_Skoli/UI'
-# Skolashortcut
-alias g++='g++ -std=c++17'
-# Default Standard for C++ is 2017
-alias hotelsearchjar='cd /home/pimp-of-pimps/projects/search/server/initial/build/libs/'
-# Current Poject
-alias hotelsearch='cd ~/projects/search'
-# Current Poject
-alias hotelsearchsrc='cd ~/projects/search/server/initial/src/main/'
-# Current Poject
-
-
+alias java8="~/java8/bin/java"
+alias javac8="~/java8/bin/javac"
 
 
 ## Terminal tools
@@ -368,3 +364,21 @@ push() {
 	commit "$1"
 	git push origin "$defaultGitBranch"
 }
+
+## Cpp helpers
+
+newcpp() {
+# Creates a new cpp file with an acompanying header file as .cpp and .hpp
+	cppPath=$HOME"/.genericFiles/c++tools/"
+	headerboiler=$cppPath"header.hpp"
+	baseboiler=$cppPath"base.cpp"
+
+	name=$1
+	caps=$(echo $name | awk '{ print toupper($0) }')
+	cat $baseboiler | sed "s/filename/$name/g" > $name.cpp
+	cat $headerboiler | sed "s/filename/$name/g" | sed "s/capsname/$caps/g" > $name.hpp
+}
+
+
+
+export PATH=$PATH:~/java8/java8

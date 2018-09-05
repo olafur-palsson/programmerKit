@@ -29,7 +29,9 @@
 
   setupall
 
-     # Setup environment by executing all scripts in ~.genericFIles/setupScripts/
+ setupAll
+
+     # Execute all scripts that are in the setupscripts folder
 
   setuptmux
 
@@ -68,6 +70,10 @@
   server
 
      # DigitalOcean Personal Server
+
+  java8
+
+  javac8
 
   cppfolder
 
@@ -127,6 +133,8 @@
   tt
 
      # View what is due in the next 7 days on taskwarrior
+
+  ttn
 
  sedall
 

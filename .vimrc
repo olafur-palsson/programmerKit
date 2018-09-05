@@ -3,7 +3,7 @@ set nocompatible " be iMproved, required filetype off " required
 set rtp+=~/.vim/bundle/Vundle.vim 
 call vundle#begin() 
 Plugin 'VundleVim/Vundle.vim'
-Plugin 'neovim/vimball.vim'
+"Plugin 'neovim/vimball.vim'
 
 " NerdTree filetree thing 
 Plugin 'scrooloose/nerdtree'
@@ -22,10 +22,13 @@ Plugin 'rustushki/JavaImp.vim'
 " Python
 Plugin 'vim-python/python-syntax'
 
+" C/C++
+Plugin 'derekwyatt/vim-fswitch'
+
 " Syntax Support 
 Plugin 'octol/vim-cpp-enhanced-highlight' 
 Plugin 'pangloss/vim-javascript' 
-"Plugin 'vim-scripts/cSyntaxAfter'
+Plugin 'vim-scripts/cSyntaxAfter'
 Plugin 'xolox/vim-misc'
 Plugin 'oepn/vim-easytags'
 Plugin 'mattn/emmet-vim'
@@ -50,6 +53,9 @@ Plugin 'Valloric/YouCompleteMe'
 
 " Added braces support
 Plugin 'tpope/vim-surround'
+
+" Color scheme
+Plugin 'sickill/vim-monokai'
 
 " All of your Plugins must be added before the following line 
 " 
@@ -78,7 +84,7 @@ filetype plugin indent on    " required
 " 
 
 " Color sceme 
-colorscheme monokai 
+"colorscheme monokai 
 highlight NonText ctermbg=none 
 highlight Normal ctermbg=none
 
@@ -186,3 +192,7 @@ augroup END
 "
 """"""""""""""""""""""""""""""
 imap sysout System.out.println(
+
+nnoremap <C-h> :FSAbove<CR> 
+
+

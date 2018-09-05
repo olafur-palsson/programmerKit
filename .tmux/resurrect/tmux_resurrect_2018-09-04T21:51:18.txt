@@ -1,0 +1,11 @@
+pane	2	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	Neural Network C++	0	:top	0	:-	0	:/home/bitchhunter3000	1	top	:top
+pane	Neural Network C++	1	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	Normal	0	:Tmux help	0	:-	0	:/home/bitchhunter3000	1	nvim	:nvim /home/bitchhunter3000/.genericFiles/tmux/tmuxa.md
+pane	Normal	1	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+window	2	0	1	:*	b4e2,237x70,0,0,5
+window	Neural Network C++	0	0	:-	b4de,237x70,0,0,1
+window	Neural Network C++	1	1	:*	b4df,237x70,0,0,2
+window	Normal	0	0	:-	b4e0,237x70,0,0,3
+window	Normal	1	1	:*	b4e3,237x70,0,0,6
+state	Normal	Neural Network C++
