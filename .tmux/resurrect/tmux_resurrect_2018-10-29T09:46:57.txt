@@ -1,0 +1,28 @@
+pane	0	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	5	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	6	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	database	0	:bash	1	:*	0	:/home/bitchhunter3000/skoli/databases/v8/forritun	1	bash	:
+pane	forritunarmal	0	:bash	1	:*	0	:/home/bitchhunter3000/skoli/forritunarmal/morpho	1	nvim	:nvim priorityQueue.morpho
+pane	forritunarmal	0	:bash	1	:*	1	:/home/bitchhunter3000/skoli/forritunarmal/morpho	0	bash	:
+pane	normal	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	reikniverkefni2	0	:nvim	1	:*	0	:/home/bitchhunter3000/skoli/reinforcementLearning/reikniverkefni2	1	bash	:
+pane	reikniverkefni2	1	:bash	0	:-	0	:/home/bitchhunter3000/skoli/reinforcementLearning/reikniverkefni2	1	bash	:
+pane	spring-web	0	:server	1	:*	0	:/home/bitchhunter3000/projects/workout-tracker/server/initial	1	bash	:
+pane	spring-web	0	:server	1	:*	1	:/home/bitchhunter3000/projects/workout-tracker/server/initial	0	bash	:
+pane	spring-web	1	:bash	0	:	0	:/home/bitchhunter3000/projects/workout-tracker/API	1	bash	:
+pane	spring-web	2	:front-end	0	:	0	:/home/bitchhunter3000/projects/workout-tracker/app	0	nvim	:nvim Request.js
+pane	spring-web	2	:front-end	0	:	1	:/home/bitchhunter3000/projects/workout-tracker/app	1	nvim	:nvim test.js
+pane	spring-web	3	:npm	0	:-	0	:/home/bitchhunter3000/projects/workout-tracker/app	1	bash	:
+window	0	0	1	:*	d5be,139x59,0,0,1
+window	5	0	1	:*	d5bf,139x59,0,0,2
+window	6	0	1	:*	d5c0,139x59,0,0,3
+window	database	0	1	:*	d5c1,139x59,0,0,4
+window	forritunarmal	0	1	:*	8d38,237x59,0,0{128x59,0,0,5,108x59,129,0,6}
+window	normal	0	1	:*	d5c4,139x59,0,0,7
+window	reikniverkefni2	0	1	:*	d5c5,139x59,0,0,8
+window	reikniverkefni2	1	0	:-	d5c6,139x59,0,0,9
+window	spring-web	0	1	:*	13b6,139x59,0,0[139x30,0,0,10,139x28,0,31,11]
+window	spring-web	1	0	:	6b11,139x59,0,0,12
+window	spring-web	2	0	:	f778,139x59,0,0{69x59,0,0,13,69x59,70,0,14}
+window	spring-web	3	0	:-	6b14,139x59,0,0,15
+state	forritunarmal	database

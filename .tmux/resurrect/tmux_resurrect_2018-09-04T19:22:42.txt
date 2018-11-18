@@ -1,3 +1,0 @@
-pane	0	0	:top	1	:*	0	:/home/bitchhunter3000	1	top	:top
-window	0	0	1	:*	b8be,133x62,0,0,1
-state	0	

@@ -75,38 +75,18 @@
 
   javac8
 
-  cppfolder
-
-     # Skolashortcut
-
-  pythonfolder
-
-     # Skolashortcut
-
-  uifolder
-
-     # Skolashortcut
-
-  g++
-
-     # Default Standard for C++ is 2017
-
-  hotelsearchjar
-
-     # Current Poject
-
-  hotelsearch
-
-     # Current Poject
-
-  hotelsearchsrc
-
-     # Current Poject
-
 
 
 
  ## Terminal tools
+
+  seeya
+
+     # Hibernate 
+
+  bye
+
+     # Shutdown
 
   update
 
@@ -130,11 +110,9 @@
 
      # Use sed with the pipe like this 'ls * | sedpipe "s/replaceThis/withThis/"' or some other s command
 
-  tt
+ sedpp
 
-     # View what is due in the next 7 days on taskwarrior
-
-  ttn
+     # Sedpipe with less writing, use like 'ls * | sedpp replaceThis withThis'
 
  sedall
 
@@ -160,6 +138,36 @@
 
 
 
+ ## Task Warrior
+
+  tt
+
+     # View what is due in the next 7 days on taskwarrior
+
+  ttn
+
+     # View next due task
+
+  ttv
+
+     # All containing the word 'Verk' (i.e. work material)
+
+  ttvn
+
+
+
+
+ ## Morpho alias
+
+  morpho
+
+     # run morpho
+
+  morphoc
+
+
+
+
  ## Tmux helper commands
 
   tmuxhelp
@@ -174,6 +182,10 @@
 
      	# List al tmux sessions running
 
+  t
+
+     	# Attach to tmux session 'normal', handy for the tmux-resurrect megasession
+
  tkill
 
      # Kill session
@@ -181,10 +193,6 @@
  tnew
 
      # New session
-
- t
-
-     # Attach to session $1
 
   tkillall
 
@@ -252,4 +260,17 @@
  push
 
      # Push to last pushed to branch with message as $1
+
+
+
+
+ ## Cpp helpers
+
+ newcpp
+
+     # Creates a new cpp file with an acompanying header file as .cpp and .hpp
+
+ gppp
+
+     # compile with output file as 'filename.o' with std=c++17
 

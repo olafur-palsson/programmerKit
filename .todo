@@ -1,0 +1,5 @@
+
+Make an export atom function.
+
+Atom now has packages installed into the .atom folder bloating it.
+I tried gitignore but somehow it's being strange

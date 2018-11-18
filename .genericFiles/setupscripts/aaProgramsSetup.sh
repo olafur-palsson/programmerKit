@@ -5,6 +5,9 @@ sudo apt-add-repository ppa:neovim-ppa/stable
 sudo apt-get update
 sudo add-apt-repository ppa:otto-kesselgulasch/gimp
 
+# Setup basics
+sudo apt install xclip 
+
 # Taskwarrior
 sudo apt-get install taskwarrior
 
@@ -46,11 +49,24 @@ sudo npm install npm -g
 # Setup Atom
 sudo apt-get install atom
 
+# Setup Gimp
+sudo apt-get install gimp
+
+# Setup slack
+sudo snap find slack
+sudo snap install slack --classic
+
+# Setup shutter screencapture
+sudo apt-get install shutter
+
+# Setup Anaconda
+### Vantar sma function sem installar safe
+curl -O https://repo.continuum.io/archive/Anaconda3-5.0.1-Linux-x86_64.sh > ~/.genericFiles/anacondaInstaller.sh
+sudo chmod +x ~/.genericFiles/anacondaInstaller.sh
+sudo bash ~/.genericFiles/anacondaInstaller.sh
+
+
+# ---------------------------------- END
 # Upgrade to latest
 sudo apt-get upgrade
 
-# Setup Gimp
-sudo apt-get update
-sudo apt-get install gimp
-
-# Setup Eclipse

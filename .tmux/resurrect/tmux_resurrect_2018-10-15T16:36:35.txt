@@ -1,0 +1,5 @@
+pane	0	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	1	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+window	0	0	1	:*	badd,237x62,0,0,0
+window	1	0	1	:*	bade,237x62,0,0,1
+state	1	

@@ -1,10 +1,10 @@
 
 
-#ifndef capsname_H
-#define capsname_H
+#ifndef capsname_HPP
+#define capsname_HPP
 
 #include <iostream>
-#include "filename.h"
+#include "filename.hpp"
 
 class filename {
 	private:

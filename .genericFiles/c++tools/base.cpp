@@ -4,16 +4,17 @@
 
 using namespace std;
 
-filename() {
+filename::filename() {
 	cout << "Constructed a filename" << endl;
 }
 
-~filename() {
+filename::~filename() {
 	cout << "Deleted a filename" << endl;
 }
 
 int main() {
 	filename* instanceOffilename = new filename();
 	delete instanceOffilename;
+	return 1;
 }
 

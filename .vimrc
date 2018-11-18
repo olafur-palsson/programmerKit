@@ -1,3 +1,11 @@
+" File              : /home/bitchhunter3000/.vimrc
+" Author            : Your Name <your@mail>
+" Date              : 07.10.2018
+" Last Modified Date: 07.10.2018
+" Last Modified By  : Olafur Palsson (github: olafur-palsson) <olafur.palsson2@gmail.com>
+" File              : /home/bitchhunter3000/.vimrc
+" Date              : 07.10.2018
+" Last Modified Date: 07.10.2018
 set nocompatible " be iMproved, required filetype off " required
 
 set rtp+=~/.vim/bundle/Vundle.vim 
@@ -24,6 +32,13 @@ Plugin 'vim-python/python-syntax'
 
 " C/C++
 Plugin 'derekwyatt/vim-fswitch'
+
+" Haskell
+Plugin 'neovimhaskell/haskell-vim'
+
+" Color Scheme
+Plugin 'ErichDonGubler/vim-sublime-monokai'
+
 
 " Syntax Support 
 Plugin 'octol/vim-cpp-enhanced-highlight' 
@@ -65,6 +80,7 @@ Plugin 'sickill/vim-monokai'
 
 
 
+
 call vundle#end()            " required
 filetype plugin indent on    " required
 " To ignore plugin indent changes, instead use:
@@ -84,7 +100,10 @@ filetype plugin indent on    " required
 " 
 
 " Color sceme 
+syntax on
+colorscheme sublimemonokai
 "colorscheme monokai 
+
 highlight NonText ctermbg=none 
 highlight Normal ctermbg=none
 
@@ -92,8 +111,9 @@ highlight Normal ctermbg=none
 let g:python_highlight_all = 1
 
 " SET TAB WIDTH TO 2 
+set expandtab
 set shiftwidth=2 
-set tabstop=2
+set softtabstop=2
 
 " SET NERDTREE PLUGIN SHORTCUT 
 nmap <F6> :NERDTreeToggle<CR>
@@ -167,6 +187,15 @@ set foldnestmax=10
 set nofoldenable 
 set foldlevel=2
 
+" Haskell syntax
+let g:haskell_enable_quantification = 1   " to enable highlighting of `forall`
+let g:haskell_enable_recursivedo = 1      " to enable highlighting of `mdo` and `rec`
+let g:haskell_enable_arrowsyntax = 1      " to enable highlighting of `proc`
+let g:haskell_enable_pattern_synonyms = 1 " to enable highlighting of `pattern`
+let g:haskell_enable_typeroles = 1        " to enable highlighting of type roles
+let g:haskell_enable_static_pointers = 1  " to enable highlighting of `static`
+let g:haskell_backpack = 1                " to enable highlighting of backpack keywords
+
 " Edit .vimrc hotkey on <F12> 
 nnoremap <F12> :vsp ~/.vimrc<CR>
 nnoremap <F12><F12> :vsp ~/.vimrc<CR>:so %<CR> :q<CR>
@@ -179,10 +208,11 @@ let g:JavaImpPaths =
 autocmd! FileType c,cpp,java,php call CSyntaxAfter()
 
 " Autoreload the .vimrc on change
-augroup myvimrc
-    au!
-    au BufWritePost .vimrc,_vimrc,vimrc,.gvimrc,_gvimrc,gvimrc so $MYVIMRC | if has('gui_running') | so $MYGVIMRC | endif
-augroup END
+" augroup myvimrc
+ "   au!
+ "   au BufWritePost .vimrc,_vimrc,vimrc,.gvimrc,_gvimrc,gvimrc so $MYVIMRC | if has('gui_running') | so $MYGVIMRC | endif
+" augroup END
+
 
 
 

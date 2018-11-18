@@ -1,18 +1,24 @@
 **
 
+!.todo
+
 !.genericFiles/
 !.genericFiles/**
 
 !.settingsExport/
 !.settingsExport/**
 
-!.atom/
-!.atom/**
-
 !.tmux/
 !.tmux/**
+.tmux/plugins/
+.tmux/plugins/**
+
+!.atom/**
+!.atom/*
+.atom/*/
 
 
+!.startuprc
 !.gitignore
 !.vimrc
 !.bashrc

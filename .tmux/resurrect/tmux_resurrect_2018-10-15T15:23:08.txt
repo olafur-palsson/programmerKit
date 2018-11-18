@@ -1,0 +1,30 @@
+pane	0	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	Neural Network C++	0	:Make c++ tools	0	:-	0	:/home/bitchhunter3000/.genericFiles/c++tools	1	bash	:
+pane	Neural Network C++	0	:Make c++ tools	0	:-	1	:/home/bitchhunter3000/.genericFiles/c++tools	0	bash	:
+pane	Neural Network C++	2	:c++ dev	1	:*	0	:/home/bitchhunter3000/projects/neuralnetwork	0	bash	:
+pane	Neural Network C++	2	:c++ dev	1	:*	1	:/home/bitchhunter3000/projects/neuralnetwork	1	bash	:
+pane	Neural Network C++	2	:c++ dev	1	:*	2	:/home/bitchhunter3000/projects/neuralnetwork	0	nvim	:nvim Receptor.cpp
+pane	forritunarmal	0	:nvim	1	:*	0	:/home/bitchhunter3000/skoli/forritunarmal/morpho	1	nvim	:nvim filter.morpho
+pane	forritunarmal	0	:nvim	1	:*	1	:/home/bitchhunter3000/skoli/forritunarmal/morpho	0	java	:java -jar /home/bitchhunter3000/skoli/forritunarmal/morpho.jar filter
+pane	normal	0	:Tmux help	0	:-	0	:/home/bitchhunter3000/skoli/forritunarmal	1	bash	:
+pane	normal	0	:Tmux help	0	:-	1	:/home/bitchhunter3000/skoli/forritunarmal	0	bash	:
+pane	normal	1	:bash	1	:*	0	:/home/bitchhunter3000/skoli/johann	1	bash	:
+pane	normal	1	:bash	1	:*	1	:/home/bitchhunter3000/skoli/johann	0	bash	:
+pane	reiknigreind	0	:bash	1	:*	0	:/home/bitchhunter3000/skoli/reinforcementLearning/reikniVerkefni1	1	bash	:
+pane	reiknigreind	0	:bash	1	:*	1	:/home/bitchhunter3000/skoli/reinforcementLearning/reikniVerkefni1	0	bash	:bash /home/bitchhunter3000/.tmux/plugins/tmux-resurrect/scripts/../save_command_strategies/ps.sh 2475
+pane	springweb	0	:bash	0	:	0	:/home/bitchhunter3000/projects/workout-tracker/server/initial	1	bash	:
+pane	springweb	0	:bash	0	:	1	:/home/bitchhunter3000/projects/workout-tracker	0	bash	:
+pane	springweb	1	:API	0	:-	0	:/home/bitchhunter3000/projects/workout-tracker/API/src	0	bash	:
+pane	springweb	1	:API	0	:-	1	:/home/bitchhunter3000/projects/workout-tracker/API	1	bash	:
+pane	springweb	3	:java	1	:*	0	:/home/bitchhunter3000/projects/workout-tracker/server/initial	1	bash	:
+window	0	0	1	:*	bade,237x62,0,0,1
+window	Neural Network C++	0	0	:-	abb8,237x62,0,0{118x62,0,0,2,118x62,119,0,3}
+window	Neural Network C++	2	1	:*	c7d2,237x62,0,0{81x62,0,0[81x39,0,0,4,81x22,0,40,5],155x62,82,0,6}
+window	forritunarmal	0	1	:*	2a20,237x62,0,0{144x62,0,0,7,92x62,145,0,8}
+window	normal	0	0	:-	d635,237x62,0,0{118x62,0,0,9,118x62,119,0,10}
+window	normal	1	1	:*	ba21,237x62,0,0{103x62,0,0,11,133x62,104,0,12}
+window	reiknigreind	0	1	:*	d0f3,237x62,0,0{118x62,0,0,13,118x62,119,0,14}
+window	springweb	0	0	:	ca85,237x62,0,0{126x62,0,0,15,110x62,127,0,16}
+window	springweb	1	0	:-	be3f,237x62,0,0{123x62,0,0,17,113x62,124,0,18}
+window	springweb	3	1	:*	5da8,237x62,0,0,19
+state	forritunarmal	normal

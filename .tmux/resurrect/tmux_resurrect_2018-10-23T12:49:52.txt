@@ -1,0 +1,26 @@
+pane	0	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	5	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	6	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	forritunarmal	0	:bash	1	:*	0	:/home/bitchhunter3000/skoli/forritunarmal/scheme	1	bash	:
+pane	forritunarmal	0	:bash	1	:*	1	:/home/bitchhunter3000/skoli/forritunarmal/morpho	0	bash	:
+pane	normal	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	reikniverkefni2	0	:nvim	1	:*	0	:/home/bitchhunter3000/skoli/reinforcementLearning/reikniverkefni2/Backgammon2	1	bash	:
+pane	reikniverkefni2	1	:bash	0	:-	0	:/home/bitchhunter3000/skoli/reinforcementLearning/reikniverkefni2/Backgammon2	1	ssh	:ssh pimp@130.208.144.53
+pane	spring-web	0	:server	1	:*	0	:/home/bitchhunter3000/projects/workout-tracker/server/initial	1	bash	:
+pane	spring-web	0	:server	1	:*	1	:/home/bitchhunter3000/projects/workout-tracker/server/initial	0	bash	:
+pane	spring-web	1	:bash	0	:	0	:/home/bitchhunter3000/projects/workout-tracker/API	1	bash	:
+pane	spring-web	2	:front-end	0	:	0	:/home/bitchhunter3000/projects/workout-tracker/app	0	nvim	:nvim Request.js
+pane	spring-web	2	:front-end	0	:	1	:/home/bitchhunter3000/projects/workout-tracker/app	1	nvim	:nvim test.js
+pane	spring-web	3	:npm	0	:-	0	:/home/bitchhunter3000/projects/workout-tracker/app	1	bash	:
+window	0	0	1	:*	b37e,167x60,0,0,1
+window	5	0	1	:*	b380,167x60,0,0,3
+window	6	0	1	:*	5da3,237x62,0,0,14
+window	forritunarmal	0	1	:*	b1a8,167x60,0,0{83x60,0,0,4,83x60,84,0,5}
+window	normal	0	1	:*	badf,237x62,0,0,2
+window	reikniverkefni2	0	1	:*	bae3,237x62,0,0,6
+window	reikniverkefni2	1	0	:-	bae4,237x62,0,0,7
+window	spring-web	0	1	:*	f960,167x60,0,0[167x30,0,0,8,167x29,0,31,9]
+window	spring-web	1	0	:	59ef,167x60,0,0,10
+window	spring-web	2	0	:	505b,167x60,0,0{83x60,0,0,11,83x60,84,0,12}
+window	spring-web	3	0	:-	59f2,167x60,0,0,13
+state	normal	6

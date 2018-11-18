@@ -1,0 +1,15 @@
+pane	0	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	1	0	:bash	1	:*	0	:/home/bitchhunter3000/skoli/forritunarmal/morpho	1	bash	:
+pane	1	0	:bash	1	:*	1	:/home/bitchhunter3000/skoli/forritunarmal/morpho	0	bash	:
+pane	spring-web	0	:server	0	:	0	:/home/bitchhunter3000/projects/workout-tracker/server/initial	1	java	:java -Dorg.gradle.appname=gradlew -classpath /home/bitchhunter3000/projects/workout-tracker/server/initial/gradle/wrapper/gradle-wrapper.jar org.gradle.wrapper.GradleWrapperMain bootRun
+pane	spring-web	1	:bash	0	:	0	:/home/bitchhunter3000/projects/workout-tracker/API	1	bash	:
+pane	spring-web	2	:front-end	0	:-	0	:/home/bitchhunter3000/projects/workout-tracker/app	0	nvim	:nvim Request.js
+pane	spring-web	2	:front-end	0	:-	1	:/home/bitchhunter3000/projects/workout-tracker/app	1	nvim	:nvim test.js
+pane	spring-web	3	:npm	1	:*	0	:/home/bitchhunter3000/projects/workout-tracker/app	1	npm	:npm
+window	0	0	1	:*	bade,237x62,0,0,1
+window	1	0	1	:*	abb8,237x62,0,0{118x62,0,0,2,118x62,119,0,3}
+window	spring-web	0	0	:	bae1,237x62,0,0,4
+window	spring-web	1	0	:	bae2,237x62,0,0,5
+window	spring-web	2	0	:-	2bbf,237x62,0,0{118x62,0,0,6,118x62,119,0,8}
+window	spring-web	3	1	:*	bae6,237x62,0,0,9
+state	spring-web	1

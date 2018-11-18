@@ -1,0 +1,13 @@
+pane	0	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	1	0	:bash	1	:*	0	:/home/bitchhunter3000/skoli/forritunarmal/morpho	1	bash	:
+pane	1	0	:bash	1	:*	1	:/home/bitchhunter3000/skoli/forritunarmal/morpho	0	bash	:
+pane	spring-web	0	:server	0	:-	0	:/home/bitchhunter3000/projects/workout-tracker/server/initial	1	bash	:
+pane	spring-web	1	:bash	0	:	0	:/home/bitchhunter3000/projects/workout-tracker/API	1	bash	:
+pane	spring-web	2	:bash	1	:*	0	:/home/bitchhunter3000/projects/workout-tracker	0	nvim	:nvim .gitignore
+pane	spring-web	2	:bash	1	:*	1	:/home/bitchhunter3000/projects/workout-tracker	1	bash	:
+window	0	0	1	:*	bade,237x62,0,0,1
+window	1	0	1	:*	abb8,237x62,0,0{118x62,0,0,2,118x62,119,0,3}
+window	spring-web	0	0	:-	bae1,237x62,0,0,4
+window	spring-web	1	0	:	bae2,237x62,0,0,5
+window	spring-web	2	1	:*	2bbf,237x62,0,0{118x62,0,0,6,118x62,119,0,8}
+state	spring-web	1

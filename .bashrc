@@ -133,7 +133,7 @@ shopt -s dotglob
 alias sobash="source ~/.bashrc"
 # Reload Bash Source
 
-alias help="awk -f ~/.genericFiles/getdocumentation.awk ~/.bashrc > README.md; cat README.md"
+alias help="awk -f ~/.genericFiles/getdocumentation.awk ~/.bashrc > ~/README.md; cat ~/README.md"
 # Get help documentation and uploads it to readme
 
 alias 'helpv'="help; view README.md"
@@ -165,6 +165,8 @@ alias setuptmux=$setup'tmuxsetup.sh'
 
 ## Larvena
 
+alias atom='taskset --cpu-list 1,2,3 atom'
+# Limit atom to only use 3 cpus (on a 4 core computer). It was using 100% on all \U+1F914
 
 backupAtom() {
 # Backup atom package list
@@ -197,6 +199,12 @@ alias javac8="~/java8/bin/javac"
 
 ## Terminal tools
 
+alias seeya='systemctl hibernate'
+# Hibernate 
+
+alias bye='sudo shutdown now'
+# Shutdown
+
 alias update='sudo apt-get update; sudo apt-get upgrade -y'
 # Update and upgrade all
 
@@ -212,12 +220,13 @@ alias qjk="cat "$clipboard
 alias v="head -1 "$clipboard
 # Paste first line for inline command. Example $(v).
 
-alias sedpipe="xargs sed -i"$1
+alias sedpipe="xargs sed -i "$1
 # Use sed with the pipe like this 'ls * | sedpipe "s/replaceThis/withThis/"' or some other s command
 
-alias tt="task due.after:now-7days list"
-# View what is due in the next 7 days on taskwarrior
-alias ttn="task due.after:now-7days list | head -4; echo ' '"
+sedpp() {
+# Sedpipe with less writing, use like 'ls * | sedpp replaceThis withThis'
+	xargs sed -i 's/'$1'/'$2'/g'
+}
 
 sedall() {
 # Work in progress, I remember it was a good idea 
@@ -243,6 +252,22 @@ alias docker="sudo docker"
 alias addkey="sudo apt-key adv --keyserver pgp.mit.edu --recv-keys" 
 # and then something like F76221572C52609D to solve 'NO_PUBKEY ...' Error during apt-get update
 
+## Task Warrior
+
+alias tt="task due.after:now-7days list"
+# View what is due in the next 7 days on taskwarrior
+alias ttn="task due.after:now-7days list | head -4; echo ' '"
+# View next due task
+alias ttv="tt | grep -e 'Verk'"
+# All containing the word 'Verk' (i.e. work material)
+alias ttvn="ttv | head -1"
+
+## Morpho alias
+
+alias morpho="java -jar ~/skoli/forritunarmal/morpho.jar"
+# run morpho
+alias morphoc="java -jar ~/skoli/forritunarmal/morpho.jar -c"
+
 
 ## Tmux helper commands
 
@@ -252,6 +277,8 @@ alias tmuxhelpb="nvim ~/.genericFiles/tmux/tmuxb.md"
 	# Manual for Tmux, other
 alias tls="tmux ls"
 	# List al tmux sessions running
+alias t='tmux a -t "normal"'
+	# Attach to tmux session 'normal', handy for the tmux-resurrect megasession
 
 tkill() { 
 # Kill session
@@ -263,12 +290,6 @@ tnew() {
 # New session
 	name="$1"
 	tmux new -s $name
-}
-
-t() { 
-# Attach to session $1
-	name="$1"
-	tmux a -t $name
 }
 
 alias tkillall="tmux ls | grep : | cut -d. -f1 | awk '{print substr($1, 0, length($1)-1)}' | xargs kill"
@@ -378,6 +399,15 @@ newcpp() {
 	cat $baseboiler | sed "s/filename/$name/g" > $name.cpp
 	cat $headerboiler | sed "s/filename/$name/g" | sed "s/capsname/$caps/g" > $name.hpp
 }
+
+gppp() {
+# compile with output file as 'filename.o' with std=c++17
+	filename=$(echo $1 | cut -d'.' -f 1)
+	g++ -o $filename'.o' $1 -std=c++14 
+	unset $filename
+}
+
+alias desktop="ssh pimp@130.208.144.53"
 
 
 
