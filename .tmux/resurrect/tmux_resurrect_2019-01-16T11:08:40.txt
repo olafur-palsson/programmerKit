@@ -1,0 +1,26 @@
+pane	0	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	5	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	Velocitymodel	0	:bash	1	:*	0	:/home/bitchhunter3000/projects/cpp_vel_model	1	bash	:
+pane	Velocitymodel	0	:bash	1	:*	1	:/home/bitchhunter3000/projects/cpp_vel_model	0	bash	:
+pane	Velocitymodel	0	:bash	1	:*	2	:/home/bitchhunter3000/projects/cpp_vel_model	0	bash	:
+pane	database	0	:bash	1	:*	0	:/home/bitchhunter3000/skoli/databases/v8/forritun/v10	1	bash	:
+pane	database	0	:bash	1	:*	1	:/home/bitchhunter3000/skoli/databases/v8/forritun/v10	0	bash	:
+pane	greiningreiknirita	0	:cpp	1	:*	0	:/home/bitchhunter3000/skoli/greiningreiknirita/2hd	1	nvim	:nvim daemi2.txt
+pane	greiningreiknirita	0	:cpp	1	:*	1	:/home/bitchhunter3000/skoli/greiningreiknirita/2hd	0	bash	:
+pane	greiningreiknirita	0	:cpp	1	:*	2	:/home/bitchhunter3000/skoli/greiningreiknirita/2hd	0	bash	:
+pane	normal	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	reikniverkefni2	0	:nvim	1	:*	0	:/home/bitchhunter3000/skoli/reinforcementLearning/reikniverkefni2	1	bash	:
+pane	reikniverkefni2	1	:bash	0	:-	0	:/home/bitchhunter3000/skoli/reinforcementLearning/reikniverkefni2	1	bash	:
+pane	spring-web	0	:server	0	:-	0	:/home/bitchhunter3000	1	bash	:
+pane	spring-web	3	:npm	1	:*	0	:/home/bitchhunter3000	1	bash	:
+window	0	0	1	:*	b1be,116x60,0,0,1
+window	5	0	1	:*	b1bf,116x60,0,0,2
+window	Velocitymodel	0	1	:*	8163,237x60,0,0{118x60,0,0,3,118x60,119,0[118x30,119,0,4,118x29,119,31,5]}
+window	database	0	1	:*	0b20,116x60,0,0{57x60,0,0,6,58x60,58,0,7}
+window	greiningreiknirita	0	1	:*	a11d,237x60,0,0{118x60,0,0,8,118x60,119,0[118x30,119,0,9,118x29,119,31,10]}
+window	normal	0	1	:*	5910,116x60,0,0,11
+window	reikniverkefni2	0	1	:*	5911,116x60,0,0,12
+window	reikniverkefni2	1	0	:-	5912,116x60,0,0,13
+window	spring-web	0	0	:-	5913,116x60,0,0,14
+window	spring-web	3	1	:*	5914,116x60,0,0,15
+state	Velocitymodel	greiningreiknirita

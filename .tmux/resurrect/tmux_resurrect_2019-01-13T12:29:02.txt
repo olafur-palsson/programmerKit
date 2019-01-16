@@ -1,0 +1,25 @@
+pane	0	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	5	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	Velocitymodel	0	:bash	1	:*	0	:/home/bitchhunter3000/projects/cpp_vel_model	1	nvim	:nvim .
+pane	Velocitymodel	0	:bash	1	:*	1	:/home/bitchhunter3000/projects/cpp_vel_model	0	inotifywait	:inotifywait -m . -e close_write
+-bash
+pane	database	0	:bash	1	:*	0	:/home/bitchhunter3000/skoli/databases/v8/forritun/v10	1	bash	:
+pane	database	0	:bash	1	:*	1	:/home/bitchhunter3000/skoli/databases/v8/forritun/v10	0	bash	:
+pane	forritunarmal	0	:bash	1	:*	0	:/home/bitchhunter3000/skoli/forritunarmal/haskell	1	bash	:
+pane	forritunarmal	0	:bash	1	:*	1	:/home/bitchhunter3000/skoli/forritunarmal/haskell	0	bash	:
+pane	normal	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
+pane	reikniverkefni2	0	:nvim	1	:*	0	:/home/bitchhunter3000/skoli/reinforcementLearning/reikniverkefni2	1	bash	:
+pane	reikniverkefni2	1	:bash	0	:-	0	:/home/bitchhunter3000/skoli/reinforcementLearning/reikniverkefni2	1	bash	:
+pane	spring-web	0	:server	0	:-	0	:/home/bitchhunter3000	1	bash	:
+pane	spring-web	3	:npm	1	:*	0	:/home/bitchhunter3000	1	bash	:
+window	0	0	1	:*	ccde,237x57,0,0,1
+window	5	0	1	:*	ccdf,237x57,0,0,2
+window	Velocitymodel	0	1	:*	187f,116x57,0,0[116x28,0,0,3,116x28,0,29,17]
+window	database	0	1	:*	7fff,237x57,0,0{118x57,0,0,5,118x57,119,0,6}
+window	forritunarmal	0	1	:*	8002,237x57,0,0{118x57,0,0,7,118x57,119,0,8}
+window	normal	0	1	:*	cce6,237x57,0,0,9
+window	reikniverkefni2	0	1	:*	669f,237x57,0,0,10
+window	reikniverkefni2	1	0	:-	66a0,237x57,0,0,11
+window	spring-web	0	0	:-	66a1,237x57,0,0,12
+window	spring-web	3	1	:*	66a2,237x57,0,0,13
+state	Velocitymodel	spring-web

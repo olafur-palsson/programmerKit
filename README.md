@@ -42,6 +42,10 @@
 
  ## Larvena
 
+  atom
+
+     # Limit atom to only use 3 cpus (on a 4 core computer). It was using 100% on all \U+1F914
+
  backupAtom
 
      # Backup atom package list
@@ -118,6 +122,12 @@
 
      # Work in progress, I remember it was a good idea 
 
+ watch_do
+
+     # Watch file $1 and on change do $2
+
+     #
+
   docker
 
      #docker always sudo
@@ -164,6 +174,13 @@
      # run morpho
 
   morphoc
+
+
+
+
+ ## R
+
+ rmd
 
 
 
@@ -273,4 +290,6 @@
  gppp
 
      # compile with output file as 'filename.o' with std=c++17
+
+  desktop
 

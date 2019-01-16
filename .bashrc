@@ -146,6 +146,8 @@ setup="$gen""setupscripts/"
 alias setupkde="cp -avr .genericFiles/.config/ ~"
 # Copies .config into homefolder, has kde settings in it
 
+alias backup="bash ./.genericFiles/backup_tools.sh"
+
 alias setupall="run-parts -v --test $setup"
 
 setupAll() {
@@ -241,6 +243,20 @@ sedall() {
 	done
 }
 
+watch_do() {
+  # watch folder $1 for anything that matches $2 then on close_write do $3
+  regex="$2";
+  cmd=$3;
+  echo "$cmd";
+  echo "$regex";
+  echo "yolololol";
+  inotifywait -m "$1" -e close_write |
+    while read path action file; do 
+      echo "$file" | grep -Eq "$regex" && eval "$cmd"
+    done
+}
+#
+
 alias docker="sudo docker"
 #docker always sudo
 
@@ -267,6 +283,11 @@ alias ttvn="ttv | head -1"
 alias morpho="java -jar ~/skoli/forritunarmal/morpho.jar"
 # run morpho
 alias morphoc="java -jar ~/skoli/forritunarmal/morpho.jar -c"
+
+## R
+rmd() {
+  R -e "rmarkdown::render('"$1"')" 
+}
 
 
 ## Tmux helper commands
@@ -325,6 +346,8 @@ newmavenproject() {
 
 alias mvntest="mvn test -Dtest=*"
 # Test all files in src/test/ with Maven
+
+
 
 
 ## Git
@@ -387,6 +410,20 @@ push() {
 }
 
 ## Cpp helpers
+autocompilecpp() {
+  # watch folder $1 for anything that matches $2 then on close_write do $3
+  regex="(cpp|hpp)$";
+  inotifywait -m "." -e close_write |
+    while read path action file; do 
+      filetocompile=$(echo "$file" | sed 's/hpp$/cpp/')
+      echo "$file" | grep -Eq "$regex" \
+        && tput reset \
+        && $(g++ "$filetocompile" -o $(echo $filetocompile | sed 's/cpp/o/')) \
+        && echo "$filetocompile compiled."
+    done
+}
+#
+
 
 newcpp() {
 # Creates a new cpp file with an acompanying header file as .cpp and .hpp
@@ -408,7 +445,6 @@ gppp() {
 }
 
 alias desktop="ssh pimp@130.208.144.53"
-
 
 
 export PATH=$PATH:~/java8/java8

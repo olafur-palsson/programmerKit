@@ -13,6 +13,9 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 "Plugin 'neovim/vimball.vim'
 
+" Auto-close braces
+Plugin 'jiangmiao/auto-pairs'
+
 " NerdTree filetree thing 
 Plugin 'scrooloose/nerdtree'
 
@@ -59,6 +62,8 @@ Plugin 'bling/vim-airline'
 
 " Autocomplete 
 Plugin 'dansomething/vim-eclim'
+Plugin 'Shougo/deoplete.nvim'
+Plugin 'zchee/deoplete-clang'
 
 " To make Custom UI 
 Plugin 'shougo/unite.vim'
@@ -71,6 +76,8 @@ Plugin 'tpope/vim-surround'
 
 " Color scheme
 Plugin 'sickill/vim-monokai'
+
+
 
 " All of your Plugins must be added before the following line 
 " 
