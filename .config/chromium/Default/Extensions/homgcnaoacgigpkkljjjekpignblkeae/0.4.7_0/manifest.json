@@ -1,0 +1,26 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "content_scripts": [ {
+      "js": [ "main.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "description": "Detect web applications and javascript libraries run on browsing website.",
+   "icons": {
+      "128": "icon128.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCyA7bmwjdcrMx2qJnRqBjIAv5qH9wAhYuMZ7xS5+Y3OAVdwf73XW2e8A6CyTbkJyr0mg84ESD5kuGG1qjHCkaIP0dXway0QoI7evlhsuGcOOGRemJ/VmQhXCVymK1e0aUUlD1tGqvOPoFUXZ1kjPJhF9Mcv4YyPRg/BwDQ+fzqxQIDAQAB",
+   "manifest_version": 2,
+   "name": "Appspector",
+   "page_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html",
+      "default_title": "Click for more details."
+   },
+   "permissions": [ "tabs", "webRequest", "webRequestBlocking", "storage", "\u003Call_urls>", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.4.7",
+   "web_accessible_resources": [ "detector.js" ]
+}

@@ -1,0 +1,167 @@
+body {
+    font-size: 15px;
+}
+
+.hide {
+    display: none;
+}
+
+.center {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.spacer {
+    margin-bottom: 80px;
+}
+
+.button-primary {
+    background: #6FBEF3;
+    color: #fff;
+    border-radius: 4px;
+}
+
+.button-secondary {
+    background: #F3A16F;
+    color: #fff;
+    border-radius: 4px;
+}
+
+.button-main {
+    font-size: 150%;
+    display: inline-block;
+    padding: 30px;
+    width: 100%;
+    font-weight: 500;
+}
+
+.button-large {
+    font-size: 120%;
+    padding: 25px 50px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.content {
+    margin: 20px;
+}
+
+h1.lead {
+    text-align: center;
+    font-weight: 300;
+    color: #555;
+    font-size: 35px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+h2.lead {
+    text-align: center;
+    font-weight: 300;
+    margin-top: 50px;
+}
+
+h2.lead.larger {
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+.main-menu {
+    padding: 0.5em;
+    box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
+    background: #F5F5F5;
+}
+
+.main-menu .pure-menu-heading {
+    color: #888;
+    font-weight: 500;
+    font-size: 120%;
+}
+
+.main-menu .pure-menu-selected a.pure-menu-link {
+    border-bottom: 3px solid #6FBEF3;
+    color: #6FBEF3;
+}
+
+.main-menu a.pure-menu-link {
+    color: #888;
+}
+
+.main-menu ul {
+    float: right;
+}
+
+.main-menu li a:hover,
+.main-menu li a:focus {
+    background: none;
+    color: #AECFE5;
+}
+
+.timer {
+    padding: 60px 30px;
+    font-size: 150px;
+    color: #aaa;
+    text-align: center;
+}
+
+.pure-table.full-width {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.pure-table.center th,
+.pure-table.center td {
+    text-align: center;
+}
+
+.pure-table .th {
+    font-weight: 500;
+    background: #e0e0e0;
+}
+
+.rating {
+    margin-bottom: 40px;
+    font-size: 35px;
+}
+
+.rating input {
+    display: none;
+}
+
+.rating:not(:checked) > label {
+    color: #FFD700;
+}
+
+.rating > input:checked ~ label {
+    color: #e5e5e5;
+}
+
+.rating:not(:checked) > label:hover {
+    color: #FFE23E;
+}
+
+.rating > input:checked ~ label:hover {
+    color: #DDDDDD;
+}
+
+.rating label {
+    cursor: pointer;
+}
+
+.stars {
+    color: #EFAF66;
+}
+
+.score {
+    font-size: 150px;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 35px;
+    color: #555;
+}

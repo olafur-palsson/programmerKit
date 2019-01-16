@@ -1,0 +1,38 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update
+
+[MainWindow]
+Height 1080=696
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPYAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1785
+Window-Maximized 1080x1920=true
+
+[Print]
+PrintHeight=15.81
+
+[Recent Files]
+File1[$e]=$HOME/.local/share/wallpapers/111824-p1000168-last-1600var.jpg
+File10[$e]=$HOME/Downloads/Untitled Diagram.png
+File2[$e]=$HOME/.local/share/wallpapers/63815517-nature-wallpapers.jpg
+File3[$e]=$HOME/.local/share/wallpapers/astronomy-atmosphere-earth-220201.jpg
+File4[$e]=$HOME/.local/share/wallpapers/beach-bora-bora-clouds-753626.jpg
+File5[$e]=$HOME/.local/share/wallpapers/clear shore 4k.jpg
+File6[$e]=$HOME/screens/Selection_033.png
+File7[$e]=$HOME/Desktop/yfduWvD.jpg
+File8[$e]=$HOME/skoli/databases/v8/forritun/screen.png
+File9[$e]=$HOME/Downloads/UML digram.png
+Name1[$e]=111824-p1000168-last-1600var.jpg
+Name10[$e]=Untitled Diagram.png
+Name2[$e]=63815517-nature-wallpapers.jpg
+Name3[$e]=astronomy-atmosphere-earth-220201.jpg
+Name4[$e]=beach-bora-bora-clouds-753626.jpg
+Name5[$e]=clear shore 4k.jpg
+Name6[$e]=Selection_033.png
+Name7[$e]=yfduWvD.jpg
+Name8[$e]=screen.png
+Name9[$e]=UML digram.png
+
+[SideBar]
+IsVisible ViewMode=true
+SideBarSplitterSizes=242,1675

@@ -1,0 +1,28 @@
+2018/10/11-11:25:12.055 30549 Reusing MANIFEST /home/bitchhunter3000/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/10/11-11:25:12.055 30549 Recovering log #33
+2018/10/11-11:25:12.055 30549 Reusing old log /home/bitchhunter3000/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000033.log 
+2018/10/11-11:25:19.314 31133 Level-0 table #39: started
+2018/10/11-11:25:19.376 31133 Level-0 table #39: 1109324 bytes OK
+2018/10/11-11:25:19.379 30552 Current memtable full; waiting...
+2018/10/11-11:25:19.380 31133 Delete type=0 #33
+2018/10/11-11:25:19.382 31133 Level-0 table #41: started
+2018/10/11-11:25:19.411 31133 Level-0 table #41: 1603112 bytes OK
+2018/10/11-11:25:19.413 31133 Delete type=0 #38
+2018/10/11-11:25:22.947 31133 Level-0 table #43: started
+2018/10/11-11:25:23.014 31133 Level-0 table #43: 1130072 bytes OK
+2018/10/11-11:25:23.017 30552 Current memtable full; waiting...
+2018/10/11-11:25:23.022 31133 Delete type=0 #40
+2018/10/11-11:25:23.024 31133 Level-0 table #45: started
+2018/10/11-11:25:23.049 31133 Level-0 table #45: 1603112 bytes OK
+2018/10/11-11:25:23.053 31133 Delete type=0 #42
+2018/10/11-11:25:23.057 31133 Compacting 4@0 + 2@1 files
+2018/10/11-11:25:23.162 31133 Generated table #46@0: 27 keys, 2730562 bytes
+2018/10/11-11:25:23.165 31133 Generated table #47@0: 34 keys, 3612 bytes
+2018/10/11-11:25:23.165 31133 Compacted 4@0 + 2@1 files => 2734174 bytes
+2018/10/11-11:25:23.167 31133 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/10/11-11:25:23.167 31133 Delete type=2 #43
+2018/10/11-11:25:23.167 31133 Delete type=2 #39
+2018/10/11-11:25:23.168 31133 Delete type=2 #36
+2018/10/11-11:25:23.168 31133 Delete type=2 #45
+2018/10/11-11:25:23.168 31133 Delete type=2 #41
+2018/10/11-11:25:23.169 31133 Delete type=2 #35

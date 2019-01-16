@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://theoldreader.com/"
+      },
+      "urls": [ "https://theoldreader.com/" ]
+   },
+   "description": "The ultimate RSS reader. Just like the old Google Reader, only better.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCFqE3jDLLt39/7w4phuzL3X3Owc08gaqYdkqHQVl0hzmBVi0f0OQCx9cPSStjrF2HCCYzuc5nOi/ocMqcAZD7yKMa2TwS3bPMmqk3ieogdc226M96FMNvJGEqO7VJD3oVCtHLZctua2vlgPKVgVEZRoD86gPQWyz4O5k+WNwJLEQIDAQAB",
+   "manifest_version": 2,
+   "name": "The Old Reader",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5"
+}

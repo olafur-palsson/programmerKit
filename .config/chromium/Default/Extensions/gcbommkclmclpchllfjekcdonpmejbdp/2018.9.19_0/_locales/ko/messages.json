@@ -1,0 +1,146 @@
+{
+   "about_add_new_rule": {
+      "message": "새 규칙 추가하기"
+   },
+   "about_ext_description": {
+      "message": "웹을 암호화 하세요! 자동으로 여러 사이트에 HTTPS 보안을 사용합니다."
+   },
+   "about_ext_name": {
+      "message": "HTTPS Everywhere"
+   },
+   "about_rulesets_version": {
+      "message": "Rulesets version for"
+   },
+   "about_title": {
+      "message": "HTTPS Everywhere에 대하여"
+   },
+   "about_version": {
+      "message": "버전"
+   },
+   "cancel_he_blocking_explainer": {
+      "message": "HTTPS Everywhere noticed you were navigating to a non-HTTPS page, and tried to send you to the HTTPS version instead. The HTTPS version is unavailable. Most likely this site does not support HTTPS, but it is also possible that an attacker is blocking the HTTPS version. If you wish to view the unencrypted version of this page, you can still do so by disabling the 'Block all unencrypted requests' option in your HTTPS Everywhere extension. Be aware that disabling this option could make your browser vulnerable to network-based downgrade attacks on websites you visit."
+   },
+   "cancel_he_blocking_network": {
+      "message": "network-based downgrade attacks"
+   },
+   "chrome_add_new_rule": {
+      "message": "해당 사이트에 새 규칙 추가"
+   },
+   "chrome_add_rule": {
+      "message": "해당 사이트에 규칙 추가"
+   },
+   "chrome_always_https_for_host": {
+      "message": "해당 호스트는 항상 https 사용"
+   },
+   "chrome_disable_on_this_site": {
+      "message": "이 사이트에서 HTTPS Everywhere 사용 안 하기"
+   },
+   "chrome_enable_on_this_site": {
+      "message": "이 사이트에서 HTTPS Everywhere 사용하기"
+   },
+   "chrome_experimental_rules": {
+      "message": "실험용 규칙"
+   },
+   "chrome_experimental_rules_description": {
+      "message": "경고나 오류를 발생시킬 수 있음. 기본설정은 비활성화."
+   },
+   "chrome_hide_advanced": {
+      "message": "고급 숨기기"
+   },
+   "chrome_host": {
+      "message": "호스트:"
+   },
+   "chrome_redirect_to": {
+      "message": "다음으로 리다이렉트"
+   },
+   "chrome_regex": {
+      "message": "해당하는 regex"
+   },
+   "chrome_rule_name": {
+      "message": "규칙명"
+   },
+   "chrome_show_advanced": {
+      "message": "고급 보이기"
+   },
+   "chrome_stable_rules": {
+      "message": "Stable, 안정된 규칙"
+   },
+   "chrome_stable_rules_description": {
+      "message": "다음 사이트에 접속시 강제 암호화:"
+   },
+   "chrome_status_cancel_button": {
+      "message": "취소"
+   },
+   "menu_blockUnencryptedRequests": {
+      "message": "암호화되지 않은 모든 요청 차단"
+   },
+   "menu_donate_eff_imperative": {
+      "message": "EFF에 기부하기"
+   },
+   "menu_globalEnable": {
+      "message": "모든 곳에서 HTTPS 사용"
+   },
+   "menu_observatory": {
+      "message": "SSL 관측 환경 설정"
+   },
+   "menu_showCounter": {
+      "message": "카운터 보기"
+   },
+   "menu_viewAllRules": {
+      "message": "모든 규칙 표시"
+   },
+   "options_addUpdateChannel": {
+      "message": "업데이트 채널 추가"
+   },
+   "options_advancedSettings": {
+      "message": "고급 설정"
+   },
+   "options_autoUpdateRulesets": {
+      "message": "규칙 자동 업데이트"
+   },
+   "options_delete": {
+      "message": "삭제"
+   },
+   "options_disabledUrlsListed": {
+      "message": "HTTPS Everywhere Sites Disabled"
+   },
+   "options_enableMixedRulesets": {
+      "message": "Enable mixed content rulesets"
+   },
+   "options_enterUpdateChannelName": {
+      "message": "업데이트 채널 이름을 입력하세요"
+   },
+   "options_generalSettings": {
+      "message": "일반 설정"
+   },
+   "options_showDevtoolsTab": {
+      "message": "개발자 도구 탭 보기"
+   },
+   "options_storedRulesetsVersion": {
+      "message": "저장된 규칙 버전:"
+   },
+   "options_update": {
+      "message": "업데이트"
+   },
+   "options_updateChannels": {
+      "message": "업데이트 채널"
+   },
+   "options_updateChannelsWarning": {
+      "message": "Warning: Adding update channels can cause attackers to hijack your browser. Only edit this section if you know what you're doing!"
+   },
+   "options_updatesLastChecked": {
+      "message": "마지막 업데이트 확인 일자:"
+   },
+   "options_updatesLastCheckedNever": {
+      "message": "never"
+   },
+   "prefs_export_settings": {
+      "message": "설정 내보내기"
+   },
+   "prefs_reset_defaults": {
+      "message": "기본값으로 다시 설정"
+   },
+   "prefs_reset_defaults_message": {
+      "message": "규칙이 기본값으로 초기화됩니다. 계속하시겠습니까?"
+   }
+}

@@ -1,0 +1,9 @@
+2018/10/18-15:26:40.914 11562 Reusing MANIFEST /home/bitchhunter3000/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/10/18-15:26:40.914 11562 Recovering log #44
+2018/10/18-15:26:40.914 11562 Reusing old log /home/bitchhunter3000/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000044.log 
+2018/10/18-15:28:03.174 12447 Level-0 table #50: started
+2018/10/18-15:28:03.219 12447 Level-0 table #50: 1695099 bytes OK
+2018/10/18-15:28:03.224 12447 Delete type=0 #44
+2018/10/18-15:28:06.383 12447 Level-0 table #52: started
+2018/10/18-15:28:06.427 12447 Level-0 table #52: 1673724 bytes OK
+2018/10/18-15:28:06.433 12447 Delete type=0 #49

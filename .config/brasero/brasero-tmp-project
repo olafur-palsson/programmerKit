@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<braseroproject>
+	<version>0.2</version>
+	<label>Data disc (16 sep 18)</label>
+	<track>
+		<data>
+			<graft>
+				<path>/Football.Manager.2018.v18.3.3.rar</path>
+				<uri>file%3A%2F%2F%2Fhome%2Fbitchhunter3000%2FFootball.Manager.2018.v18.3.3.rar</uri>
+			</graft>
+			<excluded>file%3A%2F%2F%2Fhome%2Fbitchhunter3000%2FFootball.Manager.2018.v18.3.3.rar</excluded>
+		</data>
+	</track>
+</braseroproject>

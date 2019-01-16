@@ -1,0 +1,7 @@
+[Defaults]
+Profile=Default
+
+[PROFILE_Default]
+EmailAddress=bear@bear.com
+FullName=pimp-of-pimps
+ServerType=

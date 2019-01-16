@@ -1,0 +1,12 @@
+2019/01/15-12:46:16.652 1716 Reusing MANIFEST /home/bitchhunter3000/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2019/01/15-12:46:16.653 1716 Recovering log #1692
+2019/01/15-12:46:16.666 1716 Reusing old log /home/bitchhunter3000/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/001692.log 
+2019/01/15-13:09:49.392 4424 Level-0 table #1699: started
+2019/01/15-13:09:49.476 4424 Level-0 table #1699: 2026565 bytes OK
+2019/01/15-13:09:49.483 4424 Delete type=0 #1692
+2019/01/15-13:27:28.271 4424 Compacting 1@1 + 1@2 files
+2019/01/15-13:27:28.407 4424 Generated table #1700@1: 159 keys, 1110826 bytes
+2019/01/15-13:27:28.408 4424 Compacted 1@1 + 1@2 files => 1110826 bytes
+2019/01/15-13:27:28.410 4424 compacted to: files[ 0 0 1 0 0 0 0 ]
+2019/01/15-13:27:28.412 4424 Delete type=2 #1699
+2019/01/15-13:27:28.412 4424 Delete type=2 #1696

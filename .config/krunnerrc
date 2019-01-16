@@ -1,0 +1,5 @@
+[General]
+history=echo ""; update,tmux,kons
+
+[PlasmaRunnerManager]
+LaunchCounts=

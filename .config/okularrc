@@ -1,0 +1,33 @@
+[Desktop Entry]
+FullScreen=true
+shouldShowMenuBarComingFromFullScreen=false
+shouldShowToolBarComingFromFullScreen=false
+
+[MainWindow]
+Height 1080=1080
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQ4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1920
+
+[Recent Files]
+File1[$e]=$HOME/Temporary/Assignment3 UML -- outdated.pdf
+File10[$e]=$HOME/Temporary/hd1.pdf
+File2[$e]=$HOME/Temporary/Assignment3 sequecy.pdf
+File3[$e]=$HOME/Downloads/TÖL304G_H16(2).pdf
+File4[$e]=$HOME/Downloads/hd7_dcrespo.pdf
+File5[$e]=$HOME/Downloads/087262_v08.pdf
+File6[$e]=$HOME/Downloads/TÖL301G_H16.pdf
+File7[$e]=$HOME/Temporary/number1(2).pdf
+File8[$e]=$HOME/Temporary/TÖL301G_H16.pdf
+File9[$e]=$HOME/Temporary/TÖL304G_h15.pdf
+Name1[$e]=Assignment3 UML -- outdated.pdf
+Name10[$e]=hd1.pdf
+Name2[$e]=Assignment3 sequecy.pdf
+Name3[$e]=TÖL304G_H16(2).pdf
+Name4[$e]=hd7_dcrespo.pdf
+Name5[$e]=087262_v08.pdf
+Name6[$e]=TÖL301G_H16.pdf
+Name7[$e]=number1(2).pdf
+Name8[$e]=TÖL301G_H16.pdf
+Name9[$e]=TÖL304G_h15.pdf

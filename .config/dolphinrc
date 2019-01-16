@@ -1,0 +1,40 @@
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+Version=200
+ViewPropsTimestamp=2018,3,8,12,9,32
+
+[IconsMode]
+FontWeight=50
+
+[KPropertiesDialog]
+Height 1080=514
+Width 1920=465
+
+[MainWindow]
+Height 1080=1051
+Height 768=480
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAAD9fwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAAD9QAAAFoBAAADAAAAAQAAALAAAAP1/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAACYAAAP1AAABCwEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAACUgAAA/UAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1024=989
+Width 1920=956
+
+[Open-with settings]
+CompletionMode=5
+History=wine,virtual,kate,kate -b %U
+
+[PreviewSettings]
+Plugins=directorythumbnail,imagethumbnail,jpegthumbnail
+
+[Search]
+ShowFacetsWidget=true
+What=Content
+
+[SettingsDialog]
+Height 1080=492
+Width 1920=520

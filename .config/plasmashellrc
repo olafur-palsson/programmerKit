@@ -1,0 +1,77 @@
+[Containments][1][General]
+ToolBoxButtonState=bottom
+ToolBoxButtonX=30
+ToolBoxButtonY=1055
+positions=9,17,desktop:/trash.desktop,8,8,desktop:/Home.desktop,8,7
+pressToMoveHelp=false
+sortMode=-1
+
+[Containments][36][General]
+AppletOrder=25
+
+[Containments][47][General]
+AppletOrder=39;50;51;48
+
+[Containments][60][General]
+url=file:///home/pimp-of-pimps/projects
+
+[KFileDialog Settings]
+Recent Files[$e]=blablabla.jpg,file:$HOME/Downloads/760678-Linus-Torvalds-Quote-Avoiding-complexity-reduces-bugs.jpg,file:$HOME/Downloads/dual_monitor_screen_multi_multiple_nature_mountain_montagne_3840x1080.jpg,file:$HOME/Downloads/876898.jpg,file:$HOME/Downloads/41919770_476290749552056_1166636013787807744_n.jpg,file:$HOME/Downloads/531132-calm-wallpaper-2560x1600-for-ipad-pro.jpg,file:$HOME/Desktop/yfduWvD2.png,file:$HOME/Desktop/space-wallpapers-for-mac-5.jpg,file:$HOME/blablabla.jpg
+Recent URLs[$e]=file:$HOME/Downloads/
+
+[KPropertiesDialog]
+Height 1080=465
+Width 1920=465
+
+[PlasmaRunnerManager]
+LaunchCounts=2 services_org.kde.dolphin.desktop,5 services_chromium-browser.desktop,8 services_kcm_keyboard.desktop,3 services_firefox.desktop,2 services_texmaker.desktop,1 services_componentchooser.desktop,15 services_org.kde.konsole.desktop,2 baloosearch_/home/pimp-of-pimps/MEGA,6 services_systemsettings.desktop,2 services_spotify.desktop,4 services_megasync.desktop,2 services_kcm_desktoptheme.desktop,2 services_org.kde.plasma.lookandfeelexplorer.desktop,1 services_powerdevilactivitiesconfig.desktop,1 services_user_manager.desktop,1 services_messengerfordesktop.desktop,3 services_fluxgui.desktop,1 baloosearch_/home/pimp-of-pimps/anaconda3/lib/tk8.6/images/logo.eps,5 desktopsessions_3,2 desktopsessions_1,1 services_spotify_spotify.desktop,2 services_org.kde.plasma.themeexplorer.desktop,1 services_khotkeys.desktop,1 services_kcmsmserver.desktop,2 services_org.kde.discover.desktop
+pluginWhiteList=services,desktopsessions,PowerDevil
+
+[PlasmaTransientsConfig]
+PreloadWeight=42
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 2][Vertical1080]
+maxLength=603
+minLength=603
+thickness=60
+
+[PlasmaViews][Panel 31]
+alignment=1
+panelVisibility=1
+
+[PlasmaViews][Panel 31][Horizontal1920]
+maxLength=708
+minLength=358
+offset=4
+thickness=60
+
+[PlasmaViews][Panel 36]
+alignment=2
+panelVisibility=2
+
+[PlasmaViews][Panel 36][Horizontal1920]
+maxLength=336
+minLength=336
+thickness=100
+
+[PlasmaViews][Panel 36][Vertical1080]
+minLength=252
+thickness=30
+
+[PlasmaViews][Panel 47]
+panelVisibility=1
+
+[PlasmaViews][Panel 47][Horizontal1920]
+maxLength=885
+minLength=884
+offset=522
+thickness=56
+
+[ScreenConnectors]
+0=eDP-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

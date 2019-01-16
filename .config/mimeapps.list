@@ -1,0 +1,21 @@
+[Added Associations]
+application/xml=org.kde.kate.desktop;chromium-browser.desktop;firefox.desktop;org.kde.kwrite.desktop;libreoffice-writer.desktop;okularApplication_txt.desktop;vim.desktop;nvim.desktop;atom.desktop;
+audio/mpeg=vlc.desktop;audacity.desktop;
+image/jpeg=pinta.desktop;org.kde.gwenview.desktop;wine-extension-jpe.desktop;firefox.desktop;okularApplication_kimgio.desktop;shutter.desktop;gimp.desktop;wine-extension-jfif.desktop;
+inode/directory=org.kde.dolphin.desktop;org.kde.konsole.desktop;org.kde.gwenview.desktop;
+text/markdown=firefox.desktop;
+text/plain=firefox.desktop;
+application/pdf=okularApplication_pdf.desktop;
+text/x-python=org.kde.kwrite.desktop;
+text/x-haskell=org.kde.kwrite.desktop;
+
+[Default Applications]
+application/xml=org.kde.kate.desktop;
+audio/mpeg=vlc.desktop;
+image/jpeg=pinta.desktop;
+inode/directory=org.kde.dolphin.desktop;
+text/html=chromium-browser.desktop
+text/markdown=firefox.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/slack=slack_slack.desktop

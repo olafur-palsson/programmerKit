@@ -1,0 +1,28 @@
+{
+   "browser_action": {
+      "default_icon": {
+         "19": "data/images/icon-19.png",
+         "38": "data/images/icon-38.png"
+      },
+      "default_popup": "data/template/popup.html?chrome"
+   },
+   "content_scripts": [ {
+      "css": [ "data/style/content.css" ],
+      "js": [ "data/script/jquery.js", "data/script/emoji.min.js", "chrome/content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "description": "Display emojis in Chrome",
+   "icons": {
+      "128": "data/images/icon-128.png",
+      "16": "data/images/icon-16.png",
+      "48": "data/images/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0DmSJfcpQg6AoGqnYKm6F2iyDrDdgR+UZV2W/ODnoXhTjyo0/OKIl3foPqjNWajJM/JPlLnX0QSUPMwMs3HrzULPqbn62mCnNtre9c1ZoSSvxWK9GCgpg9TTmARbr/AKtNlYperL6QdNDRWX1F6ZpXxtDS4wJhxl4n7EJMzEIMbnaYBmN2P56IEj1wNTrFuXQIgpXxCeQAv2hw9beL3wfbVfwyJ7NcmeBXLiAvJ2VcwnjuSnGQ8TywUdF8PHoe3EP8ZoAmVSyT4KTv0SIo9EkOqXhsVMnq0jchqVQknmYHYsCbePRd3AlDPAcRGKqJ9BSo4/SCdXB+YrfeqdQJOBgwIDAQAB",
+   "manifest_version": 2,
+   "name": "Chromoji - Emojis for Google Chrome",
+   "options_page": "chrome/options.html",
+   "permissions": [ "storage", "activeTab", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.19",
+   "web_accessible_resources": [ "data/images/*" ]
+}

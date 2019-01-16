@@ -1,0 +1,146 @@
+{
+   "about_add_new_rule": {
+      "message": "Přidat nové pravidlo"
+   },
+   "about_ext_description": {
+      "message": "Zašifrujte Web! Automaticky používejte HTTPS zabezpečení na mnoha stránkách."
+   },
+   "about_ext_name": {
+      "message": "HTTPS Everywhere"
+   },
+   "about_rulesets_version": {
+      "message": "Verze sady pravidel pro"
+   },
+   "about_title": {
+      "message": "O aplikaci HTTPS Everywhere"
+   },
+   "about_version": {
+      "message": "Verze"
+   },
+   "cancel_he_blocking_explainer": {
+      "message": "HTTPS Everywhere si všimlo přechodu na stránku bez HTTPS a pokusilo se zaslat namísto toho HTTPS verzi. Verze s HTTPS je nedostupná. Tato stránka pravděpodobně nepodporuje HTTPS nebo je také možné, že útočník blokuje HTTPS verzi. Pokud chcete vidět nezašifrovanou verzi této stránky, můžete toho docílit deaktivováním možnosti &quot;Zablokovat všechny nešifrované požadavky&quot; ve vašem rozšíření HTTPS Everywhere. Prosím mějte na paměti, že deaktivováním této možnosti bude Váš prohlížeč zranitelný vůči síťovým degradačním útokům na stránkách, které navštívíte."
+   },
+   "cancel_he_blocking_network": {
+      "message": "síťový degradační útok"
+   },
+   "chrome_add_new_rule": {
+      "message": "Přidat nové pravidlo pro tuto stránku"
+   },
+   "chrome_add_rule": {
+      "message": "Přidat pravidlo pro tuto stránku"
+   },
+   "chrome_always_https_for_host": {
+      "message": "Vždy používat https pro tohoto hostitele"
+   },
+   "chrome_disable_on_this_site": {
+      "message": "Disable HTTPS Everywhere on this site"
+   },
+   "chrome_enable_on_this_site": {
+      "message": "Enable HTTPS Everywhere on this site"
+   },
+   "chrome_experimental_rules": {
+      "message": "Experimentální pravidla"
+   },
+   "chrome_experimental_rules_description": {
+      "message": "Může způsobit upozornění nebo chyby. Zakázáno ve výchozím nastavení."
+   },
+   "chrome_hide_advanced": {
+      "message": "Skrýt pokročilé"
+   },
+   "chrome_host": {
+      "message": "Hostitel:"
+   },
+   "chrome_redirect_to": {
+      "message": "Přesměrovat na"
+   },
+   "chrome_regex": {
+      "message": "Vyhovující regulární výrazy"
+   },
+   "chrome_rule_name": {
+      "message": "Jméno pravidla"
+   },
+   "chrome_show_advanced": {
+      "message": "Zobrazit pokročilé"
+   },
+   "chrome_stable_rules": {
+      "message": "Stabilní pravidla"
+   },
+   "chrome_stable_rules_description": {
+      "message": "Vynutit šifrovaná spojení pro tyto stránky:"
+   },
+   "chrome_status_cancel_button": {
+      "message": "Zrušit"
+   },
+   "menu_blockUnencryptedRequests": {
+      "message": "Zablokovat všechny nešifrované požadavky"
+   },
+   "menu_donate_eff_imperative": {
+      "message": "Přispět na EFF"
+   },
+   "menu_globalEnable": {
+      "message": "Zapnout HTTPS Everywhere"
+   },
+   "menu_observatory": {
+      "message": "Nastavení SSL Observatoře"
+   },
+   "menu_showCounter": {
+      "message": "Zobrazit počítadlo"
+   },
+   "menu_viewAllRules": {
+      "message": "Zobrazit všechna pravidla"
+   },
+   "options_addUpdateChannel": {
+      "message": "Add Update Channel"
+   },
+   "options_advancedSettings": {
+      "message": "Rozšířené nastavení"
+   },
+   "options_autoUpdateRulesets": {
+      "message": "Automaticky aktualizovat sady pravidel"
+   },
+   "options_delete": {
+      "message": "Delete"
+   },
+   "options_disabledUrlsListed": {
+      "message": "HTTPS Everywhere Sites Disabled"
+   },
+   "options_enableMixedRulesets": {
+      "message": "Povolit sady pravidel pro smíšený obsah"
+   },
+   "options_enterUpdateChannelName": {
+      "message": "Enter update channel name"
+   },
+   "options_generalSettings": {
+      "message": "Hlavní nastavení"
+   },
+   "options_showDevtoolsTab": {
+      "message": "Zobrazit záložku Vývojář"
+   },
+   "options_storedRulesetsVersion": {
+      "message": "Stored rulesets version: "
+   },
+   "options_update": {
+      "message": "Update"
+   },
+   "options_updateChannels": {
+      "message": "Update Channels"
+   },
+   "options_updateChannelsWarning": {
+      "message": "Warning: Adding update channels can cause attackers to hijack your browser. Only edit this section if you know what you're doing!"
+   },
+   "options_updatesLastChecked": {
+      "message": "Updates last checked: "
+   },
+   "options_updatesLastCheckedNever": {
+      "message": "never"
+   },
+   "prefs_export_settings": {
+      "message": "Exportovat nastavení"
+   },
+   "prefs_reset_defaults": {
+      "message": "Vrátit výchozí nastavení"
+   },
+   "prefs_reset_defaults_message": {
+      "message": "Toto obnoví každou sadu pravidel do jejího výchozího stavu. Pokračovat?"
+   }
+}
