@@ -172,15 +172,15 @@ alias atom='taskset --cpu-list 1,2,3 atom'
 
 backupAtom() {
 # Backup atom package list
-	touch ~/.atom/packages.list
-	apm list --installed --bare > ~/.atom/packages.list
+	touch ~/projects/programmerkit/.atom.packages.list
+	apm list --installed --bare > ~/projects/programmerkit/.atom.packages.list
 	echo "Done"
 }
 
 setupAtom() {
 # Install atom package list
 	sudo apt-get install atom
-	apm install --packages-file .atom/packages.list
+	apm install --packages-file ~/projects/programmerkit/.atom.packages.list
 	echo "Done"
 }
 

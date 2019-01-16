@@ -27,6 +27,8 @@
 
      # Copies .config into homefolder, has kde settings in it
 
+  backup
+
   setupall
 
  setupAll
@@ -124,7 +126,7 @@
 
  watch_do
 
-     # Watch file $1 and on change do $2
+       # watch folder $1 for anything that matches $2 then on close_write do $3
 
      #
 
@@ -282,6 +284,12 @@
 
 
  ## Cpp helpers
+
+ autocompilecpp
+
+       # watch folder $1 for anything that matches $2 then on close_write do $3
+
+     #
 
  newcpp
 

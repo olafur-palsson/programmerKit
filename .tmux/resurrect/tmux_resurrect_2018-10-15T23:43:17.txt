@@ -1,6 +1,0 @@
-pane	0	0	:bash	1	:*	0	:/home/bitchhunter3000	1	bash	:
-pane	1	0	:bash	1	:*	0	:/home/bitchhunter3000/skoli/forritunarmal/morpho	1	nvim	:nvim powerlist.morpho
-pane	1	0	:bash	1	:*	1	:/home/bitchhunter3000/skoli/forritunarmal/morpho	0	bash	:
-window	0	0	1	:*	bade,237x62,0,0,1
-window	1	0	1	:*	abb8,237x62,0,0{118x62,0,0,2,118x62,119,0,3}
-state	1	0
