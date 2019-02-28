@@ -1,5 +1,5 @@
 [FlatpakSources]
-Sources=\\0
+Sources=flathub
 
 [Window]
 geometry=4,29,1796,1011

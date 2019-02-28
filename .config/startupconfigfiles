@@ -46,6 +46,18 @@ ksplashrc KSplash Engine KSplashQML
 !/usr/share/config/ksplashrc
 !/var/lib/snapd/desktop/config/ksplashrc
 *
+kdeglobals KScreen ScaleFactor ''
+/home/bitchhunter3000/.config/kdeglobals
+!/etc/xdg/xdg-/usr/share/xsessions/plasma/kdeglobals
+!/etc/xdg/kdeglobals
+!/home/bitchhunter3000/.local/share/config/kdeglobals
+!/usr/share/usr/share/xsessions/plasma/config/kdeglobals
+!/home/bitchhunter3000/.local/share/flatpak/exports/share/config/kdeglobals
+!/var/lib/flatpak/exports/share/config/kdeglobals
+!/usr/local/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+!/var/lib/snapd/desktop/config/kdeglobals
+*
 kdeglobals KScreen ScreenScaleFactors ''
 /home/bitchhunter3000/.config/kdeglobals
 !/etc/xdg/xdg-/usr/share/xsessions/plasma/kdeglobals

@@ -1,69 +1,69 @@
 updateInfoAdded=true
 
 [disable_kmix.upd]
-ctime=1542236123
+ctime=1550936577
 done=PlasmaVolume_DisableKMixAutostart
-mtime=1541512842
+mtime=1550574103
 
 [filepicker.upd]
-ctime=1542236051
+ctime=1550234738
 done=filepicker-remove-old-previews-entry
-mtime=1541268128
+mtime=1549151919
 
 [fonts_akregator.upd]
-ctime=1542236084
+ctime=1550936561
 done=Plasma_Fonts_Akregator
-mtime=1541512756
+mtime=1550574020
 
 [fonts_global.upd]
-ctime=1542236084
+ctime=1550936561
 done=Fonts_Global
-mtime=1541512756
+mtime=1550574020
 
 [fonts_global_toolbar.upd]
-ctime=1542236084
+ctime=1550936561
 done=Fonts_Global_Toolbar
-mtime=1541512756
+mtime=1550574020
 
 [fonts_kate.upd]
-ctime=1542236084
+ctime=1550936561
 done=Plasma_Fonts_Kate
-mtime=1541512756
+mtime=1550574020
 
 [gtkbreeze5.5.upd]
-ctime=1542236099
+ctime=1550936664
 done=GTKBreeze5.5
-mtime=1541507520
+mtime=1550572906
 
 [gwenview.upd]
-ctime=1542236100
+ctime=1549821088
 done=SideBar_StatusBar_Rename,ImageView_AlphaBackgroundMode_Update
-mtime=1541171435
+mtime=1549169284
 
 [kde4breeze.upd]
-ctime=1542236079
+ctime=1550936551
 done=5.0KDE4Breeze_2
-mtime=1541507166
+mtime=1550572817
 
 [krdb_libpathwipe.upd]
-ctime=1542236063
+ctime=1550936568
 done=LibraryPathWipeOut
-mtime=1541512673
+mtime=1550573936
 
 [krunnerplugins.upd]
-ctime=1542236061
+ctime=1550936565
 done=5.9KRunnerPlugins
-mtime=1541513024
+mtime=1550574259
 
 [kscreenlocker.upd]
-ctime=1542236058
+ctime=1550936556
 done=0.1-autolock
-mtime=1541508269
+mtime=1550573451
 
 [kwin.upd]
-ctime=1542236076
-done=replace-scalein-with-scale
-mtime=1541512303
+ctime=1550936560
+done=replace-scalein-with-scale,port-minimizeanimation-effect-to-js,port-scale-effect-to-js,port-dimscreen-effect-to-js
+mtime=1550573614
 
 [messageviewer.upd]
 ctime=1525284993
@@ -71,5 +71,5 @@ done=messageviewer_move_gravatar
 mtime=1523361062
 
 [okular.upd]
-ctime=1542236111
-mtime=1541171468
+ctime=1549821107
+mtime=1549169322

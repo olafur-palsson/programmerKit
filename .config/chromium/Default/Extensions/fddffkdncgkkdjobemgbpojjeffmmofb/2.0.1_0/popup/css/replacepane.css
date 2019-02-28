@@ -1,0 +1,53 @@
+/* Replace Pane Body */
+div#replace-body-container {
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div#replace-field-container,
+div#replace-controls-container {
+    display: inline-flex;
+    align-items: center;
+}
+
+div#replace-field-container {
+    width: 100%;
+    padding-right: 5px;
+}
+
+div#replace-controls-container {
+    padding-left: 5px;
+}
+
+input.field#replace-field {
+    flex: auto;
+}
+
+/* Replace Control Buttons */
+button.replace-button {
+    background: transparent no-repeat center;
+    border-width: 0;
+    border-radius: 2px;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+button.replace-button:focus {
+    outline: none;
+}
+
+button.replace-button:hover {
+    background-color: #ffffff;
+}
+
+button.replace-button:active {
+    border-radius: 30px;
+    background-color: #ffffff;
+}
+
+button.replace-button:disabled {
+    background-color: transparent;
+    opacity: 0.2;
+}

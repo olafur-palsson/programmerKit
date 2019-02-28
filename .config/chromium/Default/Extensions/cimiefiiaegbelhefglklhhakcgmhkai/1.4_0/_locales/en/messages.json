@@ -1,0 +1,117 @@
+{
+   "general_error_port_disconnect": {
+      "description": "When the binary bridge between browser and Plasma quit (usually it crashed or was otherwise killed), placeholder is the reason",
+      "message": "The native host disconnected unexpectedly: $1"
+   },
+   "general_error_port_startupfail": {
+      "description": "When the binary bridge between browser and Plasma failed to start (e.g. not installed)",
+      "message": "Failed to connect to the native host. Make sure the 'plasma-browser-integration' package is installed."
+   },
+   "general_error_title": {
+      "description": "Title message for most error notifications",
+      "message": "Plasma Browser Integration Error"
+   },
+   "general_error_unknown": {
+      "description": "An unknown error occurred, usually used when an error message by the system is not provided",
+      "message": "Unknown Error"
+   },
+   "kdeconnect_open_device": {
+      "description": "Context menu, open link on device $1, similar to 'Open in New Tab'",
+      "message": "Open on '$1'"
+   },
+   "kdeconnect_open_via": {
+      "description": "Context menu, open link on device whose name we don't (yet) know",
+      "message": "Open via KDE Connect"
+   },
+   "options_about_bugs": {
+      "message": "If you find an issue, please check the \u003Ca href=\"$1\">list of open bugs\u003C/a> and then \u003Ca href=\"$2\">file a bug report\u003C/a>."
+   },
+   "options_about_copyright": {
+      "message": "© 2017, 2018 Kai Uwe Broulik and David Edmundson"
+   },
+   "options_about_created_by_kde": {
+      "message": "This browser extension was created by the \u003Ca href=\"$1\">KDE Community\u003C/a>. You can find more information about this project on the \u003Ca href=\"$2\">KDE Community Wiki\u003C/a>."
+   },
+   "options_about_donate": {
+      "message": "If you like what you saw, please consider \u003Ca href=\"$1\">donating to KDE\u003C/a>, so we can continue to make the best free software possible."
+   },
+   "options_about_kde": {
+      "description": "KDE description taken from kaboutkdedialog_p.h in kmxlgui",
+      "message": "KDE is a world-wide community of software engineers, artists, writers, translators and creators who are committed to \u003Ca href=\"$1\">Free Software\u003C/a> development. KDE produces the Plasma desktop environment, hundreds of applications, and the many software libraries that support them. KDE is a cooperative enterprise: no single entity controls its direction or products. Instead, we work together to achieve the common goal of building the world's finest Free Software. Everyone is welcome to \u003Ca href=\"$2\">join and contribute\u003C/a> to KDE, including you. Visit \u003Ca href=\"$3\">$3\u003C/a> for more information about the KDE community and the software we produce."
+   },
+   "options_about_license": {
+      "message": "License: \u003Ca href=\"$1\">GNU General Public License Version 3\u003C/a>"
+   },
+   "options_about_translated_by": {
+      "message": "Translated by: $1"
+   },
+   "options_about_translators": {
+      "description": "Name of translators",
+      "message": "Your names"
+   },
+   "options_not_supported_os": {
+      "message": "This extension is not supported on this operating system."
+   },
+   "options_plugin_breezeScrollBars_description": {
+      "description": "Description for Breeze style scroll bars plugin",
+      "message": "This may interfere with the appearance of websites that already apply a custom styling to their scroll bars."
+   },
+   "options_plugin_breezeScrollBars_title": {
+      "description": "Title for Breeze style scroll bars plugin",
+      "message": "Use Breeze-style scroll bars"
+   },
+   "options_plugin_downloads_title": {
+      "description": "Title for Downloads plugin",
+      "message": "Show downloads in notification area"
+   },
+   "options_plugin_kdeconnect_description": {
+      "description": "Description for KDE Connect plugin",
+      "message": "Adds a context menu entry to links enabling you to send them to your phone and other paired devices using \u003Ca href=\"$1\">KDE Connect\u003C/a>."
+   },
+   "options_plugin_kdeconnect_title": {
+      "description": "Title for KDE Connect plugin",
+      "message": "Send via KDE Connect"
+   },
+   "options_plugin_mpris_description": {
+      "description": "Description for Media Controls plugin",
+      "message": "Lets you control video and audio players in websites using the Media Controller plasmoid."
+   },
+   "options_plugin_mpris_media_sessions_description": {
+      "description": "Description for MediaSessions API Control plugin",
+      "message": "Extract metadata and thumbnails of currently playing content. (Experimental)"
+   },
+   "options_plugin_mpris_media_sessions_title": {
+      "description": "Title for MediaSessions API Control plugin",
+      "message": "Enhanced Media Controls"
+   },
+   "options_plugin_mpris_title": {
+      "description": "Title for Media Controls plugin",
+      "message": "Media Controls"
+   },
+   "options_plugin_tabsrunner_description": {
+      "description": "Description for Browser Tabs KRunner plugin",
+      "message": "Make sure the “Browser Tabs” module is enabled in \u003Ca id=\"$1\" href=\"$2\">Plasma Search settings\u003C/a>."
+   },
+   "options_plugin_tabsrunner_title": {
+      "description": "Title for Browser Tabs KRunner plugin",
+      "message": "Find browser tabs in “Run Command” window"
+   },
+   "options_save_failed": {
+      "message": "Saving settings failed"
+   },
+   "options_save_success": {
+      "message": "Settings successfully saved"
+   },
+   "options_tab_about": {
+      "description": "The 'About this plugin' tab in settings",
+      "message": "About"
+   },
+   "options_tab_general": {
+      "description": "The 'General settings' tab in settings",
+      "message": "General"
+   },
+   "options_title": {
+      "description": "Title for settings page",
+      "message": "Plasma Integration Settings"
+   }
+}

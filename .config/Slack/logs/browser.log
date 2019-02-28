@@ -67786,3 +67786,1234 @@
 [11/30/18, 00:49:44:009] info: WindowCloseBehavior: Attempted to close the window, hiding due to run from tray
 [11/30/18, 00:49:44:035] info: Store: SET_FULL_SCREEN
 [11/30/18, 01:28:20:345] info: Store: SET_SUSPEND_STATUS
+[01/31/19, 15:07:13:548] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[01/31/19, 15:07:13:549] info: ║      Slack 3.3.7, linux 4.15.0-39-generic on x64 at 01/31/19, 15:07:13:545      ║
+[01/31/19, 15:07:13:549] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[01/31/19, 15:07:14:167] info: Initializing local storage instance at path: /home/bitchhunter3000/.config/Slack/local-settings.json
+[01/31/19, 15:07:14:817] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/bitchhunter3000/.config/Slack/logs/recorded-trace
+[01/31/19, 15:07:14:823] info: Copying current Cookies into StaleCookies
+[01/31/19, 15:07:14:831] info: Configuring uncaughtExceptionHandler
+[01/31/19, 15:07:14:831] info: Configuring unhandledRejectionHandler
+[01/31/19, 15:07:14:831] info: Registered with apiKey acaff8df67924f677747922423057034
+[01/31/19, 15:07:15:813] info: BrowserStore: Keychain access previously denied, don't ask again
+[01/31/19, 15:07:15:832] info: Store: persist/REHYDRATE
+{
+  "appTeams": {
+    "selectedTeamId": "TDDMQEX8R",
+    "teamsByIndex": [
+      "T9C6NUMBJ",
+      "T8U7NRKQU",
+      "TCNRBMGLX",
+      "TDDMQEX8R"
+    ],
+    "teamsToSignOut": []
+  },
+  "enterprise": {
+    "T9C6NUMBJ": null,
+    "T8U7NRKQU": null,
+    "TCNRBMGLX": null,
+    "TDDMQEX8R": null
+  },
+  "settings": {
+    "appVersion": "3.3.3",
+    "versionName": "Dirty Computer",
+    "platform": "linux",
+    "platformVersion": {
+      "major": 4,
+      "minor": 15,
+      "build": 0
+    },
+    "isWin10": false,
+    "isBeforeWin10": false,
+    "resourcePath": "/snap/slack/9/usr/lib/slack/resources/app.asar",
+    "webappSrcPath": null,
+    "webappParams": null,
+    "isDevMode": false,
+    "devEnv": null,
+    "logFile": null,
+    "rxLogging": false,
+    "openDevToolsOnStart": false,
+    "pretendNotReallyWindows10": false,
+    "releaseChannel": "prod",
+    "autoHideMenuBar": false,
+    "defaultSigninTeam": null,
+    "isTitleBarHidden": false,
+    "hasRunApp": true,
+    "hasRunFromTray": true,
+    "reportIssueOnStartup": false,
+    "isSignedIntoSlackOrg": false,
+    "isGpuCompositionAvailable": true,
+    "runFromTray": true,
+    "launchOnStartup": false,
+    "spellcheckerLanguage": null,
+    "zoomLevel": 0,
+    "workspaceIdleTimeout": 21600000,
+    "whitelistedUrlSchemes": [
+      "http:",
+      "https:",
+      "mailto:",
+      "skype:",
+      "spotify:",
+      "live:",
+      "callto:",
+      "tel:",
+      "im:",
+      "sip:",
+      "sips:",
+      "slack:"
+    ],
+    "isTitleBarForcedByUser": false,
+    "useHwAcceleration": true,
+    "isOpenExternalShellForced": true,
+    "PrefSSBFileDownloadPath": "/home/bitchhunter3000/Temporary",
+    "notificationMethod": null,
+    "notificationPlayback": null,
+    "notificationFailover": 0,
+    "notificationFailoverEnabled": true,
+    "notificationClickThrough": false,
+    "notificationClickThroughMain": true,
+    "notificationTimeout": 6000,
+    "notificationAfterHoverTimeout": 2000,
+    "notificationMaxItems": 3,
+    "notificationZoomLevel": null,
+    "notificationStyle": null,
+    "notificationPresentationCheck": null,
+    "notifyPosition": {
+      "corner": "bottom_right",
+      "display": "same_as_app"
+    },
+    "locale": "en-US",
+    "spellCheckerVersion": "V2",
+    "os": false,
+    "release": false,
+    "desktopEnvironment": false,
+    "isAeroGlassEnabled": false,
+    "linux": {
+      "os": "KDE neon User Edition 5.14",
+      "release": "bionic",
+      "desktopEnvironment": "KDE"
+    },
+    "sandboxSigninWindow": true
+  },
+  "windowFrame": {
+    "windowSettings": {
+      "size": [
+        1152,
+        864
+      ],
+      "position": [
+        431,
+        212
+      ],
+      "isMaximized": false
+    },
+    "isFullScreen": false
+  }
+}
+[01/31/19, 15:07:16:542] info: initializeMainWindowEpic: Waiting for selected team to load
+{
+  "selectedTeamId": "TDDMQEX8R"
+}
+[01/31/19, 15:07:16:543] info: Store: UPDATE_SETTINGS
+{
+  "isSignedIntoSlackOrg": false
+}
+[01/31/19, 15:07:16:546] info: UpdaterEpics: Updates disabled because
+{
+  "reasons": [
+    "using Linux"
+  ]
+}
+[01/31/19, 15:07:16:547] info: Read UUID from file successful
+{
+  "uuid": "d13e65e7-719b-4992-b230-078f2b73ea61"
+}
+[01/31/19, 15:07:17:139] info: Store: INITIALIZE_SETTINGS
+{
+  "releaseChannel": "prod",
+  "platformVersion": {
+    "major": 4,
+    "minor": 15,
+    "build": 0
+  },
+  "isTitleBarHidden": false,
+  "isDevMode": false,
+  "appVersion": "3.3.7",
+  "versionName": "Alaska",
+  "devEnv": null,
+  "resourcePath": "/snap/slack/11/usr/lib/slack/resources/app.asar",
+  "webappSrcPath": null,
+  "webappParams": null,
+  "launchOnStartup": false,
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "isAeroGlassEnabled": false,
+  "isGpuCompositionAvailable": true,
+  "linux": {
+    "os": "KDE neon User Edition 5.14",
+    "release": "bionic",
+    "desktopEnvironment": "KDE"
+  }
+}
+[01/31/19, 15:07:17:142] info: AutoLoginEpic: Checking for autologin.
+[01/31/19, 15:07:17:154] info: WebContentsMediator: Attaching to new webContents
+[01/31/19, 15:07:17:156] info: Store: ADD_WINDOW
+{
+  "id": 2,
+  "type": "main"
+}
+[01/31/19, 15:07:17:159] info: BrowserViewManager: Starting initialization
+[01/31/19, 15:07:17:159] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "TDDMQEX8R"
+}
+[01/31/19, 15:07:17:159] info: BrowserViewManager: Creating BrowserView
+{
+  "teamId": "TDDMQEX8R"
+}
+[01/31/19, 15:07:17:162] info: WebContentsMediator: Attaching to new webContents
+[01/31/19, 15:07:17:163] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "teamId": "TDDMQEX8R",
+  "state": "unloaded"
+}
+[01/31/19, 15:07:17:168] info: Background Clients Update: 
++-----------+-------+------------+
+|           | Full  | Background |
+|-----------+-------+------------+
+| T9C6NUMBJ |       |            |
+|-----------+-------+------------+
+| T8U7NRKQU |       |            |
+|-----------+-------+------------+
+| TCNRBMGLX |       |            |
+|-----------+-------+------------+
+| TDDMQEX8R | start |            |
++-----------+-------+------------+
+[01/31/19, 15:07:17:178] info: Don't start background client because T9C6NUMBJ is missing token
+[01/31/19, 15:07:17:178] info: Don't start background client because T8U7NRKQU is missing token
+[01/31/19, 15:07:17:178] info: Don't start background client because TCNRBMGLX is missing token
+[01/31/19, 15:07:17:178] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "T9C6NUMBJ"
+}
+[01/31/19, 15:07:17:179] info: BrowserViewManager: Creating BrowserView
+{
+  "teamId": "T9C6NUMBJ"
+}
+[01/31/19, 15:07:17:187] info: WebContentsMediator: Attaching to new webContents
+[01/31/19, 15:07:17:188] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "teamId": "T9C6NUMBJ",
+  "state": "unloaded"
+}
+[01/31/19, 15:07:17:190] info: Background Clients Update: 
++-----------+-------+------------+
+|           | Full  | Background |
+|-----------+-------+------------+
+| T9C6NUMBJ | start |            |
+|-----------+-------+------------+
+| T8U7NRKQU |       |            |
+|-----------+-------+------------+
+| TCNRBMGLX |       |            |
+|-----------+-------+------------+
+| TDDMQEX8R | start |            |
++-----------+-------+------------+
+[01/31/19, 15:07:17:195] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "T8U7NRKQU"
+}
+[01/31/19, 15:07:17:195] info: BrowserViewManager: Creating BrowserView
+{
+  "teamId": "T8U7NRKQU"
+}
+[01/31/19, 15:07:17:198] info: WebContentsMediator: Attaching to new webContents
+[01/31/19, 15:07:17:199] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "teamId": "T8U7NRKQU",
+  "state": "unloaded"
+}
+[01/31/19, 15:07:17:201] info: Background Clients Update: 
++-----------+-------+------------+
+|           | Full  | Background |
+|-----------+-------+------------+
+| T9C6NUMBJ | start |            |
+|-----------+-------+------------+
+| T8U7NRKQU | start |            |
+|-----------+-------+------------+
+| TCNRBMGLX |       |            |
+|-----------+-------+------------+
+| TDDMQEX8R | start |            |
++-----------+-------+------------+
+[01/31/19, 15:07:17:229] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "TCNRBMGLX"
+}
+[01/31/19, 15:07:17:229] info: BrowserViewManager: Creating BrowserView
+{
+  "teamId": "TCNRBMGLX"
+}
+[01/31/19, 15:07:17:231] info: WebContentsMediator: Attaching to new webContents
+[01/31/19, 15:07:17:231] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "teamId": "TCNRBMGLX",
+  "state": "unloaded"
+}
+[01/31/19, 15:07:17:233] info: Background Clients Update: 
++-----------+-------+------------+
+|           | Full  | Background |
+|-----------+-------+------------+
+| T9C6NUMBJ | start |            |
+|-----------+-------+------------+
+| T8U7NRKQU | start |            |
+|-----------+-------+------------+
+| TCNRBMGLX | start |            |
+|-----------+-------+------------+
+| TDDMQEX8R | start |            |
++-----------+-------+------------+
+[01/31/19, 15:07:17:238] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "TDDMQEX8R"
+}
+[01/31/19, 15:07:17:262] info: BrowserViewManager: Finished initialization
+[01/31/19, 15:07:17:265] info: PersistSettingsWindowBehavior: Loading windowMetrics
+{
+  "settings": {
+    "size": [
+      1152,
+      864
+    ],
+    "position": [
+      431,
+      212
+    ],
+    "isMaximized": false
+  }
+}
+[01/31/19, 15:07:17:455] info: Application: Setting main window ID
+{
+  "id": 2
+}
+[01/31/19, 15:07:17:457] info: App: Welcome to Slack 3.3.7 x64
+[01/31/19, 15:07:17:457] info: App load time: 4,472232653
+[01/31/19, 15:07:18:720] info: Team boot count
+{
+  "count": 1
+}
+[01/31/19, 15:07:18:721] info: Team boot count
+{
+  "count": 2
+}
+[01/31/19, 15:07:19:054] info: Team boot count
+{
+  "count": 3
+}
+[01/31/19, 15:07:19:318] info: Team boot count
+{
+  "count": 4
+}
+[01/31/19, 15:07:20:374] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[01/31/19, 15:07:20:480] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[01/31/19, 15:07:20:482] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "TDDMQEX8R"
+}
+[01/31/19, 15:07:20:987] info: Store: SET_NETWORK_STATUS online
+[01/31/19, 15:07:22:589] info: Team boot count
+{
+  "count": 5
+}
+[01/31/19, 15:07:29:542] info: WebContents LifeCycle: webContents:6 from 'unloaded' to 'loaded' took 12309 ms
+[01/31/19, 15:07:29:543] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "TCNRBMGLX"
+}
+[01/31/19, 15:07:29:550] info: Background Clients Update: 
++-----------+---------+------------+
+|           | Full    | Background |
+|-----------+---------+------------+
+| T9C6NUMBJ | start   |            |
+|-----------+---------+------------+
+| T8U7NRKQU | start   |            |
+|-----------+---------+------------+
+| TCNRBMGLX | loading |            |
+|-----------+---------+------------+
+| TDDMQEX8R | start   |            |
++-----------+---------+------------+
+[01/31/19, 15:07:29:738] info: WebContents LifeCycle: webContents:4 from 'unloaded' to 'loaded' took 12548 ms
+[01/31/19, 15:07:29:738] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[01/31/19, 15:07:29:749] info: Background Clients Update: 
++-----------+---------+------------+
+|           | Full    | Background |
+|-----------+---------+------------+
+| T9C6NUMBJ | loading |            |
+|-----------+---------+------------+
+| T8U7NRKQU | start   |            |
+|-----------+---------+------------+
+| TCNRBMGLX | loading |            |
+|-----------+---------+------------+
+| TDDMQEX8R | start   |            |
++-----------+---------+------------+
+[01/31/19, 15:07:29:762] info: WebContents LifeCycle: webContents:5 from 'unloaded' to 'loaded' took 12560 ms
+[01/31/19, 15:07:29:762] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[01/31/19, 15:07:29:777] info: Background Clients Update: 
++-----------+---------+------------+
+|           | Full    | Background |
+|-----------+---------+------------+
+| T9C6NUMBJ | loading |            |
+|-----------+---------+------------+
+| T8U7NRKQU | loading |            |
+|-----------+---------+------------+
+| TCNRBMGLX | loading |            |
+|-----------+---------+------------+
+| TDDMQEX8R | start   |            |
++-----------+---------+------------+
+[01/31/19, 15:07:29:851] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "TCNRBMGLX"
+}
+[01/31/19, 15:07:30:047] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "T9C6NUMBJ"
+}
+[01/31/19, 15:07:30:065] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "T8U7NRKQU"
+}
+[01/31/19, 15:07:30:334] info: WebContents LifeCycle: webContents:3 from 'unloaded' to 'loaded' took 13164 ms
+[01/31/19, 15:07:30:334] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TDDMQEX8R"
+}
+[01/31/19, 15:07:30:342] info: Background Clients Update: 
++-----------+---------+------------+
+|           | Full    | Background |
+|-----------+---------+------------+
+| T9C6NUMBJ | loading |            |
+|-----------+---------+------------+
+| T8U7NRKQU | loading |            |
+|-----------+---------+------------+
+| TCNRBMGLX | loading |            |
+|-----------+---------+------------+
+| TDDMQEX8R | loading |            |
++-----------+---------+------------+
+[01/31/19, 15:07:30:343] info: initializeMainWindowEpic: Showing main window
+{
+  "shouldMinimize": false,
+  "shouldMaximize": false,
+  "shouldHide": false
+}
+[01/31/19, 15:07:30:344] info: Store: MAIN_WINDOW_SHOWN
+[01/31/19, 15:07:30:381] info: Store: SET_FULL_SCREEN
+[01/31/19, 15:07:30:385] info: Store: SET_FULL_SCREEN
+[01/31/19, 15:07:30:388] info: Store: SET_FULL_SCREEN
+[01/31/19, 15:07:30:390] info: Store: SET_FULL_SCREEN
+[01/31/19, 15:07:30:392] info: Store: SET_FULL_SCREEN
+[01/31/19, 15:07:30:884] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "TDDMQEX8R"
+}
+[01/31/19, 15:07:31:377] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "size": [
+    1152,
+    864
+  ],
+  "position": [
+    435,
+    212
+  ],
+  "isMaximized": false
+}
+[01/31/19, 15:07:47:465] info: Removed log file /home/bitchhunter3000/.config/Slack/logs/webapp-T8U7NRKQU-console1.log
+[01/31/19, 15:07:47:466] info: Removed log file /home/bitchhunter3000/.config/Slack/logs/webapp-T9C6NUMBJ-console1.log
+[01/31/19, 15:07:47:468] info: Removed log file /home/bitchhunter3000/.config/Slack/logs/webapp-TDDMQEX8R-console1.log
+[01/31/19, 15:23:26:482] info: WindowCloseBehavior: Attempted to close the window, hiding due to run from tray
+[01/31/19, 15:23:26:492] info: Store: SET_FULL_SCREEN
+[01/31/19, 15:23:42:216] info: Store: SET_SUSPEND_STATUS
+[01/31/19, 15:23:42:714] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 12:06:30:803] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[02/02/19, 12:06:30:804] info: ║      Slack 3.3.7, linux 4.15.0-39-generic on x64 at 02/02/19, 12:06:30:800      ║
+[02/02/19, 12:06:30:804] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[02/02/19, 12:06:31:574] info: Initializing local storage instance at path: /home/bitchhunter3000/.config/Slack/local-settings.json
+[02/02/19, 12:06:32:324] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/bitchhunter3000/.config/Slack/logs/recorded-trace
+[02/02/19, 12:06:32:332] info: Configuring uncaughtExceptionHandler
+[02/02/19, 12:06:32:332] info: Configuring unhandledRejectionHandler
+[02/02/19, 12:06:32:332] info: Registered with apiKey acaff8df67924f677747922423057034
+[02/02/19, 12:06:33:347] info: BrowserStore: Keychain access previously denied, don't ask again
+[02/02/19, 12:06:33:382] info: Store: persist/REHYDRATE
+{
+  "appTeams": {
+    "selectedTeamId": "TDDMQEX8R",
+    "teamsByIndex": [
+      "T9C6NUMBJ",
+      "T8U7NRKQU",
+      "TCNRBMGLX",
+      "TDDMQEX8R"
+    ],
+    "teamsToSignOut": []
+  },
+  "enterprise": {
+    "T9C6NUMBJ": null,
+    "T8U7NRKQU": null,
+    "TCNRBMGLX": null,
+    "TDDMQEX8R": null
+  },
+  "settings": {
+    "appVersion": "3.3.7",
+    "versionName": "Alaska",
+    "platform": "linux",
+    "platformVersion": {
+      "major": 4,
+      "minor": 15,
+      "build": 0
+    },
+    "isWin10": false,
+    "isBeforeWin10": false,
+    "resourcePath": "/snap/slack/11/usr/lib/slack/resources/app.asar",
+    "webappSrcPath": null,
+    "webappParams": null,
+    "isDevMode": false,
+    "devEnv": null,
+    "logFile": null,
+    "rxLogging": false,
+    "openDevToolsOnStart": false,
+    "pretendNotReallyWindows10": false,
+    "releaseChannel": "prod",
+    "autoHideMenuBar": false,
+    "defaultSigninTeam": null,
+    "isTitleBarHidden": false,
+    "hasRunApp": true,
+    "hasRunFromTray": true,
+    "reportIssueOnStartup": false,
+    "isSignedIntoSlackOrg": false,
+    "isGpuCompositionAvailable": true,
+    "runFromTray": true,
+    "launchOnStartup": false,
+    "spellcheckerLanguage": null,
+    "zoomLevel": 0,
+    "workspaceIdleTimeout": 21600000,
+    "whitelistedUrlSchemes": [
+      "http:",
+      "https:",
+      "mailto:",
+      "skype:",
+      "spotify:",
+      "live:",
+      "callto:",
+      "tel:",
+      "im:",
+      "sip:",
+      "sips:",
+      "slack:"
+    ],
+    "isTitleBarForcedByUser": false,
+    "useHwAcceleration": true,
+    "isOpenExternalShellForced": true,
+    "PrefSSBFileDownloadPath": "/home/bitchhunter3000/Temporary",
+    "notificationMethod": null,
+    "notificationPlayback": null,
+    "notificationFailover": 0,
+    "notificationFailoverEnabled": true,
+    "notificationClickThrough": false,
+    "notificationClickThroughMain": true,
+    "notificationTimeout": 6000,
+    "notificationAfterHoverTimeout": 2000,
+    "notificationMaxItems": 3,
+    "notificationZoomLevel": null,
+    "notificationStyle": null,
+    "notificationPresentationCheck": null,
+    "notifyPosition": {
+      "corner": "bottom_right",
+      "display": "same_as_app"
+    },
+    "locale": "en-US",
+    "spellCheckerVersion": "V2",
+    "os": false,
+    "release": false,
+    "desktopEnvironment": false,
+    "isAeroGlassEnabled": false,
+    "linux": {
+      "os": "KDE neon User Edition 5.14",
+      "release": "bionic",
+      "desktopEnvironment": "KDE"
+    },
+    "sandboxSigninWindow": true
+  },
+  "windowFrame": {
+    "windowSettings": {
+      "size": [
+        1152,
+        864
+      ],
+      "position": [
+        435,
+        212
+      ],
+      "isMaximized": false
+    },
+    "isFullScreen": false
+  }
+}
+[02/02/19, 12:06:34:137] info: initializeMainWindowEpic: Waiting for selected team to load
+{
+  "selectedTeamId": "TDDMQEX8R"
+}
+[02/02/19, 12:06:34:138] info: Store: UPDATE_SETTINGS
+{
+  "isSignedIntoSlackOrg": false
+}
+[02/02/19, 12:06:34:143] info: UpdaterEpics: Updates disabled because
+{
+  "reasons": [
+    "using Linux"
+  ]
+}
+[02/02/19, 12:06:34:150] info: Read UUID from file successful
+{
+  "uuid": "d13e65e7-719b-4992-b230-078f2b73ea61"
+}
+[02/02/19, 12:06:34:791] info: Store: INITIALIZE_SETTINGS
+{
+  "releaseChannel": "prod",
+  "platformVersion": {
+    "major": 4,
+    "minor": 15,
+    "build": 0
+  },
+  "isTitleBarHidden": false,
+  "isDevMode": false,
+  "appVersion": "3.3.7",
+  "versionName": "Alaska",
+  "devEnv": null,
+  "resourcePath": "/snap/slack/11/usr/lib/slack/resources/app.asar",
+  "webappSrcPath": null,
+  "webappParams": null,
+  "launchOnStartup": false,
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "isAeroGlassEnabled": false,
+  "isGpuCompositionAvailable": true,
+  "linux": {
+    "os": "KDE neon User Edition 5.14",
+    "release": "bionic",
+    "desktopEnvironment": "KDE"
+  }
+}
+[02/02/19, 12:06:34:794] info: AutoLoginEpic: Checking for autologin.
+[02/02/19, 12:06:34:805] info: WebContentsMediator: Attaching to new webContents
+[02/02/19, 12:06:34:808] info: Store: ADD_WINDOW
+{
+  "id": 2,
+  "type": "main"
+}
+[02/02/19, 12:06:34:810] info: BrowserViewManager: Starting initialization
+[02/02/19, 12:06:34:811] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "TDDMQEX8R"
+}
+[02/02/19, 12:06:34:811] info: BrowserViewManager: Creating BrowserView
+{
+  "teamId": "TDDMQEX8R"
+}
+[02/02/19, 12:06:34:815] info: WebContentsMediator: Attaching to new webContents
+[02/02/19, 12:06:34:816] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "teamId": "TDDMQEX8R",
+  "state": "unloaded"
+}
+[02/02/19, 12:06:34:822] info: Background Clients Update: 
++-----------+-------+------------+
+|           | Full  | Background |
+|-----------+-------+------------+
+| T9C6NUMBJ |       |            |
+|-----------+-------+------------+
+| T8U7NRKQU |       |            |
+|-----------+-------+------------+
+| TCNRBMGLX |       |            |
+|-----------+-------+------------+
+| TDDMQEX8R | start |            |
++-----------+-------+------------+
+[02/02/19, 12:06:34:829] info: Don't start background client because T9C6NUMBJ is missing token
+[02/02/19, 12:06:34:829] info: Don't start background client because T8U7NRKQU is missing token
+[02/02/19, 12:06:34:829] info: Don't start background client because TCNRBMGLX is missing token
+[02/02/19, 12:06:34:829] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "T9C6NUMBJ"
+}
+[02/02/19, 12:06:34:830] info: BrowserViewManager: Creating BrowserView
+{
+  "teamId": "T9C6NUMBJ"
+}
+[02/02/19, 12:06:34:832] info: WebContentsMediator: Attaching to new webContents
+[02/02/19, 12:06:34:835] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "teamId": "T9C6NUMBJ",
+  "state": "unloaded"
+}
+[02/02/19, 12:06:34:837] info: Background Clients Update: 
++-----------+-------+------------+
+|           | Full  | Background |
+|-----------+-------+------------+
+| T9C6NUMBJ | start |            |
+|-----------+-------+------------+
+| T8U7NRKQU |       |            |
+|-----------+-------+------------+
+| TCNRBMGLX |       |            |
+|-----------+-------+------------+
+| TDDMQEX8R | start |            |
++-----------+-------+------------+
+[02/02/19, 12:06:34:850] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "T8U7NRKQU"
+}
+[02/02/19, 12:06:34:850] info: BrowserViewManager: Creating BrowserView
+{
+  "teamId": "T8U7NRKQU"
+}
+[02/02/19, 12:06:34:887] info: WebContentsMediator: Attaching to new webContents
+[02/02/19, 12:06:34:888] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "teamId": "T8U7NRKQU",
+  "state": "unloaded"
+}
+[02/02/19, 12:06:34:891] info: Background Clients Update: 
++-----------+-------+------------+
+|           | Full  | Background |
+|-----------+-------+------------+
+| T9C6NUMBJ | start |            |
+|-----------+-------+------------+
+| T8U7NRKQU | start |            |
+|-----------+-------+------------+
+| TCNRBMGLX |       |            |
+|-----------+-------+------------+
+| TDDMQEX8R | start |            |
++-----------+-------+------------+
+[02/02/19, 12:06:34:899] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "TCNRBMGLX"
+}
+[02/02/19, 12:06:34:899] info: BrowserViewManager: Creating BrowserView
+{
+  "teamId": "TCNRBMGLX"
+}
+[02/02/19, 12:06:34:901] info: WebContentsMediator: Attaching to new webContents
+[02/02/19, 12:06:34:901] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "teamId": "TCNRBMGLX",
+  "state": "unloaded"
+}
+[02/02/19, 12:06:34:903] info: Background Clients Update: 
++-----------+-------+------------+
+|           | Full  | Background |
+|-----------+-------+------------+
+| T9C6NUMBJ | start |            |
+|-----------+-------+------------+
+| T8U7NRKQU | start |            |
+|-----------+-------+------------+
+| TCNRBMGLX | start |            |
+|-----------+-------+------------+
+| TDDMQEX8R | start |            |
++-----------+-------+------------+
+[02/02/19, 12:06:34:924] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "TDDMQEX8R"
+}
+[02/02/19, 12:06:34:933] info: BrowserViewManager: Finished initialization
+[02/02/19, 12:06:34:936] info: PersistSettingsWindowBehavior: Loading windowMetrics
+{
+  "settings": {
+    "size": [
+      1152,
+      864
+    ],
+    "position": [
+      435,
+      212
+    ],
+    "isMaximized": false
+  }
+}
+[02/02/19, 12:06:35:128] info: Application: Setting main window ID
+{
+  "id": 2
+}
+[02/02/19, 12:06:35:130] info: App: Welcome to Slack 3.3.7 x64
+[02/02/19, 12:06:35:130] info: App load time: 5,46444840
+[02/02/19, 12:06:36:538] info: Team boot count
+{
+  "count": 1
+}
+[02/02/19, 12:06:36:562] info: Team boot count
+{
+  "count": 2
+}
+[02/02/19, 12:06:37:241] info: Team boot count
+{
+  "count": 3
+}
+[02/02/19, 12:06:37:269] info: Team boot count
+{
+  "count": 4
+}
+[02/02/19, 12:06:38:382] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[02/02/19, 12:06:38:499] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[02/02/19, 12:06:38:504] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "TDDMQEX8R"
+}
+[02/02/19, 12:06:38:976] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 12:06:40:871] info: Team boot count
+{
+  "count": 5
+}
+[02/02/19, 12:06:50:609] info: WebContents LifeCycle: webContents:6 from 'unloaded' to 'loaded' took 15703 ms
+[02/02/19, 12:06:50:610] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "TCNRBMGLX"
+}
+[02/02/19, 12:06:50:615] info: Background Clients Update: 
++-----------+---------+------------+
+|           | Full    | Background |
+|-----------+---------+------------+
+| T9C6NUMBJ | start   |            |
+|-----------+---------+------------+
+| T8U7NRKQU | start   |            |
+|-----------+---------+------------+
+| TCNRBMGLX | loading |            |
+|-----------+---------+------------+
+| TDDMQEX8R | start   |            |
++-----------+---------+------------+
+[02/02/19, 12:06:50:692] info: WebContents LifeCycle: webContents:4 from 'unloaded' to 'loaded' took 15854 ms
+[02/02/19, 12:06:50:693] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[02/02/19, 12:06:50:696] info: Background Clients Update: 
++-----------+---------+------------+
+|           | Full    | Background |
+|-----------+---------+------------+
+| T9C6NUMBJ | loading |            |
+|-----------+---------+------------+
+| T8U7NRKQU | start   |            |
+|-----------+---------+------------+
+| TCNRBMGLX | loading |            |
+|-----------+---------+------------+
+| TDDMQEX8R | start   |            |
++-----------+---------+------------+
+[02/02/19, 12:06:50:922] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "TCNRBMGLX"
+}
+[02/02/19, 12:06:50:998] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "T9C6NUMBJ"
+}
+[02/02/19, 12:06:51:034] info: WebContents LifeCycle: webContents:5 from 'unloaded' to 'loaded' took 16142 ms
+[02/02/19, 12:06:51:034] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[02/02/19, 12:06:51:037] info: Background Clients Update: 
++-----------+---------+------------+
+|           | Full    | Background |
+|-----------+---------+------------+
+| T9C6NUMBJ | loading |            |
+|-----------+---------+------------+
+| T8U7NRKQU | loading |            |
+|-----------+---------+------------+
+| TCNRBMGLX | loading |            |
+|-----------+---------+------------+
+| TDDMQEX8R | start   |            |
++-----------+---------+------------+
+[02/02/19, 12:06:51:389] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "T8U7NRKQU"
+}
+[02/02/19, 12:06:51:929] info: WebContents LifeCycle: webContents:3 from 'unloaded' to 'loaded' took 17105 ms
+[02/02/19, 12:06:51:929] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TDDMQEX8R"
+}
+[02/02/19, 12:06:51:931] info: Background Clients Update: 
++-----------+---------+------------+
+|           | Full    | Background |
+|-----------+---------+------------+
+| T9C6NUMBJ | loading |            |
+|-----------+---------+------------+
+| T8U7NRKQU | loading |            |
+|-----------+---------+------------+
+| TCNRBMGLX | loading |            |
+|-----------+---------+------------+
+| TDDMQEX8R | loading |            |
++-----------+---------+------------+
+[02/02/19, 12:06:51:933] info: initializeMainWindowEpic: Showing main window
+{
+  "shouldMinimize": false,
+  "shouldMaximize": false,
+  "shouldHide": false
+}
+[02/02/19, 12:06:51:934] info: Store: MAIN_WINDOW_SHOWN
+[02/02/19, 12:06:51:992] info: Store: SET_FULL_SCREEN
+[02/02/19, 12:06:51:996] info: Store: SET_FULL_SCREEN
+[02/02/19, 12:06:52:000] info: Store: SET_FULL_SCREEN
+[02/02/19, 12:06:52:006] info: Store: SET_FULL_SCREEN
+[02/02/19, 12:06:52:010] info: Store: SET_FULL_SCREEN
+[02/02/19, 12:06:52:251] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "TDDMQEX8R"
+}
+[02/02/19, 12:06:52:980] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "size": [
+    1152,
+    864
+  ],
+  "position": [
+    439,
+    212
+  ],
+  "isMaximized": false
+}
+[02/02/19, 12:07:12:610] info: Store: MAIN_WINDOW_FOCUSED
+[02/02/19, 12:07:12:705] info: Store: SHOW_LOGIN_DIALOG
+[02/02/19, 12:07:12:710] info: WebContentsMediator: Attaching to new webContents
+[02/02/19, 12:07:12:712] info: Store: ADD_WINDOW
+{
+  "id": 3,
+  "type": "sign-in"
+}
+[02/02/19, 12:07:12:716] info: SignInEpic: Loading URL in new window
+[02/02/19, 12:07:33:314] info: Store: MAIN_WINDOW_FOCUSED
+[02/02/19, 12:42:29:794] info: Store: MAIN_WINDOW_FOCUSED
+[02/02/19, 13:28:52:054] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 13:29:29:773] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 13:29:38:004] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 13:29:56:589] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 13:30:32:501] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 13:31:09:034] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 13:31:26:997] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 13:31:28:965] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 13:34:35:988] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 13:39:50:817] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 14:04:45:013] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 14:06:27:329] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 14:10:34:997] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 14:10:55:003] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 14:11:55:988] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 14:12:10:915] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 14:49:10:004] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 14:50:30:832] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 14:53:51:989] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 14:54:03:443] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 14:54:58:005] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 14:56:22:123] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 16:08:37:826] info: Store: SET_SUSPEND_STATUS
+[02/02/19, 16:08:38:281] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 19:11:39:044] info: Store: SET_SUSPEND_STATUS true
+[02/02/19, 19:11:47:808] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 19:11:52:562] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 19:11:53:047] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 19:16:56:987] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 19:16:57:684] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 19:19:24:369] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 19:19:24:880] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 20:06:56:830] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 20:06:58:071] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 20:12:02:279] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 20:12:03:706] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 20:32:22:396] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 20:32:23:008] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 20:32:42:492] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 20:32:43:001] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 20:37:46:731] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 20:37:47:361] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 20:42:41:624] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 20:42:42:265] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 20:59:09:394] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 20:59:10:012] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:04:15:027] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:04:16:071] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:12:56:422] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:12:56:944] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:18:02:160] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:18:02:815] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:23:07:536] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:23:08:171] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:28:12:990] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:28:14:663] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:38:25:352] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:38:26:565] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:45:23:872] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:45:25:116] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:50:29:672] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:50:30:324] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:55:48:747] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:55:49:404] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 22:06:45:065] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 22:06:46:573] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 22:11:50:209] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 22:11:51:692] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 22:16:55:957] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 22:16:57:376] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 22:19:10:221] info: Store: MAIN_WINDOW_FOCUSED
+[02/02/19, 22:22:01:892] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 22:22:02:891] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 22:27:06:892] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 22:27:07:891] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 22:47:29:893] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 22:47:30:891] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 22:47:36:894] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 22:47:37:891] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 22:52:39:893] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 22:52:40:891] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 22:53:34:078] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "TDDMQEX8R"
+}
+[02/02/19, 22:53:34:174] info: Store: MAIN_WINDOW_FOCUSED
+[02/02/19, 22:53:35:108] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "size": [
+    1152,
+    864
+  ],
+  "position": [
+    439,
+    212
+  ],
+  "isMaximized": false
+}
+[02/02/19, 22:53:35:503] info: Store: MAIN_WINDOW_FOCUSED
+[02/02/19, 22:53:37:285] info: Store: SIGN_IN_CANCELED
+[02/02/19, 22:53:37:288] info: SignInEpic: Sign-in window closed
+[02/02/19, 22:53:37:289] info: maybeQuitAppAction
+{
+  "canceledSignIn": true,
+  "hasNoTeams": false
+}
+[02/02/19, 22:53:37:290] info: SignInEpic: End of the road
+{
+  "action": "none"
+}
+[02/02/19, 22:53:37:291] info: Store: REMOVE_WINDOW 3
+[02/02/19, 22:53:39:753] info: WindowCloseBehavior: Attempted to close the window, hiding due to run from tray
+[02/02/19, 22:53:39:775] info: Store: SET_FULL_SCREEN
+[02/02/19, 23:02:49:892] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:02:50:891] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:07:55:891] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:07:56:890] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:13:00:892] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:13:01:890] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:18:04:892] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:18:05:891] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:28:15:891] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:28:17:890] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:28:37:891] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:28:38:890] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:28:40:891] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:28:41:925] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:52:36:890] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:52:59:891] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:57:54:891] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:58:31:891] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:58:44:891] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:59:03:890] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:04:06:893] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:04:07:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:14:15:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:14:16:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:15:14:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:15:15:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:20:18:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:20:19:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:25:22:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:25:23:890] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:30:26:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:30:27:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:40:49:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:40:50:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:45:54:893] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:45:55:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:56:15:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:56:16:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:01:20:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:01:21:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:06:24:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:06:25:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:16:46:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:16:47:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:26:58:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:26:59:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:32:03:893] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:32:04:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:37:09:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:37:10:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:42:15:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:42:16:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:47:21:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:47:22:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:52:24:893] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:52:25:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 02:38:15:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 02:38:16:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 02:43:21:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 02:43:23:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 03:08:50:891] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 03:08:51:890] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 03:13:55:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 03:13:56:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 03:19:01:891] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 03:19:02:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 03:29:12:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 03:29:13:890] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 03:34:18:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 03:34:19:890] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 03:50:36:891] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 03:50:37:890] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 03:55:42:894] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 03:55:43:890] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:00:48:893] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:00:49:890] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:05:54:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:05:55:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:06:55:891] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:06:56:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:11:59:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:12:00:890] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:27:16:893] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:27:17:890] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:32:20:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:32:21:890] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:37:24:891] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:37:25:890] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:37:31:891] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:37:32:890] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:42:35:893] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:42:36:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:52:46:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:52:47:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:53:10:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:53:11:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:58:14:891] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:58:15:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:58:50:892] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:58:51:892] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:59:36:891] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:59:37:891] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 05:04:11:550] info: Store: SET_SUSPEND_STATUS
+[02/03/19, 08:41:12:898] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 08:41:13:043] info: Store: SET_SUSPEND_STATUS true
+[02/03/19, 08:41:23:879] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 08:41:26:881] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 08:41:27:879] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 08:46:31:880] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 08:46:32:879] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 08:51:35:880] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 08:51:36:879] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 08:56:39:880] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 08:56:40:879] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 09:01:43:880] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 09:01:44:879] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 09:06:48:881] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 09:06:49:879] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 09:11:51:880] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 09:11:52:879] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 09:16:57:544] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 09:16:58:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 09:27:09:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 09:27:10:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 09:32:13:546] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 09:32:14:543] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 09:47:31:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 09:47:32:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 09:57:41:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 09:57:42:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:07:50:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:07:51:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:12:55:544] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:12:56:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:23:07:544] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:23:08:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:28:12:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:28:13:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:33:18:544] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:33:19:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:38:22:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:38:23:541] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:48:32:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:48:33:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:53:37:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:53:38:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:58:09:542] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:58:11:541] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:03:14:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:03:15:541] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:08:18:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:08:19:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:13:23:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:13:24:541] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:18:28:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:18:29:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:19:02:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:19:03:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:24:07:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:24:08:541] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:29:12:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:29:13:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:34:17:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:34:18:541] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:39:22:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:39:23:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:44:26:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:44:27:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:49:30:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:49:31:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:54:35:544] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:54:36:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 12:09:51:660] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 12:09:52:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 12:20:02:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 12:20:03:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 12:30:12:543] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 12:30:13:542] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 12:30:19:318] info: Store: SET_SUSPEND_STATUS

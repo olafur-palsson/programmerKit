@@ -1,5 +1,5 @@
 [Misc]
-version=9
+version=10
 
 [Show]
 Exif.Image.DateTime=false
@@ -23,6 +23,7 @@ contentCreated=false
 contentSize=false
 created=false
 depends=false
+embeddedRating=false
 fileName=false
 fileSize=false
 hasPart=false
@@ -33,4 +34,8 @@ kfileitem#permissions=false
 lastModified=false
 mimeType=false
 plainTextContent=false
+replayGainAlbumGain=false
+replayGainAlbumPeak=false
+replayGainTrackGain=false
+replayGainTrackPeak=false
 url=false

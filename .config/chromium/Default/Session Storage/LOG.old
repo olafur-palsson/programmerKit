@@ -1,6 +1,21 @@
-2018/10/10-18:32:42.068 721 Reusing MANIFEST /home/bitchhunter3000/.config/chromium/Default/Session Storage/MANIFEST-000001
-2018/10/10-18:32:42.068 721 Recovering log #342
-2018/10/10-18:32:42.070 721 Reusing old log /home/bitchhunter3000/.config/chromium/Default/Session Storage/000342.log 
-2018/10/10-18:43:47.462 5431 Level-0 table #347: started
-2018/10/10-18:43:47.467 5431 Level-0 table #347: 19540 bytes OK
-2018/10/10-18:43:47.469 5431 Delete type=0 #342
+2019/02/22-11:02:10.409 1c80 Reusing MANIFEST /home/bitchhunter3000/.config/chromium/Default/Session Storage/MANIFEST-000001
+2019/02/22-11:02:10.409 1c80 Recovering log #349
+2019/02/22-11:02:10.410 1c80 Reusing old log /home/bitchhunter3000/.config/chromium/Default/Session Storage/000349.log 
+2019/02/22-11:56:20.949 226 Level-0 table #353: started
+2019/02/22-11:56:20.953 226 Level-0 table #353: 19057 bytes OK
+2019/02/22-11:56:20.957 226 Delete type=0 #349
+2019/02/22-12:01:21.591 226 Level-0 table #355: started
+2019/02/22-12:01:21.594 226 Level-0 table #355: 18757 bytes OK
+2019/02/22-12:01:21.596 226 Delete type=0 #352
+2019/02/22-12:01:21.596 226 Compacting 4@0 + 1@1 files
+2019/02/22-12:01:21.601 226 Generated table #356@0: 2006 keys, 75923 bytes
+2019/02/22-12:01:21.601 226 Compacted 4@0 + 1@1 files => 75923 bytes
+2019/02/22-12:01:21.603 226 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/02/22-12:01:21.603 226 Delete type=2 #355
+2019/02/22-12:01:21.604 226 Delete type=2 #347
+2019/02/22-12:01:21.604 226 Delete type=2 #344
+2019/02/22-12:01:21.604 226 Delete type=2 #353
+2019/02/22-12:01:21.604 226 Delete type=2 #350
+2019/02/22-12:05:27.340 226 Level-0 table #358: started
+2019/02/22-12:05:27.343 226 Level-0 table #358: 16265 bytes OK
+2019/02/22-12:05:27.346 226 Delete type=0 #354

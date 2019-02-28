@@ -1,3 +1,3 @@
-2018/10/18-16:16:06.479 2227 Reusing MANIFEST /home/bitchhunter3000/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2018/10/18-16:16:06.479 2227 Recovering log #95
-2018/10/18-16:16:06.481 2227 Reusing old log /home/bitchhunter3000/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000095.log 
+2019/02/22-15:46:06.500 6797 Reusing MANIFEST /home/bitchhunter3000/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/02/22-15:46:06.500 6797 Recovering log #95
+2019/02/22-15:46:06.504 6797 Reusing old log /home/bitchhunter3000/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000095.log 

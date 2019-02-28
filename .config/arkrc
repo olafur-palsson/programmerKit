@@ -1,5 +1,5 @@
 [ExtractDialog]
-DirHistory[$e]=$HOME/skoli/reinforcementLearning/,$HOME/projects/calendar2/,$HOME/projects/workout-tracker/src/components/history/,$HOME/Downloads/intelliJ installer/,/tmp/mozilla_bitchhunter30000/,$HOME/,$HOME/eclipse/,$HOME/java8/,$HOME/projects/neuralnetwork/,$HOME/projects/blabla/
+DirHistory[$e]=$HOME/skoli/operatingsystems/12hd/,$HOME/skoli/operatingsystems/11hd/,$HOME/skoli/graphics/verkefni2/fish/,$HOME/Downloads/,/tmp/mozilla_bitchhunter30000/,$HOME/Downloads/androidstudio/,$HOME/skoli/reinforcementLearning/,$HOME/projects/calendar2/,$HOME/projects/workout-tracker/src/components/history/,$HOME/Downloads/intelliJ installer/
 Height 1080=560
 Width 1920=1280
 
@@ -7,8 +7,8 @@ Width 1920=1280
 AutomaticDetectionLanguage=1
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME
-Recent URLs[$e]=file:$HOME/skoli/reinforcementLearning/
+Recent Files[$e]=file:$HOME,file:$HOME/umlhugbo2-1.jpg
+Recent URLs[$e]=file:///tmp/ark-RjAfRx/
 
 [KTextEditor Document]
 Allow End of Line Detection=true
@@ -64,6 +64,7 @@ Bookmark Menu Sorting=0
 Default Mark Type=1
 Dynamic Word Wrap=true
 Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap At Static Marker=false
 Dynamic Word Wrap Indicators=1
 Fold First Line=false
 Folding Bar=true
@@ -74,6 +75,7 @@ Keyword Completion=true
 Line Modification=false
 Line Numbers=false
 Maximum Search History Size=100
+Mouse Paste At Cursor Position=false
 Persistent Selection=false
 Scroll Bar Marks=false
 Scroll Bar Mini Map All=false
@@ -94,26 +96,36 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAF9AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
 ToolBarsMovable=Disabled
 splitterSizes=426,213
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/armadillo-9.100.5.tar.xz
+File10[$e]=$HOME/Downloads/umlhugbo2.zip
 File2[$e]=$HOME/Downloads/Ableton live Suite v9.5 WiN x86 x64-d33p57a7u5/Patch iO/Ableton LivePatch [io].rar
 File3[$e]=$HOME/Downloads/vue-functional-calendar-master.zip
 File4[$e]=$HOME/Downloads/springboot.zip
 File5[$e]=$HOME/Downloads/download (1)
 File6[$e]=$HOME/Downloads/para oli-20181219T174924Z-001.zip
+File7[$e]=$HOME/Downloads/android-studio-ide-182.5199772-linux.zip
+File8[$e]=$HOME/Downloads/world_map_of_cpp_STL_algorithms.zip
+File9[$e]=$HOME/Downloads/tictactoe.zip
 Name1[$e]=armadillo-9.100.5.tar.xz
+Name10[$e]=umlhugbo2.zip
 Name2[$e]=Ableton LivePatch [io].rar
 Name3[$e]=vue-functional-calendar-master.zip
 Name4[$e]=springboot.zip
 Name5[$e]=download (1)
 Name6[$e]=para oli-20181219T174924Z-001.zip
+Name7[$e]=android-studio-ide-182.5199772-linux.zip
+Name8[$e]=world_map_of_cpp_STL_algorithms.zip
+Name9[$e]=tictactoe.zip
 
 [Viewer]
 Height 1080=601
-State=AAAA/wAAAAD9AAAAAAAAAu8AAAIWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPYAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=751
+Window-Maximized 1080x1920=true

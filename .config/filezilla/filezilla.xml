@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<FileZilla3 version="3.15.0.2" platform="*nix">
+<FileZilla3 version="3.28.0" platform="*nix">
 	<Settings>
 		<Setting name="Use Pasv mode">1</Setting>
 		<Setting name="Limit local ports">0</Setting>
@@ -54,7 +54,7 @@
 		<Setting name="Auto Ascii dotfiles">1</Setting>
 		<Setting name="Theme">opencrystal/</Setting>
 		<Setting name="Language Code" />
-		<Setting name="Last Server Path">1 0 4 root</Setting>
+		<Setting name="Last Server Path">1 0 5 heima 4 olp6 12 .public_html 8 graphics 4 fish</Setting>
 		<Setting name="Concurrent download limit">0</Setting>
 		<Setting name="Concurrent upload limit">0</Setting>
 		<Setting name="Update Check">1</Setting>
@@ -66,20 +66,20 @@
 		<Setting name="File exists action download">0</Setting>
 		<Setting name="File exists action upload">0</Setting>
 		<Setting name="Allow ascii resume">0</Setting>
-		<Setting name="Greeting version">3.15.0.2</Setting>
+		<Setting name="Greeting version">3.28.0</Setting>
 		<Setting name="Onetime Dialogs" />
 		<Setting name="Show Tree Local">1</Setting>
 		<Setting name="Show Tree Remote">1</Setting>
 		<Setting name="File Pane Layout">0</Setting>
 		<Setting name="File Pane Swap">0</Setting>
-		<Setting name="Last local directory">/home/pimp-of-pimps/projects/search/HotelApi/out/production/classes/</Setting>
+		<Setting name="Last local directory">/home/bitchhunter3000/skoli/graphics/verkefni2/</Setting>
 		<Setting name="Filelist directory sort">0</Setting>
 		<Setting name="Filelist name sort">1</Setting>
 		<Setting name="Queue successful autoclear">0</Setting>
 		<Setting name="Queue column widths">180 60 180 80 60 150</Setting>
 		<Setting name="Local filelist colwidths">120 80 100 120</Setting>
-		<Setting name="Remote filelist colwidths">80 75 80 100 80 80</Setting>
-		<Setting name="Window position and size">0 360 65 1200 857 </Setting>
+		<Setting name="Remote filelist colwidths">164 75 80 100 80 80</Setting>
+		<Setting name="Window position and size">0 644 91 1200 857 </Setting>
 		<Setting name="Splitter positions (v2)">97 -130 500000000 231 231 500000000</Setting>
 		<Setting name="Local filelist sortorder">0 0</Setting>
 		<Setting name="Remote filelist sortorder">0 0</Setting>
@@ -93,10 +93,10 @@
 		<Setting name="Custom file associations" />
 		<Setting name="Comparison mode">1</Setting>
 		<Setting name="Comparison threshold">1</Setting>
-		<Setting name="Site Manager position">0 618 276 683 527 </Setting>
+		<Setting name="Site Manager position">0 610 244 700 598 </Setting>
 		<Setting name="Theme icon size" />
 		<Setting name="Timestamp in message log">0</Setting>
-		<Setting name="Sitemanager last selected">0/Boost</Setting>
+		<Setting name="Sitemanager last selected">0/Hekla</Setting>
 		<Setting name="Local filelist shown columns">1111</Setting>
 		<Setting name="Remote filelist shown columns">111111</Setting>
 		<Setting name="Local filelist column order">0,1,2,3</Setting>
@@ -105,7 +105,7 @@
 		<Setting name="Filter toggle state">0</Setting>
 		<Setting name="Show quickconnect bar">1</Setting>
 		<Setting name="Messagelog position">0</Setting>
-		<Setting name="Last connected site">0/Boost</Setting>
+		<Setting name="Last connected site">0/Hekla</Setting>
 		<Setting name="File doubleclock action">0</Setting>
 		<Setting name="Dir doubleclock action">0</Setting>
 		<Setting name="Minimize to tray">0</Setting>
@@ -120,7 +120,7 @@
 		<Setting name="Filteredit window size" />
 		<Setting name="Enable invalid char filter">1</Setting>
 		<Setting name="Invalid char replace">_</Setting>
-		<Setting name="Already connected choice">0</Setting>
+		<Setting name="Already connected choice">1</Setting>
 		<Setting name="Edit status dialog size" />
 		<Setting name="Display current speed">0</Setting>
 		<Setting name="Toolbar hidden">0</Setting>
@@ -133,19 +133,19 @@
 		<Setting name="Kiosk mode">0</Setting>
 		<Setting name="Disable update check">0</Setting>
 		<LastServer>
-			<Host>165.227.41.109</Host>
+			<Host>hekla.rhi.hi.is</Host>
 			<Port>22</Port>
 			<Protocol>1</Protocol>
 			<Type>0</Type>
-			<User>root</User>
-			<Keyfile>/home/pimp-of-pimps/.ssh/id_rsa</Keyfile>
-			<Logontype>5</Logontype>
+			<User>olp6</User>
+			<Pass encoding="base64">Q0U5QnhLSnI=</Pass>
+			<Logontype>1</Logontype>
 			<TimezoneOffset>0</TimezoneOffset>
 			<PasvMode>MODE_DEFAULT</PasvMode>
 			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
-			<Name>Boost</Name>
+			<Name>Hekla</Name>
 		</LastServer>
 	</Settings>
 </FileZilla3>

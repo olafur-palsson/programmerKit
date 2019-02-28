@@ -121,10 +121,6 @@ LineNumbers=false
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/armadillo-9.100.5/examples/example1.cpp
-File2[$e]=$HOME/skoli/reinforcementLearning/reikniVerkefni1/paintValueFunction.py
-File3[$e]=$HOME/skoli/databases/v8/forritun/SQLBuilder.java
-File4[$e]=$HOME/skoli/reinforcementLearning/repo_example-master/BG_Competition.py
+File2[$e]=$HOME/skoli/operatingsystems/78hd/readme.txt
 Name1[$e]=example1.cpp
-Name2[$e]=paintValueFunction.py
-Name3[$e]=SQLBuilder.java
-Name4[$e]=BG_Competition.py
+Name2[$e]=readme.txt

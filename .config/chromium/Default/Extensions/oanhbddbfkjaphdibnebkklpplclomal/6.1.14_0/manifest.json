@@ -1,0 +1,23 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/libs/jquery-1.11.1.js", "js/libs/jquery.xmlrpc.js", "js/ga.js", "js/OpenSubtitles.js", "js/Amara.js", "js/background.js" ]
+   },
+   "content_scripts": [ {
+      "css": [ "css/style.css" ],
+      "js": [ "js/libs/jquery-1.11.1.js", "js/libs/jquery-ui-1.10.3.custom.min.js", "js/libs/jquery.fileupload.js", "js/libs/jquery.iframe-transport.js", "js/libs/jszip.min.js", "js/libs/gunzip.min.js", "js/bubbles-modified.js", "js/OpenSubtitles.js", "js/ExternalSubtitles.js", "js/helper.js", "js/myscript.js" ],
+      "matches": [ "*://www.youtube.com/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "Use this extension to add drag and drop subtitles to any youtube video",
+   "icons": {
+      "128": "images/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyMoaWLYywtwmxsUPAZhHK57BHkhijN+u6M1gcPZHbnEQvzgT2MnjagwE87HPrqSy1A00PdKm5yXoNS6Lo+JuafVmnUPZprwFu3x3idpKnH0omJvBz3c4AoT3QzYee+fQB8Q7ynKr0he6FosQ4OSNXkIkJTMe7mTf+KtmOmf5g60wSgGohnaqYKM/VY0+uvRSwQOCpZYZlViMoTrqDEFAWm1rc+oUyQTeahxsrHUP4mhbb/+elaQeoLra19kDQ+nb6I42o2qwql8Tv1lFLrfituW0y0R+7OybWle+MUVqPHNFEjmJnIOuYfRjiO4KrJKyhcVg0Dqd2dxO5gkRaNAx9QIDAQAB",
+   "manifest_version": 2,
+   "name": "Subtitles For YouTube",
+   "permissions": [ "*://*/*", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "6.1.14",
+   "web_accessible_resources": [ "open-subtitles.html", "subtitles-tab.html", "onboarding.html", "images/*.*" ]
+}

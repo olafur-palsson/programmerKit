@@ -9,11 +9,11 @@
   <Global>
     <ExtraData>
       <ExtraDataItem name="GUI/DetailsPageBoxes" value="general,system,preview,display,storage,audio,network,usb,sharedFolders,description"/>
-      <ExtraDataItem name="GUI/GroupDefinitions/" value="m=a672a99e-b9ed-4bb0-96b9-a242164cbffe"/>
-      <ExtraDataItem name="GUI/LastItemSelected" value="m=win10clone"/>
+      <ExtraDataItem name="GUI/GroupDefinitions/" value="m=a672a99e-b9ed-4bb0-96b9-a242164cbffe,m=3b84f8ff-1c27-415d-9755-32331f682761"/>
+      <ExtraDataItem name="GUI/LastItemSelected" value="m=ubuntu"/>
       <ExtraDataItem name="GUI/LastWindowPosition" value="575,265,770,550"/>
-      <ExtraDataItem name="GUI/RecentFolderCD" value="/home/bitchhunter3000"/>
-      <ExtraDataItem name="GUI/RecentListCD" value="/home/bitchhunter3000/footballmanager.iso,/home/bitchhunter3000/Downloads/Windows 10 Pro v.1709 En-US (64-bit) ACTiVATED-HOBBiT/Windows 10 Pro x64 En-US Activated.iso,/home/bitchhunter3000/Downloads/drivers.iso"/>
+      <ExtraDataItem name="GUI/RecentFolderCD" value="/home/bitchhunter3000/Downloads"/>
+      <ExtraDataItem name="GUI/RecentListCD" value="/home/bitchhunter3000/Downloads/xenialpup64-7.5-uefi.iso,/home/bitchhunter3000/footballmanager.iso,/home/bitchhunter3000/Downloads/Windows 10 Pro v.1709 En-US (64-bit) ACTiVATED-HOBBiT/Windows 10 Pro x64 En-US Activated.iso,/home/bitchhunter3000/Downloads/drivers.iso"/>
       <ExtraDataItem name="GUI/SplitterSizes" value="241,528"/>
       <ExtraDataItem name="GUI/SuppressMessages" value="confirmInputCapture,remindAboutMouseIntegration,remindAboutAutoCapture,confirmResetMachine,warnAboutInaccessibleMedia"/>
       <ExtraDataItem name="GUI/Toolbar/MachineTools/Order" value="Details"/>
@@ -21,6 +21,7 @@
     </ExtraData>
     <MachineRegistry>
       <MachineEntry uuid="{a672a99e-b9ed-4bb0-96b9-a242164cbffe}" src="/home/bitchhunter3000/big_stuff/virtualMachines/win10clone/win10clone.vbox"/>
+      <MachineEntry uuid="{3b84f8ff-1c27-415d-9755-32331f682761}" src="/home/bitchhunter3000/big_stuff/virtualMachines/ubuntu/ubuntu.vbox"/>
     </MachineRegistry>
     <NetserviceRegistry>
       <DHCPServers>

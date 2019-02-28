@@ -1,0 +1,44 @@
+{
+   "author": [ "Michael Walz", "Brandon Richardson" ],
+   "background": {
+      "persistent": false,
+      "scripts": [ "app.js", "/background/browser-action-proxy.js", "/background/content-proxy.js", "/background/background.js", "/background/omni.js" ]
+   },
+   "browser_action": {
+      "default_icon": "resources/icon.png",
+      "default_popup": "popup/popup.html"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Ctrl+Shift+F",
+            "mac": "MacCtrl+Shift+F"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "app.js", "/lib/html-entity-handler/entityhandler.js", "/content/content.js", "/content/parser.js", "/content/highlighter.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extension_description__",
+   "icons": {
+      "128": "resources/icon.png",
+      "16": "resources/icon.png",
+      "48": "resources/icon.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsmm3dD+AUMQDPiFkx2I3ccHC8Q9bWJ/t4pM3syh67DVBzqIfiHhVZ8jjCCNA8v7lxyTZ8LmbKJFSSGGvbdM6LDtS6z09G4v7F/MDSX+PtQhtIvh4aIVoxcnwH5/bkULvqshJ/4j/JhAYO82mf+h70FlShEAFMv9FUsqkmFLddTWgHUx95Dw/BhLZYL+jm1hbeWRlQq20agogC3QTDZTUF9+n+59pkHWk0eoM+Lqe8+zCAWbLsZqNAyWXWxkR+SvGm5kTX4qANWmmm/VeD+ckZnG+ZTQ+xI1v56NpyBTao9uLoFweLfyMCldEUQAz3L6j1Wq9ZmgLP3zlos6zWK7yOwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extension_name__",
+   "offline_enabled": true,
+   "omnibox": {
+      "keyword": "find"
+   },
+   "permissions": [ "tabs", "activeTab", "background", "storage", "clipboardWrite", "\u003Call_urls>" ],
+   "short_name": "find+",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.1"
+}

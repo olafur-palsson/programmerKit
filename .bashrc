@@ -57,8 +57,12 @@ if [ -n "$force_color_prompt" ]; then
     fi
 fi
 
+#####   ----- Old prompt
+# PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
+
 if [ "$color_prompt" = yes ]; then
-    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
+  PS1="\[\e[32m\]\h \[\e[m\]\[\e[33m\]\A\[\e[m\] \[\e[34m\]\w\[\e[m\] $ "
+  # PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
 else
     PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
 fi
@@ -130,6 +134,10 @@ export ANDROID_HOME="/usr/lib/android-sdk"
 shopt -s dotglob
 # Moves hidden files and folders too
 
+alias blender="nohup ~/Downloads/blender-2.79b-linux-glibc219-x86_64/blender &"
+
+alias velmodel="watch_do ./src '*pp' 'cmake . -DCMAKE_PREFIX_PATH=libtorch; make'"
+
 alias sobash="source ~/.bashrc"
 # Reload Bash Source
 
@@ -193,7 +201,7 @@ alias wwwroot='cd /var/www/html'
 # Go to apache server root
 alias sdkmanager="~/Downloads/android/tools/bin/sdkmanager"
 # Shortcut to Android SDK Manager
-alias server='ssh root@165.227.41.109'
+alias server='ssh root@138.68.155.75'
 # DigitalOcean Personal Server
 alias java8="~/java8/bin/java"
 alias javac8="~/java8/bin/javac"
@@ -243,14 +251,29 @@ sedall() {
 	done
 }
 
+showcolors() {
+# Display all 256 terminal colors
+  for color in {0..255}; do
+    printf "\e[38;5;%sm %s \n" $color $color
+  done
+}
+
 watch_do() {
-  # watch folder $1 for anything that matches $2 then on close_write do $3
+  # Very useful. Syntax true if recursive:  watch_do src '*.js' 'npm run build' [true]
   regex="$2";
-  cmd=$3;
-  echo "$cmd";
-  echo "$regex";
-  echo "yolololol";
-  inotifywait -m "$1" -e close_write |
+  cmd="$3";
+  recursive="$4"
+  rec=""
+  text=""
+  [[ $recursive = "true" ]] && rec="r"
+  [[ $recursive = "true" ]] && text="recursively"
+    
+  echo "Executing          $cmd "
+  echo "For all that match $regex "
+  echo "In                 $1 " 
+  echo "$text.";
+  echo ""
+  inotifywait -m"$rec"  "$1" -e close_write |
     while read path action file; do 
       echo "$file" | grep -Eq "$regex" && eval "$cmd"
     done
@@ -418,7 +441,7 @@ autocompilecpp() {
       filetocompile=$(echo "$file" | sed 's/hpp$/cpp/')
       echo "$file" | grep -Eq "$regex" \
         && tput reset \
-        && $(g++ "$filetocompile" -o $(echo $filetocompile | sed 's/cpp/o/')) \
+        && $(g++ "$filetocompile" -c $(echo $filetocompile | sed 's/cpp/o/')) \
         && echo "$filetocompile compiled."
     done
 }

@@ -13846,3 +13846,1430 @@ info: Nov-30 01:28:20.378 [INFO] sleep event!
 info: Nov-30 01:28:20.379 [INFO] MSDisconnected: 
 info: Nov-30 01:28:20.383 [INFO] Hiding the reconnection banner because we are disconnected
 info: Nov-30 01:28:20.405 [SOCKET-MANAGER] (TDDMQEX8R) got offline event; moving to DISCONNECT as needed
+info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 3.3.7, linux 4.15.0-39-generic on x64 at 01/31/19, 15:07:17:170      ║
+info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+info: JQMIGRATE: Migrate is installed with logging active, version 3.0.0
+warn: Jan-31 15:07:29.672 error getActiveModelOb found no ob
+warn: Jan-31 15:07:29.673 TS.boot_data.channel_id: undefined
+warn: Jan-31 15:07:29.674 TS.boot_data.im_id: undefined
+warn: Jan-31 15:07:29.674 TS.boot_data.group_id: undefined
+warn: Jan-31 15:07:29.675 error getActiveModelOb found no ob
+warn: Jan-31 15:07:29.675 TS.boot_data.channel_id: undefined
+warn: Jan-31 15:07:29.675 TS.boot_data.im_id: undefined
+warn: Jan-31 15:07:29.675 TS.boot_data.group_id: undefined
+info: Jan-31 15:07:30.268 [BOOT] booted! pri:0 version:1548898481 start_ms:1548947245045 (5223ms ago)
+info: Jan-31 15:07:30.349 [INFO] no TS.client on page:https://reiknigreind2018.slack.com/
+info: Jan-31 15:07:31.324 [FOCUS-EVENT] Window focused
+info: Jan-31 15:07:31.364 [INFO] running without a user
+info: Jan-31 15:07:43.475 [FOCUS-EVENT] Window blurred
+info: Jan-31 15:07:43.483 [UNKNOWN-FETCH-MANAGER] (T00000000) requesting T00000000 (1)
+info: Jan-31 15:07:43.498 [API-Q] (T00000000) 59f1a488-1548947263.493 team.info called with reason: UnknownFetchManager
+info: Jan-31 15:07:43.499 [API-Q] (T00000000) 59f1a488-1548947263.493 team.info is ENQUEUED
+info: Jan-31 15:07:43.504 [API-Q] (T00000000) 59f1a488-1548947263.493 team.info is ACTIVE
+info: Jan-31 15:07:44.001 [API-Q] (T00000000) 59f1a488-1548947263.493 team.info is REJECTED: API not ok not_authed
+info: Jan-31 15:07:44.008 [UNKNOWN-FETCH-MANAGER] (T00000000) received T00000000 (1)
+warn: Jan-31 15:07:44.012 (T00000000) UnknownFetchManager requested 1 objects but received 0. Missing objects: T00000000
+error: Jan-31 15:08:23.873 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Jan-31 15:09:03.809 [FOCUS-EVENT] Window focused
+info: Jan-31 15:09:03.818 [FOCUS-EVENT] Window blurred
+info: Jan-31 15:09:03.823 [FOCUS-EVENT] Window focused
+info: Jan-31 15:09:05.302 [FOCUS-EVENT] Window blurred
+error: Jan-31 15:09:23.862 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Jan-31 15:10:23.862 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Jan-31 15:11:23.862 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Jan-31 15:12:23.862 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Jan-31 15:13:23.862 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Jan-31 15:14:23.862 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Jan-31 15:15:23.861 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Jan-31 15:16:23.862 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Jan-31 15:17:23.862 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Jan-31 15:18:23.862 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Jan-31 15:19:23.862 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Jan-31 15:20:23.862 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Jan-31 15:21:23.862 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Jan-31 15:22:23.862 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Jan-31 15:23:23.582 [FOCUS-EVENT] Window focused
+info: Jan-31 15:23:23.591 [FOCUS-EVENT] Window blurred
+info: Jan-31 15:23:23.610 [FOCUS-EVENT] Window focused
+error: Jan-31 15:23:23.861 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Jan-31 15:23:26.485 [FOCUS-EVENT] Window blurred
+info: Jan-31 15:23:42.230 [INFO] sleep event!
+info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 3.3.7, linux 4.15.0-39-generic on x64 at 02/02/19, 12:06:34:824      ║
+info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+info: JQMIGRATE: Migrate is installed with logging active, version 3.0.0
+warn: Feb-2 12:06:51.022 error getActiveModelOb found no ob
+warn: Feb-2 12:06:51.023 TS.boot_data.channel_id: undefined
+warn: Feb-2 12:06:51.023 TS.boot_data.im_id: undefined
+warn: Feb-2 12:06:51.023 TS.boot_data.group_id: undefined
+warn: Feb-2 12:06:51.026 error getActiveModelOb found no ob
+warn: Feb-2 12:06:51.026 TS.boot_data.channel_id: undefined
+warn: Feb-2 12:06:51.026 TS.boot_data.im_id: undefined
+warn: Feb-2 12:06:51.026 TS.boot_data.group_id: undefined
+info: Feb-2 12:06:51.857 [BOOT] booted! pri:0 version:1549072384 start_ms:1549109204202 (7654ms ago)
+info: Feb-2 12:06:51.950 [INFO] no TS.client on page:https://reiknigreind2018.slack.com/
+info: Feb-2 12:06:52.792 [FOCUS-EVENT] Window focused
+info: Feb-2 12:06:52.864 [INFO] running without a user
+info: Feb-2 12:06:57.756 [FOCUS-EVENT] Window blurred
+info: Feb-2 12:06:57.763 [UNKNOWN-FETCH-MANAGER] (T00000000) requesting T00000000 (1)
+info: Feb-2 12:06:57.771 [API-Q] (T00000000) 5c724487-1549109217.767 team.info called with reason: UnknownFetchManager
+info: Feb-2 12:06:57.771 [API-Q] (T00000000) 5c724487-1549109217.767 team.info is ENQUEUED
+info: Feb-2 12:06:57.772 [API-Q] (T00000000) 5c724487-1549109217.767 team.info is ACTIVE
+info: Feb-2 12:06:58.175 [API-Q] (T00000000) 5c724487-1549109217.767 team.info is REJECTED: API not ok not_authed
+info: Feb-2 12:06:58.180 [UNKNOWN-FETCH-MANAGER] (T00000000) received T00000000 (1)
+warn: Feb-2 12:06:58.182 (T00000000) UnknownFetchManager requested 1 objects but received 0. Missing objects: T00000000
+info: Feb-2 12:07:01.984 [FOCUS-EVENT] Window focused
+info: Feb-2 12:07:01.995 [FOCUS-EVENT] Window blurred
+info: Feb-2 12:07:01.998 [FOCUS-EVENT] Window focused
+info: Feb-2 12:07:05.313 [FOCUS-EVENT] Window blurred
+info: Feb-2 12:07:08.060 [FOCUS-EVENT] Window focused
+info: Feb-2 12:07:08.068 [FOCUS-EVENT] Window blurred
+info: Feb-2 12:07:08.071 [FOCUS-EVENT] Window focused
+info: Feb-2 12:07:12.603 [FOCUS-EVENT] Window blurred
+info: Feb-2 12:07:12.615 [FOCUS-EVENT] Window focused
+info: Feb-2 12:07:12.734 [FOCUS-EVENT] Window blurred
+info: Feb-2 12:07:33.303 [FOCUS-EVENT] Window focused
+info: Feb-2 12:07:33.304 [FOCUS-EVENT] Window blurred
+info: Feb-2 12:07:33.315 [FOCUS-EVENT] Window focused
+info: Feb-2 12:07:40.455 [FOCUS-EVENT] Window blurred
+error: Feb-2 12:07:42.555 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:08:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:09:42.548 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:10:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:11:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:12:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:13:42.548 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:14:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:15:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:16:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:17:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-2 12:42:29.784 [FOCUS-EVENT] Window focused
+info: Feb-2 12:42:29.790 [FOCUS-EVENT] Window blurred
+info: Feb-2 12:42:29.791 [FOCUS-EVENT] Window focused
+info: Feb-2 12:42:33.669 [FOCUS-EVENT] Window blurred
+error: Feb-2 12:42:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:43:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:44:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:45:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:46:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:47:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:48:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:49:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:50:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:51:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:52:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:53:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:54:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:55:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:56:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:57:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:58:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 12:59:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:00:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:01:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:02:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:03:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:04:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:05:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:06:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:07:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:08:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:09:42.545 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:10:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:11:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:12:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:13:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:14:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:15:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:16:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:17:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:18:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 13:19:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-2 13:28:51.988 [API-Q] (T00000000) Pausing queue because client is offline
+warn: Feb-2 13:28:52.991 Internet connection still offline after 1 attempts (browser says it is still offline)
+warn: Feb-2 13:28:53.991 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Feb-2 13:28:54.992 Internet connection still offline after 3 attempts (browser says it is still offline)
+warn: Feb-2 13:28:55.993 Internet connection still offline after 4 attempts (browser says it is still offline)
+warn: Feb-2 13:28:56.994 Internet connection still offline after 5 attempts (browser says it is still offline)
+warn: Feb-2 13:28:57.995 Internet connection still offline after 6 attempts (browser says it is still offline)
+warn: Feb-2 13:28:58.995 Internet connection still offline after 7 attempts (browser says it is still offline)
+warn: Feb-2 13:28:59.995 Internet connection still offline after 8 attempts (browser says it is still offline)
+warn: Feb-2 13:29:00.996 Internet connection still offline after 9 attempts (browser says it is still offline)
+warn: Feb-2 13:29:02.008 Internet connection still offline after 10 attempts (unable to reach API)
+warn: Feb-2 13:29:03.015 Internet connection still offline after 11 attempts (unable to reach API)
+warn: Feb-2 13:29:04.021 Internet connection still offline after 12 attempts (unable to reach API)
+warn: Feb-2 13:29:05.028 Internet connection still offline after 13 attempts (unable to reach API)
+warn: Feb-2 13:29:06.035 Internet connection still offline after 14 attempts (unable to reach API)
+warn: Feb-2 13:29:07.041 Internet connection still offline after 15 attempts (unable to reach API)
+warn: Feb-2 13:29:08.049 Internet connection still offline after 16 attempts (unable to reach API)
+warn: Feb-2 13:29:10.437 Internet connection still offline after 17 attempts (unable to reach API)
+warn: Feb-2 13:29:38.854 Internet connection still offline after 18 attempts (browser says it is still offline)
+warn: Feb-2 13:29:39.854 Internet connection still offline after 19 attempts (browser says it is still offline)
+warn: Feb-2 13:29:40.856 Internet connection still offline after 20 attempts (browser says it is still offline)
+warn: Feb-2 13:29:41.856 Internet connection still offline after 21 attempts (browser says it is still offline)
+warn: Feb-2 13:29:42.857 Internet connection still offline after 22 attempts (browser says it is still offline)
+warn: Feb-2 13:29:43.857 Internet connection still offline after 23 attempts (browser says it is still offline)
+warn: Feb-2 13:29:44.858 Internet connection still offline after 24 attempts (browser says it is still offline)
+warn: Feb-2 13:29:45.859 Internet connection still offline after 25 attempts (browser says it is still offline)
+warn: Feb-2 13:29:46.859 Internet connection still offline after 26 attempts (browser says it is still offline)
+warn: Feb-2 13:29:47.860 Internet connection still offline after 27 attempts (browser says it is still offline)
+warn: Feb-2 13:29:48.865 Internet connection still offline after 28 attempts (unable to reach API)
+warn: Feb-2 13:29:49.872 Internet connection still offline after 29 attempts (unable to reach API)
+warn: Feb-2 13:29:50.879 Internet connection still offline after 30 attempts (unable to reach API)
+warn: Feb-2 13:29:51.886 Internet connection still offline after 31 attempts (unable to reach API)
+info: Feb-2 13:29:58.777 [INFO] Internet connection has been re-established after 32 retry attempts; offline for NaN seconds
+info: Feb-2 13:29:58.780 [API-Q] (T00000000) Unpausing queue, back online
+info: Feb-2 13:30:32.794 [API-Q] (T00000000) Pausing queue because client is offline
+warn: Feb-2 13:30:51.310 Internet connection still offline after 1 attempts (unable to reach API)
+warn: Feb-2 13:30:52.310 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Feb-2 13:30:54.405 Internet connection still offline after 3 attempts (unable to reach API)
+info: Feb-2 13:31:21.335 [INFO] Internet connection has been re-established after 4 retry attempts; offline for NaN seconds
+info: Feb-2 13:31:21.337 [API-Q] (T00000000) Unpausing queue, back online
+info: Feb-2 13:31:27.341 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-2 13:31:28.825 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-2 13:31:28.828 [API-Q] (T00000000) Unpausing queue, back online
+info: Feb-2 13:34:35.907 [API-Q] (T00000000) Pausing queue because client is offline
+warn: Feb-2 13:34:36.907 Internet connection still offline after 1 attempts (browser says it is still offline)
+warn: Feb-2 13:34:37.909 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Feb-2 13:34:38.910 Internet connection still offline after 3 attempts (browser says it is still offline)
+warn: Feb-2 13:34:39.910 Internet connection still offline after 4 attempts (browser says it is still offline)
+warn: Feb-2 13:34:40.911 Internet connection still offline after 5 attempts (browser says it is still offline)
+warn: Feb-2 13:34:41.911 Internet connection still offline after 6 attempts (browser says it is still offline)
+warn: Feb-2 13:34:42.912 Internet connection still offline after 7 attempts (browser says it is still offline)
+warn: Feb-2 13:34:43.913 Internet connection still offline after 8 attempts (browser says it is still offline)
+warn: Feb-2 13:34:44.913 Internet connection still offline after 9 attempts (browser says it is still offline)
+warn: Feb-2 13:34:45.919 Internet connection still offline after 10 attempts (unable to reach API)
+warn: Feb-2 13:34:46.926 Internet connection still offline after 11 attempts (unable to reach API)
+warn: Feb-2 13:34:47.932 Internet connection still offline after 12 attempts (unable to reach API)
+warn: Feb-2 13:34:48.938 Internet connection still offline after 13 attempts (unable to reach API)
+warn: Feb-2 13:34:49.945 Internet connection still offline after 14 attempts (unable to reach API)
+warn: Feb-2 13:34:50.951 Internet connection still offline after 15 attempts (unable to reach API)
+warn: Feb-2 13:34:51.958 Internet connection still offline after 16 attempts (unable to reach API)
+warn: Feb-2 13:34:52.963 Internet connection still offline after 17 attempts (unable to reach API)
+warn: Feb-2 13:34:53.970 Internet connection still offline after 18 attempts (unable to reach API)
+warn: Feb-2 13:34:54.976 Internet connection still offline after 19 attempts (unable to reach API)
+warn: Feb-2 13:34:55.982 Internet connection still offline after 20 attempts (unable to reach API)
+warn: Feb-2 13:34:56.988 Internet connection still offline after 21 attempts (unable to reach API)
+warn: Feb-2 13:34:57.994 Internet connection still offline after 22 attempts (unable to reach API)
+warn: Feb-2 13:34:59.000 Internet connection still offline after 23 attempts (unable to reach API)
+warn: Feb-2 13:35:00.007 Internet connection still offline after 24 attempts (unable to reach API)
+warn: Feb-2 13:35:01.013 Internet connection still offline after 25 attempts (unable to reach API)
+warn: Feb-2 13:35:02.023 Internet connection still offline after 26 attempts (unable to reach API)
+warn: Feb-2 13:35:03.029 Internet connection still offline after 27 attempts (unable to reach API)
+warn: Feb-2 13:35:04.035 Internet connection still offline after 28 attempts (unable to reach API)
+warn: Feb-2 13:35:05.042 Internet connection still offline after 29 attempts (unable to reach API)
+warn: Feb-2 13:35:06.047 Internet connection still offline after 30 attempts (unable to reach API)
+warn: Feb-2 13:35:07.054 Internet connection still offline after 31 attempts (unable to reach API)
+warn: Feb-2 13:35:08.059 Internet connection still offline after 32 attempts (unable to reach API)
+warn: Feb-2 13:35:09.066 Internet connection still offline after 33 attempts (unable to reach API)
+warn: Feb-2 13:35:10.072 Internet connection still offline after 34 attempts (unable to reach API)
+warn: Feb-2 13:35:11.077 Internet connection still offline after 35 attempts (unable to reach API)
+warn: Feb-2 13:35:12.085 Internet connection still offline after 36 attempts (unable to reach API)
+warn: Feb-2 13:35:13.091 Internet connection still offline after 37 attempts (unable to reach API)
+warn: Feb-2 13:35:14.099 Internet connection still offline after 38 attempts (unable to reach API)
+warn: Feb-2 13:35:15.102 Internet connection still offline after 39 attempts (unable to reach API)
+warn: Feb-2 13:35:16.109 Internet connection still offline after 40 attempts (unable to reach API)
+warn: Feb-2 13:35:17.115 Internet connection still offline after 41 attempts (unable to reach API)
+warn: Feb-2 13:35:18.121 Internet connection still offline after 42 attempts (unable to reach API)
+warn: Feb-2 13:35:19.127 Internet connection still offline after 43 attempts (unable to reach API)
+warn: Feb-2 13:35:20.133 Internet connection still offline after 44 attempts (unable to reach API)
+warn: Feb-2 13:35:21.140 Internet connection still offline after 45 attempts (unable to reach API)
+warn: Feb-2 13:35:22.146 Internet connection still offline after 46 attempts (unable to reach API)
+warn: Feb-2 13:35:23.154 Internet connection still offline after 47 attempts (unable to reach API)
+warn: Feb-2 13:35:24.160 Internet connection still offline after 48 attempts (unable to reach API)
+warn: Feb-2 13:35:25.166 Internet connection still offline after 49 attempts (unable to reach API)
+warn: Feb-2 13:35:26.172 Internet connection still offline after 50 attempts (unable to reach API)
+warn: Feb-2 13:35:27.178 Internet connection still offline after 51 attempts (unable to reach API)
+warn: Feb-2 13:35:28.186 Internet connection still offline after 52 attempts (unable to reach API)
+warn: Feb-2 13:35:29.190 Internet connection still offline after 53 attempts (unable to reach API)
+warn: Feb-2 13:35:30.199 Internet connection still offline after 54 attempts (unable to reach API)
+warn: Feb-2 13:35:31.205 Internet connection still offline after 55 attempts (unable to reach API)
+warn: Feb-2 13:35:32.212 Internet connection still offline after 56 attempts (unable to reach API)
+warn: Feb-2 13:35:33.219 Internet connection still offline after 57 attempts (unable to reach API)
+warn: Feb-2 13:35:34.225 Internet connection still offline after 58 attempts (unable to reach API)
+warn: Feb-2 13:35:35.232 Internet connection still offline after 59 attempts (unable to reach API)
+warn: Feb-2 13:35:36.238 Internet connection still offline after 60 attempts (unable to reach API)
+warn: Feb-2 13:35:37.245 Internet connection still offline after 61 attempts (unable to reach API)
+warn: Feb-2 13:35:38.251 Internet connection still offline after 62 attempts (unable to reach API)
+warn: Feb-2 13:35:39.261 Internet connection still offline after 63 attempts (unable to reach API)
+warn: Feb-2 13:35:40.267 Internet connection still offline after 64 attempts (unable to reach API)
+warn: Feb-2 13:35:41.274 Internet connection still offline after 65 attempts (unable to reach API)
+warn: Feb-2 13:35:42.280 Internet connection still offline after 66 attempts (unable to reach API)
+warn: Feb-2 13:35:43.288 Internet connection still offline after 67 attempts (unable to reach API)
+warn: Feb-2 13:35:44.295 Internet connection still offline after 68 attempts (unable to reach API)
+warn: Feb-2 13:35:45.303 Internet connection still offline after 69 attempts (unable to reach API)
+warn: Feb-2 13:35:46.309 Internet connection still offline after 70 attempts (unable to reach API)
+warn: Feb-2 13:35:47.316 Internet connection still offline after 71 attempts (unable to reach API)
+warn: Feb-2 13:35:48.326 Internet connection still offline after 72 attempts (unable to reach API)
+warn: Feb-2 13:35:49.333 Internet connection still offline after 73 attempts (unable to reach API)
+warn: Feb-2 13:35:50.341 Internet connection still offline after 74 attempts (unable to reach API)
+warn: Feb-2 13:35:51.346 Internet connection still offline after 75 attempts (unable to reach API)
+warn: Feb-2 13:35:52.352 Internet connection still offline after 76 attempts (unable to reach API)
+warn: Feb-2 13:35:53.358 Internet connection still offline after 77 attempts (unable to reach API)
+warn: Feb-2 13:35:54.365 Internet connection still offline after 78 attempts (unable to reach API)
+warn: Feb-2 13:35:55.372 Internet connection still offline after 79 attempts (unable to reach API)
+warn: Feb-2 13:35:56.379 Internet connection still offline after 80 attempts (unable to reach API)
+warn: Feb-2 13:35:57.386 Internet connection still offline after 81 attempts (unable to reach API)
+warn: Feb-2 13:35:58.392 Internet connection still offline after 82 attempts (unable to reach API)
+warn: Feb-2 13:35:59.398 Internet connection still offline after 83 attempts (unable to reach API)
+warn: Feb-2 13:36:00.405 Internet connection still offline after 84 attempts (unable to reach API)
+warn: Feb-2 13:36:01.414 Internet connection still offline after 85 attempts (unable to reach API)
+warn: Feb-2 13:36:02.421 Internet connection still offline after 86 attempts (unable to reach API)
+warn: Feb-2 13:36:03.427 Internet connection still offline after 87 attempts (unable to reach API)
+warn: Feb-2 13:36:04.433 Internet connection still offline after 88 attempts (unable to reach API)
+warn: Feb-2 13:36:05.439 Internet connection still offline after 89 attempts (unable to reach API)
+warn: Feb-2 13:36:06.446 Internet connection still offline after 90 attempts (unable to reach API)
+warn: Feb-2 13:36:07.453 Internet connection still offline after 91 attempts (unable to reach API)
+warn: Feb-2 13:36:08.459 Internet connection still offline after 92 attempts (unable to reach API)
+warn: Feb-2 13:36:09.465 Internet connection still offline after 93 attempts (unable to reach API)
+warn: Feb-2 13:36:10.472 Internet connection still offline after 94 attempts (unable to reach API)
+warn: Feb-2 13:36:11.479 Internet connection still offline after 95 attempts (unable to reach API)
+warn: Feb-2 13:36:12.484 Internet connection still offline after 96 attempts (unable to reach API)
+warn: Feb-2 13:36:13.490 Internet connection still offline after 97 attempts (unable to reach API)
+warn: Feb-2 13:36:14.511 Internet connection still offline after 98 attempts (unable to reach API)
+warn: Feb-2 13:36:15.525 Internet connection still offline after 99 attempts (unable to reach API)
+warn: Feb-2 13:36:16.531 Internet connection still offline after 100 attempts (unable to reach API)
+warn: Feb-2 13:36:17.540 Internet connection still offline after 101 attempts (unable to reach API)
+warn: Feb-2 13:36:18.544 Internet connection still offline after 102 attempts (unable to reach API)
+warn: Feb-2 13:36:19.550 Internet connection still offline after 103 attempts (unable to reach API)
+warn: Feb-2 13:36:20.556 Internet connection still offline after 104 attempts (unable to reach API)
+warn: Feb-2 13:36:21.560 Internet connection still offline after 105 attempts (unable to reach API)
+warn: Feb-2 13:36:22.567 Internet connection still offline after 106 attempts (unable to reach API)
+warn: Feb-2 13:36:23.574 Internet connection still offline after 107 attempts (unable to reach API)
+warn: Feb-2 13:36:24.580 Internet connection still offline after 108 attempts (unable to reach API)
+warn: Feb-2 13:36:25.585 Internet connection still offline after 109 attempts (unable to reach API)
+warn: Feb-2 13:36:26.591 Internet connection still offline after 110 attempts (unable to reach API)
+warn: Feb-2 13:36:27.597 Internet connection still offline after 111 attempts (unable to reach API)
+warn: Feb-2 13:36:28.603 Internet connection still offline after 112 attempts (unable to reach API)
+warn: Feb-2 13:36:29.609 Internet connection still offline after 113 attempts (unable to reach API)
+warn: Feb-2 13:36:30.617 Internet connection still offline after 114 attempts (unable to reach API)
+warn: Feb-2 13:36:31.623 Internet connection still offline after 115 attempts (unable to reach API)
+warn: Feb-2 13:36:32.629 Internet connection still offline after 116 attempts (unable to reach API)
+warn: Feb-2 13:36:33.635 Internet connection still offline after 117 attempts (unable to reach API)
+warn: Feb-2 13:36:34.639 Internet connection still offline after 118 attempts (unable to reach API)
+warn: Feb-2 13:36:35.643 Internet connection still offline after 119 attempts (unable to reach API)
+warn: Feb-2 13:36:36.650 Internet connection still offline after 120 attempts (unable to reach API)
+warn: Feb-2 13:36:37.654 Internet connection still offline after 121 attempts (unable to reach API)
+warn: Feb-2 13:36:38.659 Internet connection still offline after 122 attempts (unable to reach API)
+warn: Feb-2 13:36:39.667 Internet connection still offline after 123 attempts (unable to reach API)
+warn: Feb-2 13:36:40.673 Internet connection still offline after 124 attempts (unable to reach API)
+warn: Feb-2 13:36:41.679 Internet connection still offline after 125 attempts (unable to reach API)
+warn: Feb-2 13:36:42.684 Internet connection still offline after 126 attempts (unable to reach API)
+warn: Feb-2 13:36:43.691 Internet connection still offline after 127 attempts (unable to reach API)
+warn: Feb-2 13:36:44.700 Internet connection still offline after 128 attempts (unable to reach API)
+warn: Feb-2 13:36:45.706 Internet connection still offline after 129 attempts (unable to reach API)
+warn: Feb-2 13:36:46.712 Internet connection still offline after 130 attempts (unable to reach API)
+warn: Feb-2 13:36:47.718 Internet connection still offline after 131 attempts (unable to reach API)
+warn: Feb-2 13:36:48.722 Internet connection still offline after 132 attempts (unable to reach API)
+warn: Feb-2 13:36:49.728 Internet connection still offline after 133 attempts (unable to reach API)
+warn: Feb-2 13:36:50.734 Internet connection still offline after 134 attempts (unable to reach API)
+warn: Feb-2 13:36:51.742 Internet connection still offline after 135 attempts (unable to reach API)
+warn: Feb-2 13:36:52.747 Internet connection still offline after 136 attempts (unable to reach API)
+warn: Feb-2 13:36:53.753 Internet connection still offline after 137 attempts (unable to reach API)
+warn: Feb-2 13:36:54.760 Internet connection still offline after 138 attempts (unable to reach API)
+warn: Feb-2 13:36:55.767 Internet connection still offline after 139 attempts (unable to reach API)
+warn: Feb-2 13:36:56.773 Internet connection still offline after 140 attempts (unable to reach API)
+warn: Feb-2 13:36:57.780 Internet connection still offline after 141 attempts (unable to reach API)
+warn: Feb-2 13:36:58.786 Internet connection still offline after 142 attempts (unable to reach API)
+warn: Feb-2 13:36:59.792 Internet connection still offline after 143 attempts (unable to reach API)
+warn: Feb-2 13:37:00.799 Internet connection still offline after 144 attempts (unable to reach API)
+warn: Feb-2 13:37:01.805 Internet connection still offline after 145 attempts (unable to reach API)
+warn: Feb-2 13:37:02.817 Internet connection still offline after 146 attempts (unable to reach API)
+warn: Feb-2 13:37:03.822 Internet connection still offline after 147 attempts (unable to reach API)
+warn: Feb-2 13:37:04.828 Internet connection still offline after 148 attempts (unable to reach API)
+warn: Feb-2 13:37:05.834 Internet connection still offline after 149 attempts (unable to reach API)
+warn: Feb-2 13:37:06.841 Internet connection still offline after 150 attempts (unable to reach API)
+warn: Feb-2 13:37:07.847 Internet connection still offline after 151 attempts (unable to reach API)
+warn: Feb-2 13:37:08.855 Internet connection still offline after 152 attempts (unable to reach API)
+warn: Feb-2 13:37:09.861 Internet connection still offline after 153 attempts (unable to reach API)
+warn: Feb-2 13:37:10.866 Internet connection still offline after 154 attempts (unable to reach API)
+warn: Feb-2 13:37:11.873 Internet connection still offline after 155 attempts (unable to reach API)
+warn: Feb-2 13:37:12.879 Internet connection still offline after 156 attempts (unable to reach API)
+warn: Feb-2 13:37:13.885 Internet connection still offline after 157 attempts (unable to reach API)
+warn: Feb-2 13:37:14.891 Internet connection still offline after 158 attempts (unable to reach API)
+warn: Feb-2 13:37:15.902 Internet connection still offline after 159 attempts (unable to reach API)
+warn: Feb-2 13:37:16.907 Internet connection still offline after 160 attempts (unable to reach API)
+warn: Feb-2 13:37:17.913 Internet connection still offline after 161 attempts (unable to reach API)
+warn: Feb-2 13:37:18.919 Internet connection still offline after 162 attempts (unable to reach API)
+warn: Feb-2 13:37:19.925 Internet connection still offline after 163 attempts (unable to reach API)
+warn: Feb-2 13:37:20.931 Internet connection still offline after 164 attempts (unable to reach API)
+warn: Feb-2 13:37:21.938 Internet connection still offline after 165 attempts (unable to reach API)
+warn: Feb-2 13:37:22.945 Internet connection still offline after 166 attempts (unable to reach API)
+warn: Feb-2 13:37:23.952 Internet connection still offline after 167 attempts (unable to reach API)
+warn: Feb-2 13:37:24.959 Internet connection still offline after 168 attempts (unable to reach API)
+warn: Feb-2 13:37:25.965 Internet connection still offline after 169 attempts (unable to reach API)
+warn: Feb-2 13:37:26.972 Internet connection still offline after 170 attempts (unable to reach API)
+warn: Feb-2 13:37:27.979 Internet connection still offline after 171 attempts (unable to reach API)
+warn: Feb-2 13:37:28.984 Internet connection still offline after 172 attempts (unable to reach API)
+warn: Feb-2 13:37:29.989 Internet connection still offline after 173 attempts (unable to reach API)
+warn: Feb-2 13:37:30.995 Internet connection still offline after 174 attempts (unable to reach API)
+warn: Feb-2 13:37:32.002 Internet connection still offline after 175 attempts (unable to reach API)
+warn: Feb-2 13:37:33.008 Internet connection still offline after 176 attempts (unable to reach API)
+warn: Feb-2 13:37:34.015 Internet connection still offline after 177 attempts (unable to reach API)
+warn: Feb-2 13:37:35.022 Internet connection still offline after 178 attempts (unable to reach API)
+warn: Feb-2 13:37:36.028 Internet connection still offline after 179 attempts (unable to reach API)
+warn: Feb-2 13:37:37.034 Internet connection still offline after 180 attempts (unable to reach API)
+warn: Feb-2 13:37:38.039 Internet connection still offline after 181 attempts (unable to reach API)
+warn: Feb-2 13:37:39.047 Internet connection still offline after 182 attempts (unable to reach API)
+warn: Feb-2 13:37:40.052 Internet connection still offline after 183 attempts (unable to reach API)
+warn: Feb-2 13:37:41.062 Internet connection still offline after 184 attempts (unable to reach API)
+warn: Feb-2 13:37:42.067 Internet connection still offline after 185 attempts (unable to reach API)
+warn: Feb-2 13:37:43.074 Internet connection still offline after 186 attempts (unable to reach API)
+warn: Feb-2 13:37:44.080 Internet connection still offline after 187 attempts (unable to reach API)
+warn: Feb-2 13:37:45.087 Internet connection still offline after 188 attempts (unable to reach API)
+warn: Feb-2 13:37:46.094 Internet connection still offline after 189 attempts (unable to reach API)
+warn: Feb-2 13:37:47.099 Internet connection still offline after 190 attempts (unable to reach API)
+warn: Feb-2 13:37:48.106 Internet connection still offline after 191 attempts (unable to reach API)
+warn: Feb-2 13:37:49.112 Internet connection still offline after 192 attempts (unable to reach API)
+warn: Feb-2 13:37:50.118 Internet connection still offline after 193 attempts (unable to reach API)
+warn: Feb-2 13:37:51.124 Internet connection still offline after 194 attempts (unable to reach API)
+warn: Feb-2 13:37:52.131 Internet connection still offline after 195 attempts (unable to reach API)
+warn: Feb-2 13:37:53.137 Internet connection still offline after 196 attempts (unable to reach API)
+warn: Feb-2 13:37:54.144 Internet connection still offline after 197 attempts (unable to reach API)
+warn: Feb-2 13:37:55.150 Internet connection still offline after 198 attempts (unable to reach API)
+warn: Feb-2 13:37:56.155 Internet connection still offline after 199 attempts (unable to reach API)
+warn: Feb-2 13:37:57.162 Internet connection still offline after 200 attempts (unable to reach API)
+warn: Feb-2 13:37:58.168 Internet connection still offline after 201 attempts (unable to reach API)
+warn: Feb-2 13:37:59.175 Internet connection still offline after 202 attempts (unable to reach API)
+warn: Feb-2 13:38:00.182 Internet connection still offline after 203 attempts (unable to reach API)
+warn: Feb-2 13:38:01.188 Internet connection still offline after 204 attempts (unable to reach API)
+warn: Feb-2 13:38:02.195 Internet connection still offline after 205 attempts (unable to reach API)
+warn: Feb-2 13:38:03.201 Internet connection still offline after 206 attempts (unable to reach API)
+warn: Feb-2 13:38:04.220 Internet connection still offline after 207 attempts (unable to reach API)
+warn: Feb-2 13:38:05.227 Internet connection still offline after 208 attempts (unable to reach API)
+warn: Feb-2 13:38:06.235 Internet connection still offline after 209 attempts (unable to reach API)
+warn: Feb-2 13:38:07.240 Internet connection still offline after 210 attempts (unable to reach API)
+warn: Feb-2 13:38:08.250 Internet connection still offline after 211 attempts (unable to reach API)
+warn: Feb-2 13:38:09.988 Internet connection still offline after 212 attempts (unable to reach API)
+warn: Feb-2 13:38:56.529 Internet connection still offline after 213 attempts (unable to reach API)
+warn: Feb-2 13:39:29.348 Internet connection still offline after 214 attempts (browser says it is still offline)
+warn: Feb-2 13:39:30.348 Internet connection still offline after 215 attempts (browser says it is still offline)
+warn: Feb-2 13:39:31.349 Internet connection still offline after 216 attempts (browser says it is still offline)
+warn: Feb-2 13:39:32.350 Internet connection still offline after 217 attempts (browser says it is still offline)
+warn: Feb-2 13:39:33.350 Internet connection still offline after 218 attempts (browser says it is still offline)
+warn: Feb-2 13:39:34.351 Internet connection still offline after 219 attempts (browser says it is still offline)
+warn: Feb-2 13:39:35.351 Internet connection still offline after 220 attempts (browser says it is still offline)
+warn: Feb-2 13:39:36.352 Internet connection still offline after 221 attempts (browser says it is still offline)
+warn: Feb-2 13:39:37.358 Internet connection still offline after 222 attempts (unable to reach API)
+warn: Feb-2 13:39:38.365 Internet connection still offline after 223 attempts (unable to reach API)
+warn: Feb-2 13:39:39.371 Internet connection still offline after 224 attempts (unable to reach API)
+warn: Feb-2 13:39:40.378 Internet connection still offline after 225 attempts (unable to reach API)
+warn: Feb-2 13:39:41.382 Internet connection still offline after 226 attempts (unable to reach API)
+warn: Feb-2 13:39:42.385 Internet connection still offline after 227 attempts (unable to reach API)
+warn: Feb-2 13:39:43.391 Internet connection still offline after 228 attempts (unable to reach API)
+warn: Feb-2 13:39:44.398 Internet connection still offline after 229 attempts (unable to reach API)
+warn: Feb-2 13:39:45.927 Internet connection still offline after 230 attempts (unable to reach API)
+info: Feb-2 13:40:16.893 [INFO] Internet connection has been re-established after 231 retry attempts; offline for NaN seconds
+info: Feb-2 13:40:16.895 [API-Q] (T00000000) Unpausing queue, back online
+info: Feb-2 14:04:45.500 [API-Q] (T00000000) Pausing queue because client is offline
+warn: Feb-2 14:04:46.502 Internet connection still offline after 1 attempts (browser says it is still offline)
+warn: Feb-2 14:04:47.502 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Feb-2 14:04:48.502 Internet connection still offline after 3 attempts (browser says it is still offline)
+warn: Feb-2 14:04:49.504 Internet connection still offline after 4 attempts (browser says it is still offline)
+warn: Feb-2 14:04:50.504 Internet connection still offline after 5 attempts (browser says it is still offline)
+warn: Feb-2 14:04:51.505 Internet connection still offline after 6 attempts (browser says it is still offline)
+warn: Feb-2 14:04:52.506 Internet connection still offline after 7 attempts (browser says it is still offline)
+warn: Feb-2 14:04:53.506 Internet connection still offline after 8 attempts (browser says it is still offline)
+warn: Feb-2 14:04:54.507 Internet connection still offline after 9 attempts (browser says it is still offline)
+warn: Feb-2 14:04:55.514 Internet connection still offline after 10 attempts (unable to reach API)
+warn: Feb-2 14:04:56.521 Internet connection still offline after 11 attempts (unable to reach API)
+warn: Feb-2 14:04:57.528 Internet connection still offline after 12 attempts (unable to reach API)
+warn: Feb-2 14:04:58.533 Internet connection still offline after 13 attempts (unable to reach API)
+warn: Feb-2 14:04:59.539 Internet connection still offline after 14 attempts (unable to reach API)
+warn: Feb-2 14:05:00.545 Internet connection still offline after 15 attempts (unable to reach API)
+warn: Feb-2 14:05:01.553 Internet connection still offline after 16 attempts (unable to reach API)
+warn: Feb-2 14:05:02.561 Internet connection still offline after 17 attempts (unable to reach API)
+warn: Feb-2 14:05:03.567 Internet connection still offline after 18 attempts (unable to reach API)
+warn: Feb-2 14:05:04.573 Internet connection still offline after 19 attempts (unable to reach API)
+warn: Feb-2 14:05:05.578 Internet connection still offline after 20 attempts (unable to reach API)
+warn: Feb-2 14:05:06.585 Internet connection still offline after 21 attempts (unable to reach API)
+warn: Feb-2 14:05:07.591 Internet connection still offline after 22 attempts (unable to reach API)
+warn: Feb-2 14:05:08.597 Internet connection still offline after 23 attempts (unable to reach API)
+warn: Feb-2 14:05:09.605 Internet connection still offline after 24 attempts (unable to reach API)
+warn: Feb-2 14:05:10.612 Internet connection still offline after 25 attempts (unable to reach API)
+warn: Feb-2 14:05:11.619 Internet connection still offline after 26 attempts (unable to reach API)
+warn: Feb-2 14:05:12.628 Internet connection still offline after 27 attempts (unable to reach API)
+warn: Feb-2 14:05:13.634 Internet connection still offline after 28 attempts (unable to reach API)
+warn: Feb-2 14:05:14.640 Internet connection still offline after 29 attempts (unable to reach API)
+warn: Feb-2 14:05:15.648 Internet connection still offline after 30 attempts (unable to reach API)
+warn: Feb-2 14:05:16.654 Internet connection still offline after 31 attempts (unable to reach API)
+warn: Feb-2 14:05:17.660 Internet connection still offline after 32 attempts (unable to reach API)
+warn: Feb-2 14:05:18.667 Internet connection still offline after 33 attempts (unable to reach API)
+warn: Feb-2 14:05:19.675 Internet connection still offline after 34 attempts (unable to reach API)
+warn: Feb-2 14:05:20.682 Internet connection still offline after 35 attempts (unable to reach API)
+warn: Feb-2 14:05:21.687 Internet connection still offline after 36 attempts (unable to reach API)
+warn: Feb-2 14:05:22.693 Internet connection still offline after 37 attempts (unable to reach API)
+warn: Feb-2 14:05:23.700 Internet connection still offline after 38 attempts (unable to reach API)
+warn: Feb-2 14:05:24.705 Internet connection still offline after 39 attempts (unable to reach API)
+warn: Feb-2 14:05:25.712 Internet connection still offline after 40 attempts (unable to reach API)
+warn: Feb-2 14:05:26.718 Internet connection still offline after 41 attempts (unable to reach API)
+warn: Feb-2 14:05:27.723 Internet connection still offline after 42 attempts (unable to reach API)
+warn: Feb-2 14:05:28.730 Internet connection still offline after 43 attempts (unable to reach API)
+warn: Feb-2 14:05:29.737 Internet connection still offline after 44 attempts (unable to reach API)
+warn: Feb-2 14:05:30.742 Internet connection still offline after 45 attempts (unable to reach API)
+warn: Feb-2 14:05:31.749 Internet connection still offline after 46 attempts (unable to reach API)
+warn: Feb-2 14:05:32.755 Internet connection still offline after 47 attempts (unable to reach API)
+warn: Feb-2 14:05:33.762 Internet connection still offline after 48 attempts (unable to reach API)
+warn: Feb-2 14:05:34.768 Internet connection still offline after 49 attempts (unable to reach API)
+warn: Feb-2 14:05:35.774 Internet connection still offline after 50 attempts (unable to reach API)
+warn: Feb-2 14:05:36.782 Internet connection still offline after 51 attempts (unable to reach API)
+warn: Feb-2 14:05:37.788 Internet connection still offline after 52 attempts (unable to reach API)
+warn: Feb-2 14:05:38.793 Internet connection still offline after 53 attempts (unable to reach API)
+warn: Feb-2 14:05:39.801 Internet connection still offline after 54 attempts (unable to reach API)
+warn: Feb-2 14:05:40.808 Internet connection still offline after 55 attempts (unable to reach API)
+warn: Feb-2 14:05:41.816 Internet connection still offline after 56 attempts (unable to reach API)
+warn: Feb-2 14:05:42.822 Internet connection still offline after 57 attempts (unable to reach API)
+warn: Feb-2 14:05:43.828 Internet connection still offline after 58 attempts (unable to reach API)
+warn: Feb-2 14:05:44.834 Internet connection still offline after 59 attempts (unable to reach API)
+warn: Feb-2 14:05:45.841 Internet connection still offline after 60 attempts (unable to reach API)
+warn: Feb-2 14:05:46.848 Internet connection still offline after 61 attempts (unable to reach API)
+warn: Feb-2 14:05:47.854 Internet connection still offline after 62 attempts (unable to reach API)
+warn: Feb-2 14:05:48.860 Internet connection still offline after 63 attempts (unable to reach API)
+warn: Feb-2 14:05:49.866 Internet connection still offline after 64 attempts (unable to reach API)
+warn: Feb-2 14:05:50.873 Internet connection still offline after 65 attempts (unable to reach API)
+warn: Feb-2 14:05:51.880 Internet connection still offline after 66 attempts (unable to reach API)
+warn: Feb-2 14:05:52.887 Internet connection still offline after 67 attempts (unable to reach API)
+warn: Feb-2 14:05:53.892 Internet connection still offline after 68 attempts (unable to reach API)
+warn: Feb-2 14:05:54.898 Internet connection still offline after 69 attempts (unable to reach API)
+warn: Feb-2 14:05:55.905 Internet connection still offline after 70 attempts (unable to reach API)
+warn: Feb-2 14:05:56.911 Internet connection still offline after 71 attempts (unable to reach API)
+warn: Feb-2 14:05:57.917 Internet connection still offline after 72 attempts (unable to reach API)
+warn: Feb-2 14:05:58.926 Internet connection still offline after 73 attempts (unable to reach API)
+warn: Feb-2 14:05:59.933 Internet connection still offline after 74 attempts (unable to reach API)
+warn: Feb-2 14:06:00.940 Internet connection still offline after 75 attempts (unable to reach API)
+warn: Feb-2 14:06:01.947 Internet connection still offline after 76 attempts (unable to reach API)
+warn: Feb-2 14:06:02.953 Internet connection still offline after 77 attempts (unable to reach API)
+warn: Feb-2 14:06:03.959 Internet connection still offline after 78 attempts (unable to reach API)
+warn: Feb-2 14:06:04.967 Internet connection still offline after 79 attempts (unable to reach API)
+warn: Feb-2 14:06:05.973 Internet connection still offline after 80 attempts (unable to reach API)
+warn: Feb-2 14:06:06.978 Internet connection still offline after 81 attempts (unable to reach API)
+warn: Feb-2 14:06:07.984 Internet connection still offline after 82 attempts (unable to reach API)
+warn: Feb-2 14:06:08.991 Internet connection still offline after 83 attempts (unable to reach API)
+warn: Feb-2 14:06:09.998 Internet connection still offline after 84 attempts (unable to reach API)
+warn: Feb-2 14:06:11.007 Internet connection still offline after 85 attempts (unable to reach API)
+warn: Feb-2 14:06:12.013 Internet connection still offline after 86 attempts (unable to reach API)
+warn: Feb-2 14:06:13.019 Internet connection still offline after 87 attempts (unable to reach API)
+warn: Feb-2 14:06:14.025 Internet connection still offline after 88 attempts (unable to reach API)
+warn: Feb-2 14:06:15.030 Internet connection still offline after 89 attempts (unable to reach API)
+warn: Feb-2 14:06:16.037 Internet connection still offline after 90 attempts (unable to reach API)
+warn: Feb-2 14:06:17.044 Internet connection still offline after 91 attempts (unable to reach API)
+warn: Feb-2 14:06:18.051 Internet connection still offline after 92 attempts (unable to reach API)
+warn: Feb-2 14:06:19.057 Internet connection still offline after 93 attempts (unable to reach API)
+warn: Feb-2 14:06:20.076 Internet connection still offline after 94 attempts (unable to reach API)
+warn: Feb-2 14:06:21.083 Internet connection still offline after 95 attempts (unable to reach API)
+warn: Feb-2 14:06:22.981 Internet connection still offline after 96 attempts (unable to reach API)
+info: Feb-2 14:06:51.616 [INFO] Internet connection has been re-established after 97 retry attempts; offline for NaN seconds
+info: Feb-2 14:06:51.619 [API-Q] (T00000000) Unpausing queue, back online
+info: Feb-2 14:10:34.714 [API-Q] (T00000000) Pausing queue because client is offline
+warn: Feb-2 14:10:35.715 Internet connection still offline after 1 attempts (browser says it is still offline)
+warn: Feb-2 14:10:36.716 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Feb-2 14:10:37.716 Internet connection still offline after 3 attempts (browser says it is still offline)
+warn: Feb-2 14:10:38.717 Internet connection still offline after 4 attempts (browser says it is still offline)
+warn: Feb-2 14:10:39.718 Internet connection still offline after 5 attempts (browser says it is still offline)
+warn: Feb-2 14:10:40.719 Internet connection still offline after 6 attempts (browser says it is still offline)
+warn: Feb-2 14:10:41.719 Internet connection still offline after 7 attempts (browser says it is still offline)
+warn: Feb-2 14:10:42.721 Internet connection still offline after 8 attempts (browser says it is still offline)
+warn: Feb-2 14:10:43.721 Internet connection still offline after 9 attempts (browser says it is still offline)
+warn: Feb-2 14:10:44.729 Internet connection still offline after 10 attempts (unable to reach API)
+warn: Feb-2 14:10:45.735 Internet connection still offline after 11 attempts (unable to reach API)
+warn: Feb-2 14:10:46.742 Internet connection still offline after 12 attempts (unable to reach API)
+warn: Feb-2 14:10:47.748 Internet connection still offline after 13 attempts (unable to reach API)
+warn: Feb-2 14:10:48.755 Internet connection still offline after 14 attempts (unable to reach API)
+info: Feb-2 14:10:50.456 [INFO] Internet connection has been re-established after 15 retry attempts; offline for NaN seconds
+info: Feb-2 14:10:50.458 [API-Q] (T00000000) Unpausing queue, back online
+info: Feb-2 14:11:56.486 [API-Q] (T00000000) Pausing queue because client is offline
+warn: Feb-2 14:11:57.487 Internet connection still offline after 1 attempts (browser says it is still offline)
+warn: Feb-2 14:11:58.488 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Feb-2 14:11:59.489 Internet connection still offline after 3 attempts (browser says it is still offline)
+warn: Feb-2 14:12:00.489 Internet connection still offline after 4 attempts (browser says it is still offline)
+warn: Feb-2 14:12:01.490 Internet connection still offline after 5 attempts (browser says it is still offline)
+warn: Feb-2 14:12:02.491 Internet connection still offline after 6 attempts (browser says it is still offline)
+warn: Feb-2 14:12:03.491 Internet connection still offline after 7 attempts (browser says it is still offline)
+warn: Feb-2 14:12:04.492 Internet connection still offline after 8 attempts (browser says it is still offline)
+warn: Feb-2 14:12:05.493 Internet connection still offline after 9 attempts (browser says it is still offline)
+info: Feb-2 14:12:10.736 [INFO] Internet connection has been re-established after 10 retry attempts; offline for NaN seconds
+info: Feb-2 14:12:10.741 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-2 14:17:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:18:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:19:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:20:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:21:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:22:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:23:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:24:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:25:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:26:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:27:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:28:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:29:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:30:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:31:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:32:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:33:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:34:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:35:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:36:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:37:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:38:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:39:42.548 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:40:42.548 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 14:41:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-2 14:49:10.571 [API-Q] (T00000000) Pausing queue because client is offline
+warn: Feb-2 14:49:11.571 Internet connection still offline after 1 attempts (browser says it is still offline)
+warn: Feb-2 14:49:12.572 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Feb-2 14:49:13.573 Internet connection still offline after 3 attempts (browser says it is still offline)
+warn: Feb-2 14:49:14.574 Internet connection still offline after 4 attempts (browser says it is still offline)
+warn: Feb-2 14:49:15.574 Internet connection still offline after 5 attempts (browser says it is still offline)
+warn: Feb-2 14:49:16.575 Internet connection still offline after 6 attempts (browser says it is still offline)
+warn: Feb-2 14:49:17.576 Internet connection still offline after 7 attempts (browser says it is still offline)
+warn: Feb-2 14:49:18.576 Internet connection still offline after 8 attempts (browser says it is still offline)
+warn: Feb-2 14:49:19.578 Internet connection still offline after 9 attempts (browser says it is still offline)
+warn: Feb-2 14:49:20.584 Internet connection still offline after 10 attempts (unable to reach API)
+warn: Feb-2 14:49:21.592 Internet connection still offline after 11 attempts (unable to reach API)
+warn: Feb-2 14:49:22.598 Internet connection still offline after 12 attempts (unable to reach API)
+warn: Feb-2 14:49:23.604 Internet connection still offline after 13 attempts (unable to reach API)
+warn: Feb-2 14:49:24.611 Internet connection still offline after 14 attempts (unable to reach API)
+warn: Feb-2 14:49:25.616 Internet connection still offline after 15 attempts (unable to reach API)
+warn: Feb-2 14:49:26.621 Internet connection still offline after 16 attempts (unable to reach API)
+warn: Feb-2 14:49:27.628 Internet connection still offline after 17 attempts (unable to reach API)
+warn: Feb-2 14:49:28.632 Internet connection still offline after 18 attempts (unable to reach API)
+warn: Feb-2 14:49:29.638 Internet connection still offline after 19 attempts (unable to reach API)
+warn: Feb-2 14:49:30.644 Internet connection still offline after 20 attempts (unable to reach API)
+warn: Feb-2 14:49:31.650 Internet connection still offline after 21 attempts (unable to reach API)
+warn: Feb-2 14:49:32.654 Internet connection still offline after 22 attempts (unable to reach API)
+warn: Feb-2 14:49:33.661 Internet connection still offline after 23 attempts (unable to reach API)
+warn: Feb-2 14:49:34.667 Internet connection still offline after 24 attempts (unable to reach API)
+warn: Feb-2 14:49:35.673 Internet connection still offline after 25 attempts (unable to reach API)
+warn: Feb-2 14:49:36.680 Internet connection still offline after 26 attempts (unable to reach API)
+warn: Feb-2 14:49:37.686 Internet connection still offline after 27 attempts (unable to reach API)
+warn: Feb-2 14:49:38.695 Internet connection still offline after 28 attempts (unable to reach API)
+warn: Feb-2 14:49:39.701 Internet connection still offline after 29 attempts (unable to reach API)
+warn: Feb-2 14:49:40.708 Internet connection still offline after 30 attempts (unable to reach API)
+warn: Feb-2 14:49:41.714 Internet connection still offline after 31 attempts (unable to reach API)
+warn: Feb-2 14:49:42.720 Internet connection still offline after 32 attempts (unable to reach API)
+warn: Feb-2 14:49:43.726 Internet connection still offline after 33 attempts (unable to reach API)
+warn: Feb-2 14:49:44.732 Internet connection still offline after 34 attempts (unable to reach API)
+warn: Feb-2 14:49:45.739 Internet connection still offline after 35 attempts (unable to reach API)
+warn: Feb-2 14:49:46.745 Internet connection still offline after 36 attempts (unable to reach API)
+warn: Feb-2 14:49:47.752 Internet connection still offline after 37 attempts (unable to reach API)
+warn: Feb-2 14:49:48.757 Internet connection still offline after 38 attempts (unable to reach API)
+warn: Feb-2 14:49:49.763 Internet connection still offline after 39 attempts (unable to reach API)
+warn: Feb-2 14:49:50.769 Internet connection still offline after 40 attempts (unable to reach API)
+warn: Feb-2 14:49:51.776 Internet connection still offline after 41 attempts (unable to reach API)
+warn: Feb-2 14:49:52.781 Internet connection still offline after 42 attempts (unable to reach API)
+warn: Feb-2 14:49:53.788 Internet connection still offline after 43 attempts (unable to reach API)
+warn: Feb-2 14:49:54.793 Internet connection still offline after 44 attempts (unable to reach API)
+warn: Feb-2 14:49:55.800 Internet connection still offline after 45 attempts (unable to reach API)
+warn: Feb-2 14:49:56.806 Internet connection still offline after 46 attempts (unable to reach API)
+warn: Feb-2 14:49:57.812 Internet connection still offline after 47 attempts (unable to reach API)
+warn: Feb-2 14:49:58.819 Internet connection still offline after 48 attempts (unable to reach API)
+warn: Feb-2 14:49:59.826 Internet connection still offline after 49 attempts (unable to reach API)
+warn: Feb-2 14:50:00.832 Internet connection still offline after 50 attempts (unable to reach API)
+warn: Feb-2 14:50:01.851 Internet connection still offline after 51 attempts (unable to reach API)
+warn: Feb-2 14:50:02.856 Internet connection still offline after 52 attempts (unable to reach API)
+warn: Feb-2 14:50:03.863 Internet connection still offline after 53 attempts (unable to reach API)
+warn: Feb-2 14:50:04.869 Internet connection still offline after 54 attempts (unable to reach API)
+warn: Feb-2 14:50:05.874 Internet connection still offline after 55 attempts (unable to reach API)
+warn: Feb-2 14:50:06.880 Internet connection still offline after 56 attempts (unable to reach API)
+warn: Feb-2 14:50:07.886 Internet connection still offline after 57 attempts (unable to reach API)
+warn: Feb-2 14:50:08.892 Internet connection still offline after 58 attempts (unable to reach API)
+warn: Feb-2 14:50:09.899 Internet connection still offline after 59 attempts (unable to reach API)
+warn: Feb-2 14:50:10.904 Internet connection still offline after 60 attempts (unable to reach API)
+warn: Feb-2 14:50:11.910 Internet connection still offline after 61 attempts (unable to reach API)
+info: Feb-2 14:50:43.993 [INFO] Internet connection has been re-established after 62 retry attempts; offline for NaN seconds
+info: Feb-2 14:50:43.995 [API-Q] (T00000000) Unpausing queue, back online
+info: Feb-2 14:53:52.071 [API-Q] (T00000000) Pausing queue because client is offline
+warn: Feb-2 14:53:55.592 Internet connection still offline after 1 attempts (unable to reach API)
+warn: Feb-2 14:53:56.593 Internet connection still offline after 2 attempts (browser says it is still offline)
+info: Feb-2 14:54:03.152 [INFO] Internet connection has been re-established after 3 retry attempts; offline for NaN seconds
+info: Feb-2 14:54:03.154 [API-Q] (T00000000) Unpausing queue, back online
+info: Feb-2 14:54:58.178 [API-Q] (T00000000) Pausing queue because client is offline
+warn: Feb-2 14:54:59.179 Internet connection still offline after 1 attempts (browser says it is still offline)
+warn: Feb-2 14:55:00.180 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Feb-2 14:55:01.181 Internet connection still offline after 3 attempts (browser says it is still offline)
+warn: Feb-2 14:55:02.182 Internet connection still offline after 4 attempts (browser says it is still offline)
+warn: Feb-2 14:55:03.181 Internet connection still offline after 5 attempts (browser says it is still offline)
+warn: Feb-2 14:55:04.183 Internet connection still offline after 6 attempts (browser says it is still offline)
+warn: Feb-2 14:55:05.183 Internet connection still offline after 7 attempts (browser says it is still offline)
+warn: Feb-2 14:55:06.184 Internet connection still offline after 8 attempts (browser says it is still offline)
+warn: Feb-2 14:55:07.185 Internet connection still offline after 9 attempts (browser says it is still offline)
+warn: Feb-2 14:55:13.310 Internet connection still offline after 10 attempts (unable to reach API)
+warn: Feb-2 14:55:14.314 Internet connection still offline after 11 attempts (unable to reach API)
+warn: Feb-2 14:55:15.321 Internet connection still offline after 12 attempts (unable to reach API)
+warn: Feb-2 14:55:16.328 Internet connection still offline after 13 attempts (unable to reach API)
+warn: Feb-2 14:55:17.336 Internet connection still offline after 14 attempts (unable to reach API)
+warn: Feb-2 14:55:18.340 Internet connection still offline after 15 attempts (unable to reach API)
+warn: Feb-2 14:55:19.347 Internet connection still offline after 16 attempts (unable to reach API)
+warn: Feb-2 14:55:20.354 Internet connection still offline after 17 attempts (unable to reach API)
+warn: Feb-2 14:55:21.361 Internet connection still offline after 18 attempts (unable to reach API)
+warn: Feb-2 14:55:22.367 Internet connection still offline after 19 attempts (unable to reach API)
+warn: Feb-2 14:55:23.375 Internet connection still offline after 20 attempts (unable to reach API)
+warn: Feb-2 14:55:24.381 Internet connection still offline after 21 attempts (unable to reach API)
+warn: Feb-2 14:55:25.388 Internet connection still offline after 22 attempts (unable to reach API)
+warn: Feb-2 14:55:26.394 Internet connection still offline after 23 attempts (unable to reach API)
+warn: Feb-2 14:55:27.405 Internet connection still offline after 24 attempts (unable to reach API)
+warn: Feb-2 14:55:28.411 Internet connection still offline after 25 attempts (unable to reach API)
+warn: Feb-2 14:55:29.417 Internet connection still offline after 26 attempts (unable to reach API)
+warn: Feb-2 14:55:30.423 Internet connection still offline after 27 attempts (unable to reach API)
+warn: Feb-2 14:55:31.429 Internet connection still offline after 28 attempts (unable to reach API)
+warn: Feb-2 14:55:32.436 Internet connection still offline after 29 attempts (unable to reach API)
+warn: Feb-2 14:55:33.444 Internet connection still offline after 30 attempts (unable to reach API)
+warn: Feb-2 14:55:34.450 Internet connection still offline after 31 attempts (unable to reach API)
+warn: Feb-2 14:55:35.456 Internet connection still offline after 32 attempts (unable to reach API)
+warn: Feb-2 14:55:36.463 Internet connection still offline after 33 attempts (unable to reach API)
+warn: Feb-2 14:55:37.468 Internet connection still offline after 34 attempts (unable to reach API)
+warn: Feb-2 14:55:38.475 Internet connection still offline after 35 attempts (unable to reach API)
+warn: Feb-2 14:55:39.479 Internet connection still offline after 36 attempts (unable to reach API)
+warn: Feb-2 14:55:40.485 Internet connection still offline after 37 attempts (unable to reach API)
+warn: Feb-2 14:55:41.491 Internet connection still offline after 38 attempts (unable to reach API)
+warn: Feb-2 14:55:42.497 Internet connection still offline after 39 attempts (unable to reach API)
+warn: Feb-2 14:55:43.505 Internet connection still offline after 40 attempts (unable to reach API)
+warn: Feb-2 14:55:44.511 Internet connection still offline after 41 attempts (unable to reach API)
+warn: Feb-2 14:55:45.518 Internet connection still offline after 42 attempts (unable to reach API)
+warn: Feb-2 14:55:46.523 Internet connection still offline after 43 attempts (unable to reach API)
+warn: Feb-2 14:55:47.529 Internet connection still offline after 44 attempts (unable to reach API)
+warn: Feb-2 14:55:48.535 Internet connection still offline after 45 attempts (unable to reach API)
+warn: Feb-2 14:55:49.542 Internet connection still offline after 46 attempts (unable to reach API)
+warn: Feb-2 14:55:50.548 Internet connection still offline after 47 attempts (unable to reach API)
+warn: Feb-2 14:55:51.558 Internet connection still offline after 48 attempts (unable to reach API)
+warn: Feb-2 14:55:52.564 Internet connection still offline after 49 attempts (unable to reach API)
+warn: Feb-2 14:55:53.570 Internet connection still offline after 50 attempts (unable to reach API)
+warn: Feb-2 14:55:54.577 Internet connection still offline after 51 attempts (unable to reach API)
+warn: Feb-2 14:55:55.583 Internet connection still offline after 52 attempts (unable to reach API)
+warn: Feb-2 14:55:56.590 Internet connection still offline after 53 attempts (unable to reach API)
+warn: Feb-2 14:55:57.595 Internet connection still offline after 54 attempts (unable to reach API)
+warn: Feb-2 14:55:58.602 Internet connection still offline after 55 attempts (unable to reach API)
+warn: Feb-2 14:55:59.608 Internet connection still offline after 56 attempts (unable to reach API)
+warn: Feb-2 14:56:00.614 Internet connection still offline after 57 attempts (unable to reach API)
+warn: Feb-2 14:56:01.618 Internet connection still offline after 58 attempts (unable to reach API)
+warn: Feb-2 14:56:02.625 Internet connection still offline after 59 attempts (unable to reach API)
+warn: Feb-2 14:56:03.643 Internet connection still offline after 60 attempts (unable to reach API)
+warn: Feb-2 14:56:04.650 Internet connection still offline after 61 attempts (unable to reach API)
+warn: Feb-2 14:56:05.656 Internet connection still offline after 62 attempts (unable to reach API)
+warn: Feb-2 14:56:06.663 Internet connection still offline after 63 attempts (unable to reach API)
+warn: Feb-2 14:56:07.670 Internet connection still offline after 64 attempts (unable to reach API)
+warn: Feb-2 14:56:08.682 Internet connection still offline after 65 attempts (unable to reach API)
+warn: Feb-2 14:56:09.687 Internet connection still offline after 66 attempts (unable to reach API)
+warn: Feb-2 14:56:10.695 Internet connection still offline after 67 attempts (unable to reach API)
+warn: Feb-2 14:56:12.965 Internet connection still offline after 68 attempts (unable to reach API)
+info: Feb-2 14:56:43.587 [INFO] Internet connection has been re-established after 69 retry attempts; offline for NaN seconds
+info: Feb-2 14:56:43.590 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-2 15:05:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:06:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:07:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:08:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:09:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:10:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:11:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:12:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:13:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:14:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:15:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:16:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:17:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:18:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:19:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:20:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:21:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:22:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:23:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:24:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:25:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:26:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:27:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:28:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:29:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:30:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:31:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:32:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:33:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:34:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:35:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:36:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:37:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:38:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:39:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:40:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:41:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:42:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:43:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:44:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:45:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:46:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:47:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:51:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:52:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:53:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:54:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:55:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:56:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:57:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:58:42.548 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 15:59:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 16:00:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 16:01:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 16:02:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 16:03:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 16:04:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 16:05:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 16:06:42.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 16:07:42.547 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-2 16:08:37.861 [INFO] sleep event!
+info: Feb-2 16:08:38.164 [API-Q] (T00000000) Pausing queue because client is offline
+warn: Feb-2 19:11:38.904 Internet connection still offline after 1 attempts (browser says it is still offline)
+info: Feb-2 19:11:39.061 [INFO] wake event! version:1549072384 start_ms:1549109204202
+warn: Feb-2 19:11:39.904 Internet connection still offline after 2 attempts (browser says it is still offline)
+error: Feb-2 19:11:40.081 TICKLE-MS (T00000000) Skipping tickle because no user exists
+warn: Feb-2 19:11:40.905 Internet connection still offline after 3 attempts (browser says it is still offline)
+warn: Feb-2 19:11:41.905 Internet connection still offline after 4 attempts (browser says it is still offline)
+info: Feb-2 19:11:43.483 [INFO] Internet connection has been re-established after 5 retry attempts; offline for NaN seconds
+info: Feb-2 19:11:43.486 [API-Q] (T00000000) Unpausing queue, back online
+info: Feb-2 19:11:52.491 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-2 19:11:54.028 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-2 19:11:54.029 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-2 19:12:40.080 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:13:40.079 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:14:40.079 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:15:40.079 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:16:40.080 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:17:40.080 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:18:40.081 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-2 19:19:24.199 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-2 19:19:25.701 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-2 19:19:25.703 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-2 19:19:40.081 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:20:40.081 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:21:40.080 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:22:40.080 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:23:40.080 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:24:40.080 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:25:40.080 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:26:40.080 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:27:40.079 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:28:40.080 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:29:40.080 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:30:40.080 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:31:40.080 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:32:40.079 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 19:33:40.080 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-2 20:12:02.064 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-2 20:12:03.642 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-2 20:12:03.646 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-2 20:18:41.149 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:19:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:20:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:21:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:22:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:23:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:24:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:25:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:26:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:27:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:28:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:29:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:30:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:31:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-2 20:32:22.138 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-2 20:32:23.645 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-2 20:32:23.648 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-2 20:32:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:33:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:34:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:35:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:36:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:37:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:38:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:39:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:40:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:41:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:42:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:43:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:44:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:45:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:46:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:47:41.146 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:48:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:49:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:50:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:51:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:52:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:53:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:54:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:55:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:56:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:57:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 20:58:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-2 20:59:09.248 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-2 20:59:10.755 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-2 20:59:10.756 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-2 20:59:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:00:41.149 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:01:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:02:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:03:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:04:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:05:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:06:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:07:41.146 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:08:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:09:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:10:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:11:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:12:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-2 21:12:56.052 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-2 21:12:57.574 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-2 21:12:57.575 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-2 21:13:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:14:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:15:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:16:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:17:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:18:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:19:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:20:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:21:41.146 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:22:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:23:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:24:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:25:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:26:41.146 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:27:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-2 21:28:12.913 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-2 21:28:14.603 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-2 21:28:14.605 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-2 21:28:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:29:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:30:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:31:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:32:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:33:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:34:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:35:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:36:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:37:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:38:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:39:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:40:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:41:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:42:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:43:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 21:44:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:14:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:15:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:16:41.148 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-2 22:16:55.666 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-2 22:16:57.359 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-2 22:16:57.361 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-2 22:17:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:18:41.147 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-2 22:19:10.018 [FOCUS-EVENT] Window focused
+info: Feb-2 22:19:10.047 [FOCUS-EVENT] Window blurred
+error: Feb-2 22:19:41.893 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:20:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:21:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:22:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:23:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:24:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:25:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:26:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-2 22:27:05.890 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-2 22:27:08.890 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-2 22:27:08.892 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-2 22:27:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:28:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:29:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-2 22:47:35.890 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-2 22:47:38.890 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-2 22:47:38.893 [API-Q] (T00000000) Unpausing queue, back online
+info: Feb-2 22:53:34.104 [FOCUS-EVENT] Window focused
+info: Feb-2 22:53:34.110 [FOCUS-EVENT] Window blurred
+info: Feb-2 22:53:34.189 [FOCUS-EVENT] Window focused
+info: Feb-2 22:53:34.958 [FOCUS-EVENT] Window blurred
+info: Feb-2 22:53:35.479 [FOCUS-EVENT] Window focused
+info: Feb-2 22:53:35.483 [FOCUS-EVENT] Window blurred
+info: Feb-2 22:53:35.492 [FOCUS-EVENT] Window focused
+info: Feb-2 22:53:39.754 [FOCUS-EVENT] Window blurred
+error: Feb-2 22:53:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:54:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:55:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:56:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:57:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:58:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 22:59:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:00:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:01:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:02:41.893 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:03:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:04:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:05:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:06:41.897 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:07:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:08:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:09:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:10:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:11:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:12:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:13:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:14:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:15:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:16:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:17:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:18:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:19:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:20:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:21:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:22:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:23:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:24:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:25:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:26:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:27:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:28:41.894 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:29:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:30:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:31:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:32:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:33:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:34:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:35:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:36:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:37:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:38:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:39:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:40:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:41:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:42:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:43:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:44:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:45:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:46:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:47:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:48:41.897 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:49:41.894 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:50:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:51:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-2 23:52:41.890 [API-Q] (T00000000) Pausing queue because client is offline
+error: Feb-2 23:52:41.894 TICKLE-MS (T00000000) Skipping tickle because no user exists
+warn: Feb-2 23:52:43.889 Internet connection still offline after 1 attempts (browser says it is still offline)
+warn: Feb-2 23:52:45.890 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Feb-2 23:52:47.889 Internet connection still offline after 3 attempts (browser says it is still offline)
+warn: Feb-2 23:52:51.890 Internet connection still offline after 4 attempts (unable to reach API)
+info: Feb-2 23:52:59.890 [INFO] Internet connection has been re-established after 5 retry attempts; offline for NaN seconds
+info: Feb-2 23:52:59.895 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-2 23:53:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:54:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:55:41.894 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:56:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-2 23:57:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-2 23:57:55.891 [API-Q] (T00000000) Pausing queue because client is offline
+warn: Feb-2 23:57:57.890 Internet connection still offline after 1 attempts (browser says it is still offline)
+warn: Feb-2 23:57:59.889 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Feb-2 23:58:01.890 Internet connection still offline after 3 attempts (browser says it is still offline)
+warn: Feb-2 23:58:03.890 Internet connection still offline after 4 attempts (browser says it is still offline)
+info: Feb-2 23:58:31.890 [INFO] Internet connection has been re-established after 5 retry attempts; offline for NaN seconds
+info: Feb-2 23:58:31.892 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-2 23:58:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-2 23:58:45.892 [API-Q] (T00000000) Pausing queue because client is offline
+warn: Feb-2 23:58:47.890 Internet connection still offline after 1 attempts (browser says it is still offline)
+warn: Feb-2 23:58:49.890 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Feb-2 23:58:51.890 Internet connection still offline after 3 attempts (browser says it is still offline)
+warn: Feb-2 23:58:53.890 Internet connection still offline after 4 attempts (browser says it is still offline)
+warn: Feb-2 23:58:55.890 Internet connection still offline after 5 attempts (browser says it is still offline)
+warn: Feb-2 23:58:57.890 Internet connection still offline after 6 attempts (browser says it is still offline)
+warn: Feb-2 23:58:59.890 Internet connection still offline after 7 attempts (browser says it is still offline)
+warn: Feb-2 23:59:01.890 Internet connection still offline after 8 attempts (browser says it is still offline)
+warn: Feb-2 23:59:04.890 Internet connection still offline after 9 attempts (unable to reach API)
+info: Feb-2 23:59:36.890 [INFO] Internet connection has been re-established after 10 retry attempts; offline for NaN seconds
+info: Feb-2 23:59:36.892 [API-Q] (T00000000) Unpausing queue, back online
+info: Feb-3 00:25:21.890 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-3 00:25:24.890 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-3 00:25:24.892 [API-Q] (T00000000) Unpausing queue, back online
+info: Feb-3 00:30:25.890 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-3 00:30:28.890 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-3 00:30:28.891 [API-Q] (T00000000) Unpausing queue, back online
+info: Feb-3 01:06:23.890 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-3 01:06:26.890 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-3 01:06:26.892 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-3 01:45:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 01:46:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 01:47:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 01:48:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 01:49:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 01:50:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 01:51:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 01:52:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 01:53:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 01:54:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 01:55:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 01:56:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 01:57:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 01:58:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 01:59:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:00:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:01:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:02:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:03:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:04:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:05:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:06:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:07:41.895 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:08:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:09:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:10:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:11:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:12:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:13:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:14:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:15:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:16:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:17:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:18:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:19:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:20:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:21:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:22:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:23:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:24:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:25:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:26:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:27:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:28:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:29:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:30:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:31:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:32:41.893 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:33:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:34:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:35:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:36:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:37:41.893 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-3 02:38:14.890 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-3 02:38:18.890 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-3 02:38:18.891 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-3 02:38:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:39:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:40:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:41:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:42:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:43:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:44:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:45:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:46:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:47:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:48:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:49:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:50:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:51:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:52:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:53:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:54:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:55:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:56:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:57:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:58:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 02:59:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:00:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:01:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:02:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:03:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:04:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:05:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:06:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:07:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:08:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:09:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:10:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:11:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:12:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:13:41.893 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:14:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:15:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:16:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:17:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:18:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:19:41.895 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:20:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:21:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:22:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:23:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:24:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:25:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-3 03:34:17.891 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-3 03:34:20.890 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-3 03:34:20.891 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-3 03:34:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:35:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:36:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:37:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:38:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:39:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:40:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:41:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:42:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:43:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:44:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:45:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:46:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:47:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:48:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:49:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:50:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:51:41.893 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:52:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:53:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:54:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:55:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:56:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:57:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:58:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 03:59:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:00:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:01:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:02:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:03:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:04:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:05:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:06:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:07:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:08:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:09:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:10:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:11:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:12:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:13:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:14:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:15:41.893 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:16:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:17:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:18:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:19:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:20:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:21:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:22:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:23:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:24:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:25:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:26:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:27:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:28:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:29:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:30:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:31:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:32:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:33:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:34:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:35:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:36:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:37:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:38:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:39:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:40:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:41:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:42:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:43:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:44:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:45:41.890 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:46:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:47:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:48:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:49:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:50:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:51:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:52:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:53:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:54:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:55:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:56:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:57:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 04:58:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-3 04:59:35.891 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-3 04:59:38.890 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-3 04:59:38.890 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-3 04:59:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 05:00:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 05:01:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 05:02:41.892 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 05:03:41.891 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-3 05:04:11.569 [INFO] sleep event!
+info: Feb-3 05:04:11.890 [API-Q] (T00000000) Pausing queue because client is offline
+warn: Feb-3 08:41:12.892 Internet connection still offline after 1 attempts (browser says it is still offline)
+info: Feb-3 08:41:13.051 [INFO] wake event! version:1549072384 start_ms:1549109204202
+warn: Feb-3 08:41:14.879 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Feb-3 08:41:17.884 Internet connection still offline after 3 attempts (unable to reach API)
+error: Feb-3 08:41:39.879 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-3 08:41:46.878 [INFO] Internet connection has been re-established after 4 retry attempts; offline for NaN seconds
+info: Feb-3 08:41:46.880 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-3 08:42:39.879 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 08:43:39.880 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 08:44:39.879 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 08:45:39.879 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 08:46:39.880 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 08:47:39.879 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 08:48:39.880 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 08:49:39.879 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 08:50:39.880 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 08:51:39.879 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 08:52:39.879 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 08:53:39.880 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:25:40.544 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:26:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:27:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:28:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:29:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:30:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:31:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-3 09:32:12.542 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-3 09:32:15.541 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-3 09:32:15.544 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-3 09:32:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:33:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:34:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:35:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:36:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:37:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:38:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:39:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:40:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:41:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:42:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:43:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:44:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:45:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:46:40.541 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:47:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:48:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:49:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:50:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:51:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:52:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:53:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:54:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:56:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:57:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:58:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 09:59:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:00:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:01:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:02:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:03:40.541 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:04:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:05:40.541 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:06:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:07:40.544 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:08:40.544 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:09:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:10:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:11:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:12:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:13:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:14:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:15:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:16:40.541 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:17:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:18:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:19:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:20:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:21:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:22:40.541 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:23:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:24:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:25:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:26:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:27:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:28:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:29:40.544 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:30:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:31:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:32:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:33:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:34:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:35:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:36:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:37:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:38:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:39:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:40:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:41:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:42:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:43:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:44:40.541 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:45:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:46:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:47:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:48:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:49:40.541 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:50:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:51:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:52:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-3 10:53:36.542 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-3 10:53:39.541 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-3 10:53:39.543 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-3 10:53:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:54:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:55:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:56:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:57:40.541 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:58:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 10:59:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:00:40.546 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:01:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:02:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-3 11:03:13.542 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-3 11:03:16.541 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-3 11:03:16.543 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-3 11:03:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:04:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:05:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:06:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:07:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:08:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:09:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:10:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:11:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:30:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:31:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:32:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:33:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:34:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:35:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:36:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:37:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:38:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:39:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:40:40.544 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:41:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:42:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:43:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-3 11:44:25.542 [API-Q] (T00000000) Pausing queue because client is offline
+info: Feb-3 11:44:28.541 [INFO] Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Feb-3 11:44:28.543 [API-Q] (T00000000) Unpausing queue, back online
+error: Feb-3 11:44:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:45:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:46:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:47:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:48:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:49:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:50:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:51:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:57:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:58:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 11:59:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 12:00:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 12:01:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 12:02:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 12:03:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 12:04:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 12:05:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 12:06:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 12:20:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 12:21:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 12:22:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 12:23:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 12:24:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 12:25:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 12:26:40.541 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 12:27:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 12:28:40.542 TICKLE-MS (T00000000) Skipping tickle because no user exists
+error: Feb-3 12:29:40.543 TICKLE-MS (T00000000) Skipping tickle because no user exists
+info: Feb-3 12:30:19.331 [INFO] sleep event!

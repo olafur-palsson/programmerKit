@@ -12,19 +12,12 @@ filetype plugin on
 
 " Plugins list is always first
 source ~/.plugins.vim
-
 source ~/.python.vim
 source ~/.c-cpp.vim
 source ~/.haskell.vim
 source ~/.airline.vim
 source ~/.deoplete.vim
-
-
-
-
-
-
-
+source ~/.functions.vim
 
 " Color sceme 
 syntax on
@@ -39,15 +32,31 @@ set expandtab
 set shiftwidth=2 
 set softtabstop=2
 
-
+" Set quit and restore functions
 
 " SET NERDTREE PLUGIN SHORTCUT 
-nmap <F6> :NERDTreeToggle<CR>
+let NERDTreeMapOpenInTab='<CR>'
 
 " KEYMAPS 
-nnoremap <F3> NumbersToggle<CR> 
-nnoremap <F4> NumbersOnOff<CR> 
-nnoremap <CR> G
+
+nnoremap <F2> :tabp <CR>
+nnoremap <F3> :tabn <CR>
+nnoremap <F4> :tabe <CR>
+" Edit .vimrc hotkey on <F12> 
+nnoremap <F12> :vsp ~/.vimrc<CR>
+nnoremap <F12><F12> :so ~/.vimrc<CR>
+nnoremap <F5> :edit <CR>
+
+nmap <F6> :NERDTreeToggle <CR>
+
+nnoremap <c-s> :w <CR>
+
+inoremap (<CR> (<CR>)<C-c>O
+inoremap (, (<CR>),<C-c>O
+inoremap {<CR> {<CR>}<C-c>O
+inoremap {, {<CR>},<C-c>O
+inoremap [<CR> [<CR>]<C-c>O
+inoremap [, [<CR>],<C-c>O
 
 " FuzzySearch <C-p> ignore regex 
 let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git'
@@ -59,17 +68,7 @@ set nofoldenable
 set foldlevel=2
 
 
-" Edit .vimrc hotkey on <F12> 
-nnoremap <F12> :vsp ~/.vimrc<CR>
-nnoremap <F12><F12> :vsp ~/.vimrc<CR>:so %<CR> :q<CR>
 
 " Javaimp Project Folders if needed many then append ',' to the string
 let g:JavaImpPaths =
     \ $HOME . "/projects/search/API" 
-
-" CSyntaxAfter 
-""autocmd! FileType c,cpp,java,php call CSyntaxAfter()
-
-
-
-

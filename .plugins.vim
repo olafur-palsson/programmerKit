@@ -1,14 +1,14 @@
 
 call plug#begin('~/.vim/plugged')
 
-Plug 'VundleVim/Vundle.vim'
-"Plug 'neovim/vimball.vim'
 
-" Auto-close braces
-Plug 'jiangmiao/auto-pairs'
+Plug 'VundleVim/Vundle.vim'
 
 " NerdTree filetree thing 
-Plug 'scrooloose/nerdtree', { 'on': 'NerdTreeToggle' }
+Plug 'scrooloose/nerdtree'
+
+" Fast comments
+Plug 'scrooloose/nerdcommenter'
 
 " Fugitive is a GIT thing 
 Plug 'tpope/vim-fugitive' 
@@ -28,12 +28,13 @@ Plug 'neovimhaskell/haskell-vim'
 Plug 'carlitux/deoplete-ternjs', { 'do': 'npm install -g tern' }
 
 " Java
-Plug 'rustushki/JavaImp.vim'
+Plug 'roxma/nvim-yarp'
+Plug 'roxma/vim-hug-neovim-rpc'
+Plug 'artur-shaik/vim-javacomplete2', { 'for': 'java' }
 
 " Python
 Plug 'vim-python/python-syntax'
 Plug 'zchee/deoplete-jedi'
-
 
 " Color Scheme
 Plug 'ErichDonGubler/vim-sublime-monokai'
@@ -59,9 +60,11 @@ Plug 'Rip-Rip/clang_complete'
 " To make Custom UI 
 Plug 'shougo/unite.vim'
 
-
 " Added braces support
 Plug 'tpope/vim-surround'
+
+" More tpope because he is best
+Plug 'tpope/vim-repeat'
 
 " Color scheme
 Plug 'sickill/vim-monokai'

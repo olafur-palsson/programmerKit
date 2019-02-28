@@ -39318,3 +39318,1890 @@
 }
 [11/30/18, 00:49:44:038] info: Store: SET_FULL_SCREEN
 [11/30/18, 01:28:20:348] info: Store: SET_SUSPEND_STATUS
+[01/31/19, 15:07:18:162] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[01/31/19, 15:07:18:164] info: ║      Slack 3.3.7, linux 4.15.0-39-generic on x64 at 01/31/19, 15:07:18:159      ║
+[01/31/19, 15:07:18:164] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[01/31/19, 15:07:18:600] info: Initializing local storage instance at path: /home/bitchhunter3000/.config/Slack/local-settings.json
+[01/31/19, 15:07:19:142] info: NetworkStatus: Waiting for network online…
+[01/31/19, 15:07:19:958] info: Read UUID from file successful
+{
+  "uuid": "d13e65e7-719b-4992-b230-078f2b73ea61"
+}
+[01/31/19, 15:07:20:398] info: Don't start background client because T9C6NUMBJ is missing token
+[01/31/19, 15:07:20:400] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[01/31/19, 15:07:20:425] info: Don't start background client because T8U7NRKQU is missing token
+[01/31/19, 15:07:20:465] info: Don't start background client because TCNRBMGLX is missing token
+[01/31/19, 15:07:20:471] info: Don't start background client because TDDMQEX8R is selected team
+[01/31/19, 15:07:20:491] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[01/31/19, 15:07:20:575] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[01/31/19, 15:07:20:991] info: Store: SET_NETWORK_STATUS online
+[01/31/19, 15:07:29:546] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "TCNRBMGLX"
+}
+[01/31/19, 15:07:29:740] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[01/31/19, 15:07:29:764] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[01/31/19, 15:07:29:858] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "TCNRBMGLX"
+}
+[01/31/19, 15:07:30:051] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "T9C6NUMBJ"
+}
+[01/31/19, 15:07:30:068] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "T8U7NRKQU"
+}
+[01/31/19, 15:07:30:337] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TDDMQEX8R"
+}
+[01/31/19, 15:07:30:348] info: Store: MAIN_WINDOW_SHOWN
+[01/31/19, 15:07:30:385] info: Store: SET_FULL_SCREEN
+[01/31/19, 15:07:30:410] info: Store: SET_FULL_SCREEN
+[01/31/19, 15:07:30:427] info: Store: SET_FULL_SCREEN
+[01/31/19, 15:07:30:431] info: Store: SET_FULL_SCREEN
+[01/31/19, 15:07:30:439] info: Store: SET_FULL_SCREEN
+[01/31/19, 15:07:30:889] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "TDDMQEX8R"
+}
+[01/31/19, 15:07:31:379] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    435,
+    212
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[01/31/19, 15:17:19:336] info: NetworkStatus: Waiting for network online…
+[01/31/19, 15:17:19:703] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[01/31/19, 15:23:26:493] info: Store: SET_FULL_SCREEN
+[01/31/19, 15:23:42:227] info: Store: SET_SUSPEND_STATUS
+[01/31/19, 15:23:42:716] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 12:06:35:839] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[02/02/19, 12:06:35:840] info: ║      Slack 3.3.7, linux 4.15.0-39-generic on x64 at 02/02/19, 12:06:35:835      ║
+[02/02/19, 12:06:35:840] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[02/02/19, 12:06:36:216] info: Initializing local storage instance at path: /home/bitchhunter3000/.config/Slack/local-settings.json
+[02/02/19, 12:06:37:144] info: NetworkStatus: Waiting for network online…
+[02/02/19, 12:06:37:905] info: Read UUID from file successful
+{
+  "uuid": "d13e65e7-719b-4992-b230-078f2b73ea61"
+}
+[02/02/19, 12:06:38:379] info: Don't start background client because T9C6NUMBJ is missing token
+[02/02/19, 12:06:38:389] info: Don't start background client because T8U7NRKQU is missing token
+[02/02/19, 12:06:38:466] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[02/02/19, 12:06:38:479] info: Don't start background client because TCNRBMGLX is missing token
+[02/02/19, 12:06:38:484] info: Don't start background client because TDDMQEX8R is selected team
+[02/02/19, 12:06:38:508] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[02/02/19, 12:06:38:573] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 12:06:38:977] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 12:06:50:612] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "TCNRBMGLX"
+}
+[02/02/19, 12:06:50:694] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[02/02/19, 12:06:50:926] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "TCNRBMGLX"
+}
+[02/02/19, 12:06:50:999] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "T9C6NUMBJ"
+}
+[02/02/19, 12:06:51:040] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[02/02/19, 12:06:51:392] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "T8U7NRKQU"
+}
+[02/02/19, 12:06:51:935] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TDDMQEX8R"
+}
+[02/02/19, 12:06:51:949] info: Store: MAIN_WINDOW_SHOWN
+[02/02/19, 12:06:51:995] info: Store: SET_FULL_SCREEN
+[02/02/19, 12:06:52:014] info: Store: SET_FULL_SCREEN
+[02/02/19, 12:06:52:027] info: Store: SET_FULL_SCREEN
+[02/02/19, 12:06:52:032] info: Store: SET_FULL_SCREEN
+[02/02/19, 12:06:52:040] info: Store: SET_FULL_SCREEN
+[02/02/19, 12:06:52:252] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "TDDMQEX8R"
+}
+[02/02/19, 12:06:52:983] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    439,
+    212
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[02/02/19, 12:07:12:615] info: Store: MAIN_WINDOW_FOCUSED
+[02/02/19, 12:07:12:712] info: Store: SHOW_LOGIN_DIALOG
+[02/02/19, 12:07:12:719] info: Store: ADD_WINDOW
+{
+  "id": 3,
+  "type": "sign-in"
+}
+[02/02/19, 12:07:33:319] info: Store: MAIN_WINDOW_FOCUSED
+[02/02/19, 12:42:29:797] info: Store: MAIN_WINDOW_FOCUSED
+[02/02/19, 13:28:52:058] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 13:29:08:659] info: NetworkStatus: Waiting for network online…
+[02/02/19, 13:29:10:437] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:29:10:439] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:29:15:591] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:29:15:591] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:29:16:865] info: NetworkStatus: Waiting for network online…
+[02/02/19, 13:29:29:372] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 13:29:29:777] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 13:29:29:780] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 13:29:38:009] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 13:29:52:365] info: NetworkStatus: Waiting for network online…
+[02/02/19, 13:29:56:187] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 13:29:56:592] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 13:29:56:598] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 13:30:32:505] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 13:30:33:589] info: NetworkStatus: Waiting for network online…
+[02/02/19, 13:30:43:601] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:30:43:602] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:30:43:604] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:30:43:604] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:30:43:607] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:30:43:608] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:30:48:599] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:30:48:599] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:30:52:543] info: NetworkStatus: Waiting for network online…
+[02/02/19, 13:30:52:548] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:30:52:548] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:31:08:632] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 13:31:09:039] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 13:31:09:044] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 13:31:27:001] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 13:31:27:869] info: NetworkStatus: Waiting for network online…
+[02/02/19, 13:31:28:564] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 13:31:28:970] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 13:31:28:976] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 13:34:35:991] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 13:38:08:506] info: NetworkStatus: Waiting for network online…
+[02/02/19, 13:38:08:509] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:38:08:510] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:38:33:531] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:38:33:532] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:38:53:545] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:38:53:545] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:13:564] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:13:565] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:13:566] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:13:566] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:13:567] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:13:567] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:13:568] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:13:568] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:25:653] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:25:654] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:25:659] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:25:659] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:25:660] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:25:660] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:25:662] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:25:662] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:25:665] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:25:667] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:25:673] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:25:674] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:25:678] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:25:678] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:25:680] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:25:680] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:25:683] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:25:684] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:28:526] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:28:527] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:33:529] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:33:529] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:38:529] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:38:530] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:43:530] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:43:531] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:44:905] info: NetworkStatus: Waiting for network online…
+[02/02/19, 13:39:44:916] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 13:39:44:916] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 13:39:50:415] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 13:39:50:822] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 13:39:50:826] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 14:04:45:016] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 14:06:21:518] info: NetworkStatus: Waiting for network online…
+[02/02/19, 14:06:21:529] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 14:06:21:530] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 14:06:26:928] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 14:06:27:334] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 14:06:27:338] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 14:10:35:002] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 14:10:49:349] info: NetworkStatus: Waiting for network online…
+[02/02/19, 14:10:54:602] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 14:10:55:007] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 14:10:55:012] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 14:11:55:991] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 14:12:08:758] info: NetworkStatus: Waiting for network online…
+[02/02/19, 14:12:10:514] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 14:12:10:921] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 14:12:10:925] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 14:49:10:009] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 14:50:11:775] info: NetworkStatus: Waiting for network online…
+[02/02/19, 14:50:11:780] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 14:50:11:781] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 14:50:16:781] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 14:50:16:782] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 14:50:21:782] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 14:50:21:783] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 14:50:25:029] info: NetworkStatus: Waiting for network online…
+[02/02/19, 14:50:25:037] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 14:50:25:043] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 14:50:30:431] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 14:50:30:836] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 14:50:30:843] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 14:53:51:993] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 14:53:53:026] info: NetworkStatus: Waiting for network online…
+[02/02/19, 14:53:55:591] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 14:53:55:592] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 14:53:56:862] info: NetworkStatus: Waiting for network online…
+[02/02/19, 14:54:03:041] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 14:54:03:447] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 14:54:03:452] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 14:54:58:009] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 14:56:11:360] info: NetworkStatus: Waiting for network online…
+[02/02/19, 14:56:11:370] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 14:56:11:371] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 14:56:21:721] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 14:56:22:128] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 14:56:22:134] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 16:08:37:833] info: Store: SET_SUSPEND_STATUS
+[02/02/19, 16:08:38:285] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 19:11:39:055] info: Store: SET_SUSPEND_STATUS true
+[02/02/19, 19:11:42:020] info: NetworkStatus: Waiting for network online…
+[02/02/19, 19:11:42:025] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 19:11:42:025] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 19:11:47:407] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 19:11:47:813] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 19:11:47:816] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 19:11:52:492] info: NetworkStatus: Waiting for network online…
+[02/02/19, 19:11:52:566] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 19:11:52:645] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 19:11:53:050] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 19:11:53:055] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 19:16:56:935] info: NetworkStatus: Waiting for network online…
+[02/02/19, 19:16:56:994] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 19:16:57:283] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 19:16:57:688] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 19:16:57:691] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 19:17:43:773] info: NetworkStatus: Waiting for network online…
+[02/02/19, 19:17:43:923] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 19:19:24:323] info: NetworkStatus: Waiting for network online…
+[02/02/19, 19:19:24:372] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 19:19:24:476] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 19:19:24:885] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 19:19:24:888] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 19:21:00:187] info: NetworkStatus: Waiting for network online…
+[02/02/19, 19:21:00:345] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 19:31:11:892] info: NetworkStatus: Waiting for network online…
+[02/02/19, 19:31:12:113] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 20:06:56:481] info: NetworkStatus: Waiting for network online…
+[02/02/19, 20:06:56:833] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 20:06:57:669] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 20:06:58:080] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 20:06:58:082] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 20:12:02:256] info: NetworkStatus: Waiting for network online…
+[02/02/19, 20:12:02:284] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 20:12:03:304] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 20:12:03:711] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 20:12:03:717] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 20:17:07:401] info: NetworkStatus: Waiting for network online…
+[02/02/19, 20:17:07:648] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 20:22:12:015] info: NetworkStatus: Waiting for network online…
+[02/02/19, 20:22:12:289] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 20:27:17:948] info: NetworkStatus: Waiting for network online…
+[02/02/19, 20:27:18:186] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 20:32:22:332] info: NetworkStatus: Waiting for network online…
+[02/02/19, 20:32:22:398] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 20:32:22:607] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 20:32:23:011] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 20:32:23:019] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 20:32:42:448] info: NetworkStatus: Waiting for network online…
+[02/02/19, 20:32:42:495] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 20:32:42:600] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 20:32:43:006] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 20:32:43:010] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 20:37:46:690] info: NetworkStatus: Waiting for network online…
+[02/02/19, 20:37:46:732] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 20:37:46:958] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 20:37:47:368] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 20:37:47:372] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 20:42:41:623] info: NetworkStatus: Waiting for network online…
+[02/02/19, 20:42:41:629] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 20:42:41:863] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 20:42:42:271] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 20:42:42:275] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 20:47:46:616] info: NetworkStatus: Waiting for network online…
+[02/02/19, 20:47:46:891] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 20:54:04:570] info: NetworkStatus: Waiting for network online…
+[02/02/19, 20:54:04:810] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 20:59:09:336] info: NetworkStatus: Waiting for network online…
+[02/02/19, 20:59:09:400] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 20:59:09:610] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 20:59:10:018] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 20:59:10:022] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 21:04:14:663] info: NetworkStatus: Waiting for network online…
+[02/02/19, 21:04:15:030] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:04:15:670] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 21:04:16:080] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:04:16:085] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 21:07:45:984] info: NetworkStatus: Waiting for network online…
+[02/02/19, 21:07:46:234] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 21:12:49:486] info: NetworkStatus: Waiting for network online…
+[02/02/19, 21:12:49:764] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 21:12:56:388] info: NetworkStatus: Waiting for network online…
+[02/02/19, 21:12:56:424] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:12:56:542] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 21:12:56:953] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:12:56:958] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 21:18:02:141] info: NetworkStatus: Waiting for network online…
+[02/02/19, 21:18:02:164] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:18:02:414] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 21:18:02:818] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:18:02:821] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 21:23:07:499] info: NetworkStatus: Waiting for network online…
+[02/02/19, 21:23:07:537] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:23:07:770] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 21:23:08:172] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:23:08:177] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 21:28:12:958] info: NetworkStatus: Waiting for network online…
+[02/02/19, 21:28:12:992] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:28:14:263] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 21:28:14:665] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:28:14:668] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 21:33:19:115] info: NetworkStatus: Waiting for network online…
+[02/02/19, 21:33:19:384] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 21:38:24:964] info: NetworkStatus: Waiting for network online…
+[02/02/19, 21:38:25:358] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:38:26:164] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 21:38:26:570] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:38:26:574] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 21:45:23:531] info: NetworkStatus: Waiting for network online…
+[02/02/19, 21:45:23:876] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:45:24:715] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 21:45:25:120] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:45:25:125] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 21:50:29:679] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:50:29:690] info: NetworkStatus: Waiting for network online…
+[02/02/19, 21:50:29:922] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 21:50:30:328] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:50:30:333] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 21:50:43:466] info: NetworkStatus: Waiting for network online…
+[02/02/19, 21:50:43:618] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 21:55:48:728] info: NetworkStatus: Waiting for network online…
+[02/02/19, 21:55:48:749] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 21:55:49:002] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 21:55:49:409] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 21:55:49:413] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 21:56:15:301] info: NetworkStatus: Waiting for network online…
+[02/02/19, 21:56:15:453] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 22:01:21:219] info: NetworkStatus: Waiting for network online…
+[02/02/19, 22:01:21:490] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 22:01:41:245] info: NetworkStatus: Waiting for network online…
+[02/02/19, 22:01:41:404] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 22:06:45:027] info: NetworkStatus: Waiting for network online…
+[02/02/19, 22:06:45:067] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 22:06:46:171] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 22:06:46:579] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 22:06:46:582] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 22:11:50:168] info: NetworkStatus: Waiting for network online…
+[02/02/19, 22:11:50:213] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 22:11:51:291] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 22:11:51:697] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 22:11:51:701] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 22:16:55:934] info: NetworkStatus: Waiting for network online…
+[02/02/19, 22:16:55:960] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 22:16:56:975] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 22:16:57:379] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 22:16:57:382] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 22:19:10:227] info: Store: MAIN_WINDOW_FOCUSED
+[02/02/19, 22:22:01:091] info: NetworkStatus: Waiting for network online…
+[02/02/19, 22:22:01:898] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 22:22:02:398] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 22:22:02:893] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 22:22:02:898] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 22:27:05:987] info: NetworkStatus: Waiting for network online…
+[02/02/19, 22:27:06:897] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 22:27:07:113] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 22:27:07:897] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 22:27:07:900] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 22:32:10:520] info: NetworkStatus: Waiting for network online…
+[02/02/19, 22:32:11:114] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 22:47:29:413] info: NetworkStatus: Waiting for network online…
+[02/02/19, 22:47:29:897] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 22:47:30:251] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 22:47:30:894] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 22:47:30:903] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 22:47:35:992] info: NetworkStatus: Waiting for network online…
+[02/02/19, 22:47:36:896] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 22:47:37:041] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 22:47:37:896] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 22:47:37:900] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 22:52:39:690] info: NetworkStatus: Waiting for network online…
+[02/02/19, 22:52:39:895] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 22:52:40:159] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 22:52:40:895] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 22:52:40:899] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 22:53:34:196] info: Store: MAIN_WINDOW_FOCUSED
+[02/02/19, 22:53:35:112] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    439,
+    212
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+[02/02/19, 22:53:35:514] info: Store: MAIN_WINDOW_FOCUSED
+[02/02/19, 22:53:37:289] info: Store: SIGN_IN_CANCELED
+[02/02/19, 22:53:37:299] info: Store: REMOVE_WINDOW 3
+[02/02/19, 22:53:39:778] info: Store: SET_FULL_SCREEN
+[02/02/19, 23:02:49:440] info: NetworkStatus: Waiting for network online…
+[02/02/19, 23:02:49:894] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:02:50:160] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 23:02:50:894] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:02:50:898] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 23:07:55:195] info: NetworkStatus: Waiting for network online…
+[02/02/19, 23:07:55:895] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:07:56:116] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 23:07:56:893] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:07:56:896] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 23:13:00:699] info: NetworkStatus: Waiting for network online…
+[02/02/19, 23:13:00:894] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:13:01:110] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 23:13:01:894] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:13:01:896] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 23:18:04:728] info: NetworkStatus: Waiting for network online…
+[02/02/19, 23:18:04:896] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:18:05:255] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 23:18:05:895] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:18:05:899] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 23:28:15:327] info: NetworkStatus: Waiting for network online…
+[02/02/19, 23:28:15:893] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:28:16:955] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 23:28:17:893] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:28:17:900] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 23:28:37:534] info: NetworkStatus: Waiting for network online…
+[02/02/19, 23:28:37:898] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:28:38:044] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 23:28:38:895] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:28:38:898] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 23:28:40:552] info: NetworkStatus: Waiting for network online…
+[02/02/19, 23:28:40:894] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:28:41:213] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 23:28:41:927] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:28:41:930] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 23:52:36:896] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:52:37:560] info: NetworkStatus: Waiting for network online…
+[02/02/19, 23:52:40:208] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 23:52:40:208] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 23:52:43:896] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 23:52:43:896] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 23:52:49:031] info: NetworkStatus: Waiting for network online…
+[02/02/19, 23:52:51:217] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 23:52:51:217] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 23:52:52:507] info: NetworkStatus: Waiting for network online…
+[02/02/19, 23:52:59:387] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 23:52:59:899] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:52:59:901] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 23:57:54:897] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:58:05:455] info: NetworkStatus: Waiting for network online…
+[02/02/19, 23:58:22:257] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 23:58:22:257] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 23:58:22:258] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 23:58:22:259] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 23:58:22:260] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 23:58:22:261] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 23:58:23:895] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/02/19, 23:58:23:896] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/02/19, 23:58:25:365] info: NetworkStatus: Waiting for network online…
+[02/02/19, 23:58:31:094] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 23:58:31:896] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:58:31:903] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/02/19, 23:58:44:895] info: Store: SET_NETWORK_STATUS offline
+[02/02/19, 23:59:02:561] info: NetworkStatus: Waiting for network online…
+[02/02/19, 23:59:03:113] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/02/19, 23:59:03:893] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 23:59:03:897] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 00:04:06:715] info: NetworkStatus: Waiting for network online…
+[02/03/19, 00:04:06:896] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:04:07:162] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 00:04:07:896] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:04:07:902] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 00:09:11:790] info: NetworkStatus: Waiting for network online…
+[02/03/19, 00:09:12:110] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 00:14:15:424] info: NetworkStatus: Waiting for network online…
+[02/03/19, 00:14:15:898] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:14:16:165] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 00:14:16:895] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:14:16:898] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 00:15:14:174] info: NetworkStatus: Waiting for network online…
+[02/03/19, 00:15:14:897] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:15:15:042] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 00:15:15:893] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:15:15:897] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 00:20:18:244] info: NetworkStatus: Waiting for network online…
+[02/03/19, 00:20:18:894] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:20:19:162] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 00:20:19:895] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:20:19:898] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 00:25:22:106] info: NetworkStatus: Waiting for network online…
+[02/03/19, 00:25:22:898] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:25:23:117] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 00:25:23:893] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:25:23:897] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 00:30:26:106] info: NetworkStatus: Waiting for network online…
+[02/03/19, 00:30:26:896] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:30:27:183] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 00:30:27:894] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:30:27:899] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 00:30:37:847] info: NetworkStatus: Waiting for network online…
+[02/03/19, 00:30:38:038] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 00:40:49:193] info: NetworkStatus: Waiting for network online…
+[02/03/19, 00:40:49:894] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:40:50:230] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 00:40:50:895] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:40:50:898] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 00:45:54:201] info: NetworkStatus: Waiting for network online…
+[02/03/19, 00:45:54:896] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:45:55:162] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 00:45:55:895] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:45:55:898] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 00:50:59:543] info: NetworkStatus: Waiting for network online…
+[02/03/19, 00:51:00:227] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 00:51:11:552] info: NetworkStatus: Waiting for network online…
+[02/03/19, 00:51:12:041] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 00:56:15:131] info: NetworkStatus: Waiting for network online…
+[02/03/19, 00:56:15:896] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 00:56:16:164] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 00:56:16:895] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 00:56:16:898] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 01:01:20:363] info: NetworkStatus: Waiting for network online…
+[02/03/19, 01:01:20:897] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:01:21:158] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 01:01:21:895] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:01:21:899] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 01:06:24:027] info: NetworkStatus: Waiting for network online…
+[02/03/19, 01:06:24:897] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:06:25:157] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 01:06:25:894] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:06:25:898] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 01:06:37:724] info: NetworkStatus: Waiting for network online…
+[02/03/19, 01:06:38:041] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 01:16:46:789] info: NetworkStatus: Waiting for network online…
+[02/03/19, 01:16:46:896] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:16:47:157] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 01:16:47:895] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:16:47:899] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 01:21:51:571] info: NetworkStatus: Waiting for network online…
+[02/03/19, 01:21:52:161] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 01:26:57:917] info: NetworkStatus: Waiting for network online…
+[02/03/19, 01:26:58:895] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:26:59:170] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 01:26:59:895] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:26:59:899] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 01:32:02:973] info: NetworkStatus: Waiting for network online…
+[02/03/19, 01:32:03:896] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:32:04:114] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 01:32:04:893] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:32:04:897] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 01:37:09:454] info: NetworkStatus: Waiting for network online…
+[02/03/19, 01:37:09:896] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:37:10:112] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 01:37:10:894] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:37:10:900] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 01:42:15:099] info: NetworkStatus: Waiting for network online…
+[02/03/19, 01:42:15:896] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:42:16:163] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 01:42:16:895] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:42:16:898] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 01:47:21:655] info: NetworkStatus: Waiting for network online…
+[02/03/19, 01:47:21:896] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:47:22:113] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 01:47:22:895] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:47:22:898] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 01:52:24:508] info: NetworkStatus: Waiting for network online…
+[02/03/19, 01:52:24:897] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 01:52:25:119] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 01:52:25:897] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 01:52:25:898] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 01:57:29:850] info: NetworkStatus: Waiting for network online…
+[02/03/19, 01:57:30:171] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 02:07:41:807] info: NetworkStatus: Waiting for network online…
+[02/03/19, 02:07:42:114] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 02:17:51:546] info: NetworkStatus: Waiting for network online…
+[02/03/19, 02:17:52:157] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 02:38:14:894] info: NetworkStatus: Waiting for network online…
+[02/03/19, 02:38:15:894] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 02:38:16:242] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 02:38:16:897] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 02:38:16:899] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 02:43:21:318] info: NetworkStatus: Waiting for network online…
+[02/03/19, 02:43:21:897] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 02:43:22:912] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 02:43:23:897] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 02:43:23:898] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 03:08:50:603] info: NetworkStatus: Waiting for network online…
+[02/03/19, 03:08:50:893] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 03:08:51:158] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 03:08:51:892] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 03:08:51:894] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 03:13:55:569] info: NetworkStatus: Waiting for network online…
+[02/03/19, 03:13:55:897] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 03:13:56:245] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 03:13:56:895] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 03:13:56:898] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 03:19:00:897] info: NetworkStatus: Waiting for network online…
+[02/03/19, 03:19:01:895] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 03:19:02:121] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 03:19:02:893] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 03:19:02:895] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 03:29:12:676] info: NetworkStatus: Waiting for network online…
+[02/03/19, 03:29:12:899] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 03:29:13:157] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 03:29:13:894] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 03:29:13:897] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 03:34:18:223] info: NetworkStatus: Waiting for network online…
+[02/03/19, 03:34:18:896] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 03:34:19:160] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 03:34:19:894] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 03:34:19:898] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 03:35:19:694] info: NetworkStatus: Waiting for network online…
+[02/03/19, 03:35:20:043] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 03:50:35:995] info: NetworkStatus: Waiting for network online…
+[02/03/19, 03:50:36:893] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 03:50:37:169] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 03:50:37:894] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 03:50:37:897] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 03:55:42:069] info: NetworkStatus: Waiting for network online…
+[02/03/19, 03:55:42:899] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 03:55:43:159] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 03:55:43:892] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 03:55:43:895] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 04:00:48:395] info: NetworkStatus: Waiting for network online…
+[02/03/19, 04:00:48:897] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:00:49:154] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 04:00:49:894] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:00:49:896] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 04:05:54:410] info: NetworkStatus: Waiting for network online…
+[02/03/19, 04:05:54:894] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:05:55:244] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 04:05:55:895] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:05:55:898] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 04:06:55:366] info: NetworkStatus: Waiting for network online…
+[02/03/19, 04:06:55:893] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:06:56:040] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 04:06:56:893] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:06:56:897] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 04:11:59:325] info: NetworkStatus: Waiting for network online…
+[02/03/19, 04:11:59:896] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:12:00:113] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 04:12:00:895] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:12:00:898] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 04:22:10:875] info: NetworkStatus: Waiting for network online…
+[02/03/19, 04:22:11:169] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 04:27:16:574] info: NetworkStatus: Waiting for network online…
+[02/03/19, 04:27:16:897] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:27:17:157] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 04:27:17:892] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:27:17:895] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 04:32:20:654] info: NetworkStatus: Waiting for network online…
+[02/03/19, 04:32:20:897] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:32:21:245] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 04:32:21:896] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:32:21:899] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 04:37:24:723] info: NetworkStatus: Waiting for network online…
+[02/03/19, 04:37:24:894] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:37:25:243] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 04:37:25:893] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:37:25:896] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 04:37:31:331] info: NetworkStatus: Waiting for network online…
+[02/03/19, 04:37:31:897] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:37:32:041] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 04:37:32:894] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:37:32:902] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 04:42:35:686] info: NetworkStatus: Waiting for network online…
+[02/03/19, 04:42:35:897] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:42:36:158] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 04:42:36:896] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:42:36:899] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 04:52:46:589] info: NetworkStatus: Waiting for network online…
+[02/03/19, 04:52:46:896] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:52:47:172] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 04:52:47:893] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:52:47:899] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 04:53:09:947] info: NetworkStatus: Waiting for network online…
+[02/03/19, 04:53:10:899] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:53:11:042] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 04:53:11:894] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:53:11:899] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 04:58:14:587] info: NetworkStatus: Waiting for network online…
+[02/03/19, 04:58:14:894] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:58:15:155] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 04:58:15:895] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:58:15:899] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 04:58:50:075] info: NetworkStatus: Waiting for network online…
+[02/03/19, 04:58:50:897] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:58:51:041] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 04:58:51:896] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:58:51:900] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 04:59:23:739] info: NetworkStatus: Waiting for network online…
+[02/03/19, 04:59:24:039] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 04:59:35:953] info: NetworkStatus: Waiting for network online…
+[02/03/19, 04:59:36:894] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 04:59:37:043] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 04:59:37:893] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 04:59:37:897] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 05:04:11:554] info: Store: SET_SUSPEND_STATUS
+[02/03/19, 08:41:12:923] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 08:41:13:047] info: Store: SET_SUSPEND_STATUS true
+[02/03/19, 08:41:15:922] info: NetworkStatus: Waiting for network online…
+[02/03/19, 08:41:17:155] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[02/03/19, 08:41:17:156] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[02/03/19, 08:41:23:097] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 08:41:23:883] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 08:41:23:886] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 08:41:26:606] info: NetworkStatus: Waiting for network online…
+[02/03/19, 08:41:26:888] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 08:41:27:041] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 08:41:27:887] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 08:41:27:902] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 08:46:31:283] info: NetworkStatus: Waiting for network online…
+[02/03/19, 08:46:31:882] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 08:46:32:222] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 08:46:32:882] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 08:46:32:887] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 08:51:35:567] info: NetworkStatus: Waiting for network online…
+[02/03/19, 08:51:35:884] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 08:51:36:100] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 08:51:36:883] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 08:51:36:885] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 08:56:39:338] info: NetworkStatus: Waiting for network online…
+[02/03/19, 08:56:39:885] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 08:56:40:106] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 08:56:40:883] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 08:56:40:888] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 09:01:43:566] info: NetworkStatus: Waiting for network online…
+[02/03/19, 09:01:43:882] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 09:01:44:144] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 09:01:44:882] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 09:01:44:885] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 09:06:48:205] info: NetworkStatus: Waiting for network online…
+[02/03/19, 09:06:48:885] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 09:06:49:219] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 09:06:49:882] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 09:06:49:886] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 09:11:51:294] info: NetworkStatus: Waiting for network online…
+[02/03/19, 09:11:51:884] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 09:11:52:106] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 09:11:52:880] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 09:11:52:882] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 09:16:57:101] info: NetworkStatus: Waiting for network online…
+[02/03/19, 09:16:57:548] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 09:16:57:820] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 09:16:58:543] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 09:16:58:547] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 09:27:08:880] info: NetworkStatus: Waiting for network online…
+[02/03/19, 09:27:09:550] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 09:27:09:809] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 09:27:10:546] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 09:27:10:549] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 09:32:12:835] info: NetworkStatus: Waiting for network online…
+[02/03/19, 09:32:13:551] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 09:32:13:821] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 09:32:14:547] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 09:32:14:548] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 09:37:19:154] info: NetworkStatus: Waiting for network online…
+[02/03/19, 09:37:19:893] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 09:47:31:005] info: NetworkStatus: Waiting for network online…
+[02/03/19, 09:47:31:547] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 09:47:31:892] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 09:47:32:546] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 09:47:32:551] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 09:57:41:029] info: NetworkStatus: Waiting for network online…
+[02/03/19, 09:57:41:547] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 09:57:41:766] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 09:57:42:545] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 09:57:42:548] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 10:02:47:449] info: NetworkStatus: Waiting for network online…
+[02/03/19, 10:02:47:810] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 10:07:50:182] info: NetworkStatus: Waiting for network online…
+[02/03/19, 10:07:50:547] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:07:50:896] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 10:07:51:544] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:07:51:549] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 10:12:55:376] info: NetworkStatus: Waiting for network online…
+[02/03/19, 10:12:55:547] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:12:55:805] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 10:12:56:546] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:12:56:550] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 10:18:01:285] info: NetworkStatus: Waiting for network online…
+[02/03/19, 10:18:01:820] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 10:23:07:360] info: NetworkStatus: Waiting for network online…
+[02/03/19, 10:23:07:546] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:23:07:763] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 10:23:08:546] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:23:08:550] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 10:28:12:145] info: NetworkStatus: Waiting for network online…
+[02/03/19, 10:28:12:545] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:28:12:810] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 10:28:13:545] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:28:13:548] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 10:33:17:996] info: NetworkStatus: Waiting for network online…
+[02/03/19, 10:33:18:547] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:33:18:813] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 10:33:19:546] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:33:19:549] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 10:38:22:075] info: NetworkStatus: Waiting for network online…
+[02/03/19, 10:38:22:545] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:38:22:896] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 10:38:23:545] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:38:23:546] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 10:43:27:476] info: NetworkStatus: Waiting for network online…
+[02/03/19, 10:43:27:880] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 10:48:31:941] info: NetworkStatus: Waiting for network online…
+[02/03/19, 10:48:32:547] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:48:32:771] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 10:48:33:546] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:48:33:549] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 10:53:36:561] info: NetworkStatus: Waiting for network online…
+[02/03/19, 10:53:37:546] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:53:37:808] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 10:53:38:547] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:53:38:550] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 10:58:09:546] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 10:58:09:740] info: NetworkStatus: Waiting for network online…
+[02/03/19, 10:58:10:893] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 10:58:11:546] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 10:58:11:548] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 11:03:13:566] info: NetworkStatus: Waiting for network online…
+[02/03/19, 11:03:14:546] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:03:14:867] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 11:03:15:545] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:03:15:546] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 11:08:18:202] info: NetworkStatus: Waiting for network online…
+[02/03/19, 11:08:18:548] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:08:18:769] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 11:08:19:545] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:08:19:548] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 11:13:22:920] info: NetworkStatus: Waiting for network online…
+[02/03/19, 11:13:23:547] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:13:23:764] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 11:13:24:544] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:13:24:548] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 11:18:28:286] info: NetworkStatus: Waiting for network online…
+[02/03/19, 11:18:28:548] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:18:28:809] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 11:18:29:545] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:18:29:548] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 11:19:02:089] info: NetworkStatus: Waiting for network online…
+[02/03/19, 11:19:02:547] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:19:02:691] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 11:19:03:547] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:19:03:550] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 11:24:07:201] info: NetworkStatus: Waiting for network online…
+[02/03/19, 11:24:07:545] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:24:07:813] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 11:24:08:543] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:24:08:545] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 11:29:12:073] info: NetworkStatus: Waiting for network online…
+[02/03/19, 11:29:12:546] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:29:12:807] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 11:29:13:545] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:29:13:549] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 11:34:17:441] info: NetworkStatus: Waiting for network online…
+[02/03/19, 11:34:17:547] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:34:17:766] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 11:34:18:544] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:34:18:547] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 11:39:21:580] info: NetworkStatus: Waiting for network online…
+[02/03/19, 11:39:22:547] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:39:22:812] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 11:39:23:546] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:39:23:549] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 11:44:25:542] info: NetworkStatus: Waiting for network online…
+[02/03/19, 11:44:26:548] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:44:26:878] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 11:44:27:546] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:44:27:550] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 11:49:29:744] info: NetworkStatus: Waiting for network online…
+[02/03/19, 11:49:30:546] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:49:30:809] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 11:49:31:544] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:49:31:548] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 11:54:34:589] info: NetworkStatus: Waiting for network online…
+[02/03/19, 11:54:35:546] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 11:54:35:939] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 11:54:36:546] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 11:54:36:550] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 11:59:39:331] info: NetworkStatus: Waiting for network online…
+[02/03/19, 11:59:39:891] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 12:09:51:167] info: NetworkStatus: Waiting for network online…
+[02/03/19, 12:09:51:662] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 12:09:51:816] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 12:09:52:546] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 12:09:52:548] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 12:14:56:537] info: NetworkStatus: Waiting for network online…
+[02/03/19, 12:14:56:808] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 12:20:02:083] info: NetworkStatus: Waiting for network online…
+[02/03/19, 12:20:02:548] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 12:20:02:807] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 12:20:03:546] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 12:20:03:549] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 12:25:07:221] info: NetworkStatus: Waiting for network online…
+[02/03/19, 12:25:07:818] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 12:30:11:965] info: NetworkStatus: Waiting for network online…
+[02/03/19, 12:30:12:547] info: Store: SET_NETWORK_STATUS offline
+[02/03/19, 12:30:12:765] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/03/19, 12:30:13:550] info: Store: SET_NETWORK_STATUS online
+[02/03/19, 12:30:13:552] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[02/03/19, 12:30:19:324] info: Store: SET_SUSPEND_STATUS

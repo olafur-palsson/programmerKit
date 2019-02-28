@@ -2503,3 +2503,97 @@
 [11/30/18, 00:41:23:834] info: Store: SET_FULL_SCREEN
 [11/30/18, 00:41:23:842] info: Store: SET_FULL_SCREEN
 [11/30/18, 00:41:23:846] info: Store: SET_FULL_SCREEN
+[01/31/19, 15:07:18:254] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[01/31/19, 15:07:18:260] info: ║      Slack 3.3.7, linux 4.15.0-39-generic on x64 at 01/31/19, 15:07:18:248      ║
+[01/31/19, 15:07:18:260] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[01/31/19, 15:07:18:519] info: Initializing local storage instance at path: /home/bitchhunter3000/.config/Slack/local-settings.json
+[01/31/19, 15:07:20:381] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[01/31/19, 15:07:20:486] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[01/31/19, 15:07:20:990] info: Store: SET_NETWORK_STATUS online
+[01/31/19, 15:07:29:547] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "TCNRBMGLX"
+}
+[01/31/19, 15:07:29:747] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[01/31/19, 15:07:29:775] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[01/31/19, 15:07:29:854] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "TCNRBMGLX"
+}
+[01/31/19, 15:07:30:050] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "T9C6NUMBJ"
+}
+[01/31/19, 15:07:30:068] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "T8U7NRKQU"
+}
+[01/31/19, 15:07:30:336] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TDDMQEX8R"
+}
+[01/31/19, 15:07:30:349] info: Store: MAIN_WINDOW_SHOWN
+[02/02/19, 12:06:35:909] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[02/02/19, 12:06:35:910] info: ║      Slack 3.3.7, linux 4.15.0-39-generic on x64 at 02/02/19, 12:06:35:905      ║
+[02/02/19, 12:06:35:910] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[02/02/19, 12:06:36:215] info: Initializing local storage instance at path: /home/bitchhunter3000/.config/Slack/local-settings.json
+[02/02/19, 12:06:38:385] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[02/02/19, 12:06:38:502] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[02/02/19, 12:06:38:977] info: Store: SET_NETWORK_STATUS online
+[02/02/19, 12:06:50:616] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "TCNRBMGLX"
+}
+[02/02/19, 12:06:50:697] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T9C6NUMBJ"
+}
+[02/02/19, 12:06:50:927] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "TCNRBMGLX"
+}
+[02/02/19, 12:06:51:000] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "T9C6NUMBJ"
+}
+[02/02/19, 12:06:51:039] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T8U7NRKQU"
+}
+[02/02/19, 12:06:51:397] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": false,
+  "teamId": "T8U7NRKQU"
+}
+[02/02/19, 12:06:51:935] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TDDMQEX8R"
+}
+[02/02/19, 12:06:51:948] info: Store: MAIN_WINDOW_SHOWN

@@ -1,17 +1,23 @@
 VirtualBox GUI VM Selector Window 5.2.10_Ubuntu r121806 linux.amd64 (Jun 15 2018 16:14:07) release log
-00:00:00.462342 Log opened 2018-10-30T17:54:22.815629000Z
-00:00:00.462343 Build Type: release
-00:00:00.462345 OS Product: Linux
-00:00:00.462347 OS Release: 4.15.0-36-generic
-00:00:00.462348 OS Version: #39-Ubuntu SMP Mon Sep 24 16:19:09 UTC 2018
-00:00:00.462370 DMI Product Name: X540LA
-00:00:00.462379 DMI Product Version: 1.0       
-00:00:00.462426 Host RAM: 7878MB (7.6GB) total, 6455MB (6.3GB) available
-00:00:00.462430 Executable: /usr/lib/virtualbox/VirtualBox
-00:00:00.462431 Process ID: 2086
-00:00:00.462432 Package type: LINUX_64BITS_GENERIC (OSE)
-00:00:00.462454 Qt version: 5.11.2
-00:00:00.488094 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:00:00.766837 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1920x1080
-00:00:00.773283 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:02:19.684362 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.569493 Log opened 2019-01-26T19:57:31.961369000Z
+00:00:00.569494 Build Type: release
+00:00:00.569497 OS Product: Linux
+00:00:00.569498 OS Release: 4.15.0-39-generic
+00:00:00.569499 OS Version: #42-Ubuntu SMP Tue Oct 23 15:48:01 UTC 2018
+00:00:00.569521 DMI Product Name: X540LA
+00:00:00.569529 DMI Product Version: 1.0       
+00:00:00.569574 Host RAM: 7878MB (7.6GB) total, 5353MB (5.2GB) available
+00:00:00.569578 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.569579 Process ID: 6386
+00:00:00.569580 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.569602 Qt version: 5.11.2
+00:00:00.603216 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.911912 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1920x1080
+00:00:00.915573 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:02.947759 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:03.046485 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:08:14.363433 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:08:14.458717 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:08:59.396084 GUI: UIMediumEnumerator: Medium with key={74510050-010c-4cbc-8e41-3217cf1f45e9} created
+00:08:59.562423 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:09:45.576513 GUI: UIMediumEnumerator: Medium-enumeration finished!
