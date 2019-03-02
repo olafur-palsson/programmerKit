@@ -10,7 +10,7 @@ fi
 touch ~/projects/programmerkit
 
 echo "Copying .bashrc..."
-cp ~/.bashrc ~/projects/programmerkit
+cp ~/.*bashrc ~/projects/programmerkit
 echo "Copying .startuprc..."
 cp ~/.startuprc ~/projects/programmerkit
 echo "Copying .taskrc..."
@@ -28,7 +28,9 @@ echo "Copying .genericFiles..."
 cp ~/.genericFiles ~/projects/programmerkit -r
 echo "Copying .kde..."
 cp ~/.kde ~/projects/programmerkit -r
-echo "Copying kde config..."
+echo "Copying os config..."
+cd ~/.config/
+
 cp ~/.config ~/projects/programmerkit -r
 
 cd ~/projects/programmerkit 

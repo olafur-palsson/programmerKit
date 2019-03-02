@@ -151,11 +151,12 @@ Show Inline Previews=true
 Show Preview=false
 Show Speedbar=false
 Show hidden files=false
-Sort by=Name
+Sort by=Date
 Sort directories first=true
-Sort reversed=false
+Sort reversed=true
 Speedbar Width=129
-View Style=Simple
+View Style=DetailTree
+detailedViewIconSize=0
 listViewIconSize=0
 
 [KShortcutsDialog Settings]
